@@ -142,17 +142,17 @@
 		"Soft drinks"
 	],
 	"colours" : [
-		"White",
-		"Blue",
-		"Red",
-		"Green ",
-		"Purple",
-		"Yellow",
-		"Orange",
-		"Black",
-		"Pink",
-		"Gold",
-		"Silver"
+		"Biela",
+		"Modrá",
+		"Červená",
+		"Zelená",
+		"Fialová",
+		"Žltá",
+		"Oranžová",
+		"Čierna",
+		"Ružová",
+		"Zlatá",
+		"Strieborná"
 	],
 	"basicCategories" : [
 		"Movie (can be 'The _____')",
@@ -241,16 +241,16 @@
 	],
 	"playingCards" : {
 		"suit" : [
-			"Hearts",
-			"Diamonds",
-			"Clubs",
-			"Spades"
+			"Srdcia",
+			"Kára",
+			"Trefy",
+			"Piky"
 		],
 		"value" : [
-			"Ace",
-			"King",
-			"Queen",
-			"Jack",
+			"Eso",
+			"Kráľ",
+			"Kráľovná",
+			"Páža",
 			"10",
 			"9",
 			"8",
@@ -614,18 +614,18 @@
 		"Kylie Minogue"
 	],
 	"starSigns" : [
-		"Aries",
-		"Taurus",
-		"Gemini",
-		"Cancer",
-		"Leo",
-		"Virgo",
-		"Libra",
-		"Scorpio",
-		"Sagittarius",
-		"Capricorn",
-		"Aquarius",
-		"Pisces"
+		"Baran",
+		"Býk",
+		"Blíženci",
+		"Rak",
+		"Lev",
+		"Panna",
+		"Váhy",
+		"Škorpión",
+		"Strelec",
+		"Kozorožec",
+		"Vodnár",
+		"Ryby"
 	],
 	"guyJokes" : [
 		["What’s the fastest way to a man’s heart?", "Through his chest with a sharp knife."],
@@ -713,15 +713,15 @@
 	],
 	"countries" : [
 		"India",
-		"Russia",
-		"Brazil",
-		"New Zealand",
-		"Spain",
+		"Rusko",
+		"Brazília",
+		"Nový Zéland",
+		"Španielsko",
 		"USA",
-		"Turkey",
-		"Argentina",
-		"Cuba",
-		"Ireland"
+		"Turecko",
+		"Argentína",
+		"Kuba",
+		"Írsko"
 	],
 	"alcoholInfo" : [
 		"The \"alcohol\" in alcoholic beverages such as wine, beer, and spirits is actually ethanol, or ethyl alcohol. It’s the only type of alcohol that you can drink without causing serious damage to your body.",
