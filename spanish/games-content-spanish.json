@@ -1,66 +1,66 @@
 {
-	"charades" : [
-		"Vertigo",
+	"charades": [
+		"Vértigo",
 		"Titanic",
 		"Ghostbusters",
 		"Saw",
-		"The Dark Knight",
-		"12 Angry Men",
+		"El Caballero de La Noche",
+		"12 Homebres En Pugna",
 		"Shrek",
-		"Pulp Fiction",
-		"The Godfather",
+		"Tiempos Violentos",
+		"El Padrino",
 		"Fight Club",
 		"Toy Story 3",
 		"The Matrix",
-		"Alien",
-		"Home Alone",
-		"The Lion, the Witch and the Wardrobe",
-		"Black Swan",
-		"The Departed",
-		"The Lion King",
-		"Twilight",
+		"Alien: El 8.o Pasajero",
+		"Solo en Casa",
+		"El Leon, la Bruja y el Ropero",
+		"Cisne Negro",
+		"Los infiltrados",
+		"El Rey León",
+		"Crepusculo",
 		"Aladdin",
 		"Kung-Fu Panda",
 		"X-Men",
 		"Jaws",
-		"Psycho",
-		"The Birds",
+		"Psicosis",
+		"Los Pajaros",
 		"Iron Man",
-		"Braveheart",
+		"Corazón Valiente",
 		"Lord of the Rings",
-		"The Little Mermaid",
-		"The Wizard of Oz",
+		"La Sirenita",
+		"El Mago de Oz",
 		"Forrest Gump",
 		"Hairspray",
-		"American Beauty",
-		"The Simpsons",
+		"Belleza Americana",
+		"Los Simpsons",
 		"Top Gear",
 		"South Park",
 		"The IT Crowd",
-		"Suits",
-		"Game of Thrones",
+		"Trajes",
+		"Juego De Tronos",
 		"The Wire",
 		"Gossip Girl",
 		"Arrested Development",
-		"Revenge",
-		"The Sopranos",
+		"Venganza",
+		"Los Sopranos",
 		"That '70s Show",
-		"Friends",
+		"Amigos",
 		"House",
-		"Sex and the City",
-		"Modern Family",
+		"Sexo En La Ciudad",
+		"Familia Moderna",
 		"The West Wing",
-		"Breaking Bad",
+		"Metástasis",
 		"Entourage",
 		"Homeland",
 		"Family Guy",
-		"How I Met Your Mother",
-		"Dora the Explorer",
-		"Grey's Anatomy",
+		"Cómo Conocí a tu Madre ",
+		"Dora la Exploradora",
+		"A Corazon Abierto",
 		"The Amazing Race",
-		"The Office",
+		"La Officina",
 		"Star Trek",
-		"Neighbours",
+		"Vecinos",
 		"Mr Bean",
 		"Flight of the Conchords",
 		"The Big Bang Theory",
@@ -69,10 +69,10 @@
 		"Doctor Who",
 		"Keeping Up With the Kardashians",
 		"Mythbusters",
-		"Big Brother",
-		"The X Files"
+		"Gran Hermano",
+		"Los Expedientes Secretos X"
 	],
-	"categories" : [
+	"categories": [
 		"Famous Painters",
 		"Basketballers",
 		"Tennis Players",
@@ -141,7 +141,7 @@
 		"Beer brands",
 		"Soft drinks"
 	],
-	"colours" : [
+	"colours": [
 		"White",
 		"Blue",
 		"Red",
@@ -154,14 +154,14 @@
 		"Gold",
 		"Silver"
 	],
-	"basicCategories" : [
+	"basicCategories": [
 		"Movie (can be 'The _____')",
 		"Food",
 		"Animal",
 		"Country",
 		"Actor or Actress"
 	],
-	"easyLetters" : [
+	"easyLetters": [
 		"A",
 		"B",
 		"C",
@@ -179,7 +179,7 @@
 		"S",
 		"T"
 	],
-	"tongueTwisters" : [
+	"tongueTwisters": [
 		"Peter Piper picked a peck of pickled peppers.  A peck of pickled peppers Peter Piper picked.",
 		"How much wood would a woodchuck chuck if a woodchuck could chuck wood?",
 		"I saw Susie sitting in a shoe shine shop.  Where she sits she shines, and where she shines she sits.",
@@ -191,7 +191,7 @@
 		"Six sick hicks nick six slick bricks",
 		"One-one was a race horse. Two-two was one too.  One-one won one race.  Two-two won one too."
 	],
-	"famousSongs" : [
+	"famousSongs": [
 		"Mack The Knife - Bobby Darin",
 		"Umbrella - Rihanna",
 		"I Kissed A Girl - Katy Perry",
@@ -239,14 +239,14 @@
 		"Firework - Katy Perry",
 		"No Scrubs - TLC"
 	],
-	"playingCards" : {
-		"suit" : [
+	"playingCards": {
+		"suit": [
 			"Hearts",
 			"Diamonds",
 			"Clubs",
 			"Spades"
 		],
-		"value" : [
+		"value": [
 			"Ace",
 			"King",
 			"Queen",
@@ -262,7 +262,7 @@
 			"2"
 		]
 	},
-	"spellBackwards" : [
+	"spellBackwards": [
 		"across",
 		"against",
 		"answer",
@@ -371,7 +371,7 @@
 		"yell",
 		"young"
 	],
-	"doodles" : [
+	"doodles": [
 		"Angel",
 		"Eyeball",
 		"Pizza",
@@ -533,9 +533,9 @@
 		"light",
 		"bulb",
 		"platypus",
-		"music"			
+		"music"
 	],
-	"famousPeople" : [
+	"famousPeople": [
 		"Justin Timberlake",
 		"Gwen Stefani",
 		"Britney Spears",
@@ -613,7 +613,7 @@
 		"Brad Pitt",
 		"Kylie Minogue"
 	],
-	"starSigns" : [
+	"starSigns": [
 		"Aries",
 		"Taurus",
 		"Gemini",
@@ -627,7 +627,7 @@
 		"Aquarius",
 		"Pisces"
 	],
-	"guyJokes" : [
+	"guyJokes": [
 		["What’s the fastest way to a man’s heart?", "Through his chest with a sharp knife."],
 		["Why shouldn’t you let a man’s mind wander?", "Because it’s way too little to be out all alone."],
 		["How are men like parking spaces?", "All the good ones are taken, and the ones leftover are disabled."],
@@ -652,7 +652,7 @@
 		["How come it’s so hard to make a fool out of a man?", "Because most of them are the DIY type in that way."],
 		["Love is blind.", "Marrying a man, on the other hand, is a real eye opener."]
 	],
-	"girlJokes" : [
+	"girlJokes": [
 		["How do you know when a woman is about to say something smart?", "When she starts her sentence with, \"A man once told me...\""],
 		["How are women and tornadoes alike?", "They both moan like hell when they come, and take the house when they leave."],
 		["When can women make you a millionaire?", "When you're a billionaire."],
@@ -674,7 +674,7 @@
 		["Why do women rub their eyes when they wake up?", "Because they don't have balls to scratch."],
 		["Why do women fake orgasms?", "Because they think men care."]
 	],
-	"impersonations" : [
+	"impersonations": [
 		"Sean Connery",
 		"Sylvester Stallone",
 		"Arnold Schwarzenegger",
@@ -697,7 +697,7 @@
 		"Batman",
 		"Eric Cartman"
 	],
-	"accents" : [
+	"accents": [
 		"Indian",
 		"Australian",
 		"Jamaican",
@@ -711,7 +711,7 @@
 		"Scottish",
 		"French"
 	],
-	"countries" : [
+	"countries": [
 		"India",
 		"Russia",
 		"Brazil",
@@ -723,7 +723,7 @@
 		"Cuba",
 		"Ireland"
 	],
-	"alcoholInfo" : [
+	"alcoholInfo": [
 		"The \"alcohol\" in alcoholic beverages such as wine, beer, and spirits is actually ethanol, or ethyl alcohol. It’s the only type of alcohol that you can drink without causing serious damage to your body.",
 		"Alcohol is a depressant. This means that it slows down activity in the brain.",
 		"Alcohol has a wide variety of effects. In the brain, it triggers the release of dopamine, a neurotransmitter that’s associated with pleasure and satisfaction.",
@@ -747,208 +747,205 @@
 		"Dark liquors, such as red wine or whiskey, are more likely to result in severe hangovers. White or clear liquors are less likely to result in a hangover.",
 		"Muscles absorb alcohol faster than fat. As a result, people who have more muscles and less body fat have higher alcohol tolerance."
 	],
-	"multipleChoiceQuiz" : [
-		{
-			"question" : "Who was the second person to set foot on the moon?",
-			"answer" : "Buzz Aldrin",
-			"dummys" : ["Alan Bean", "Neil Armstrong", "Pete Conrad"]
+	"multipleChoiceQuiz": [{
+			"question": "Who was the second person to set foot on the moon?",
+			"answer": "Buzz Aldrin",
+			"dummys": ["Alan Bean", "Neil Armstrong", "Pete Conrad"]
 		},
 		{
-			"question" : "Who was the second person to climb Mount Everest?",
-			"answer" : "Tenzing Norgay",
-			"dummys" : ["Edmund Hillary", "Jürg Marmet", "Ernst Schmied"]
+			"question": "Who was the second person to climb Mount Everest?",
+			"answer": "Tenzing Norgay",
+			"dummys": ["Edmund Hillary", "Jürg Marmet", "Ernst Schmied"]
 		},
 		{
-			"question" : "Who was the first person to reach the South Pole?",
-			"answer" : "Roald Amundsen",
-			"dummys" : ["Robert Falcon Scott", "Sir Ernest Shackleton", "Nobu Shirase"]
+			"question": "Who was the first person to reach the South Pole?",
+			"answer": "Roald Amundsen",
+			"dummys": ["Robert Falcon Scott", "Sir Ernest Shackleton", "Nobu Shirase"]
 		},
 		{
-			"question" : "Which country won the first football/soccer world cup?",
-			"answer" : "Uruguay",
-			"dummys" : ["Argentina", "Brazil", "England"]
+			"question": "Which country won the first football/soccer world cup?",
+			"answer": "Uruguay",
+			"dummys": ["Argentina", "Brazil", "England"]
 		}
 	],
-	"truthOrDare" : {
-		"truths" : [
-			{
-				"question" : "What would you do if you were the opposite sex for a month?",
-				"drinkValue" : 2
+	"truthOrDare": {
+		"truths": [{
+				"question": "What would you do if you were the opposite sex for a month?",
+				"drinkValue": 2
 			},
 			{
-				"question" : "What is the most expensive thing you have stolen?",
-				"drinkValue" : 2
+				"question": "What is the most expensive thing you have stolen?",
+				"drinkValue": 2
 			},
 			{
-				"question" : "What is the most childish thing you still do?",
-				"drinkValue" : 1
+				"question": "What is the most childish thing you still do?",
+				"drinkValue": 1
 			},
 			{
-				"question" : "Have you ever let someone take the blame for something you did?",
-				"drinkValue" : 2
+				"question": "Have you ever let someone take the blame for something you did?",
+				"drinkValue": 2
 			},
 			{
-				"question" : "What is the meanest you have been to someone that didn’t deserve it?",
-				"drinkValue" : 2
+				"question": "What is the meanest you have been to someone that didn’t deserve it?",
+				"drinkValue": 2
 			},
 			{
-				"question" : "What is something that people think you would never do but you have?",
-				"drinkValue" : 1
+				"question": "What is something that people think you would never do but you have?",
+				"drinkValue": 1
 			},
 			{
-				"question" : "What was the worst encounter you had with a police officer?",
-				"drinkValue" : 1
+				"question": "What was the worst encounter you had with a police officer?",
+				"drinkValue": 1
 			},
 			{
-				"question" : "What is your deepest darkest fear?",
-				"drinkValue" : 3
+				"question": "What is your deepest darkest fear?",
+				"drinkValue": 3
 			},
 			{
-				"question" : "Tell everyone about your first kiss.",
-				"drinkValue" : 2
+				"question": "Tell everyone about your first kiss.",
+				"drinkValue": 2
 			},
 			{
-				"question" : "Where is the strangest place you have peed?",
-				"drinkValue" : 1
+				"question": "Where is the strangest place you have peed?",
+				"drinkValue": 1
 			},
 			{
-				"question" : "Who is the sexiest person here?",
-				"drinkValue" : 1
+				"question": "Who is the sexiest person here?",
+				"drinkValue": 1
 			},
 			{
-				"question" : "What terrible thing have you done that you lied to cover up?",
-				"drinkValue" : 3
+				"question": "What terrible thing have you done that you lied to cover up?",
+				"drinkValue": 3
 			},
 			{
-				"question" : "Who have you loved but they didn’t love you back?",
-				"drinkValue" : 2
+				"question": "Who have you loved but they didn’t love you back?",
+				"drinkValue": 2
 			},
 			{
-				"question" : "What is something that you have never told anyone?",
-				"drinkValue" : 2
+				"question": "What is something that you have never told anyone?",
+				"drinkValue": 2
 			},
 			{
-				"question" : "What is the most disgusting habit you have?",
-				"drinkValue" : 1
+				"question": "What is the most disgusting habit you have?",
+				"drinkValue": 1
 			},
 			{
-				"question" : "What is the most embarrassing thing you have put up on social media?",
-				"drinkValue" : 1
+				"question": "What is the most embarrassing thing you have put up on social media?",
+				"drinkValue": 1
 			},
 			{
-				"question" : "What was the most awkward romantic encounter you have had?",
-				"drinkValue" : 1
+				"question": "What was the most awkward romantic encounter you have had?",
+				"drinkValue": 1
 			},
 			{
-				"question" : "What is the grossest thing you have had in your mouth?",
-				"drinkValue" : 2
+				"question": "What is the grossest thing you have had in your mouth?",
+				"drinkValue": 2
 			},
 			{
-				"question" : "What is the biggest lie you have ever told?",
-				"drinkValue" : 3
+				"question": "What is the biggest lie you have ever told?",
+				"drinkValue": 3
 			},
 			{
-				"question" : "What is the most embarrassing photo you have on your phone?",
-				"drinkValue" : 3
+				"question": "What is the most embarrassing photo you have on your phone?",
+				"drinkValue": 3
 			},
 			{
-				"question" : "What is the weirdest thing you have done for a boyfriend or girlfriend?",
-				"drinkValue" : 3
+				"question": "What is the weirdest thing you have done for a boyfriend or girlfriend?",
+				"drinkValue": 3
 			},
 			{
-				"question" : "When was the last time you picked your nose without a tissue?",
-				"drinkValue" : 1
+				"question": "When was the last time you picked your nose without a tissue?",
+				"drinkValue": 1
 			},
 			{
-				"question" : "Tell us your most embarrassing vomit story.",
-				"drinkValue" : 1
+				"question": "Tell us your most embarrassing vomit story.",
+				"drinkValue": 1
 			},
 			{
-				"question" : "Have you ever made out with someone here?",
-				"drinkValue" : 2
+				"question": "Have you ever made out with someone here?",
+				"drinkValue": 2
 			},
 			{
-				"question" : "What would you do if you were the opposite gender for a day?",
-				"drinkValue" : 1
+				"question": "What would you do if you were the opposite gender for a day?",
+				"drinkValue": 1
 			}
 		],
-		"dares" : [
-			{
-				"question" : "Let the group pose you in an embarrassing position and take a picture.",
-				"drinkValue" :2
+		"dares": [{
+				"question": "Let the group pose you in an embarrassing position and take a picture.",
+				"drinkValue": 2
 			},
 			{
-				"question" : "Curse like sailor for 20 seconds straight.",
-				"drinkValue" : 1
+				"question": "Curse like sailor for 20 seconds straight.",
+				"drinkValue": 1
 			},
 			{
-				"question" : "Do four cartwheels in row.",
-				"drinkValue" : 3
+				"question": "Do four cartwheels in row.",
+				"drinkValue": 3
 			},
 			{
-				"question" : "Lick the floor.",
-				"drinkValue" : 2
+				"question": "Lick the floor.",
+				"drinkValue": 2
 			},
 			{
-				"question" : "Let the group pose you in an embarrassing position and take a picture.",
-				"drinkValue" : 3
+				"question": "Let the group pose you in an embarrassing position and take a picture.",
+				"drinkValue": 3
 			},
 			{
-				"question" : "Let the group give you a new hairstyle.",
-				"drinkValue" : 2
+				"question": "Let the group give you a new hairstyle.",
+				"drinkValue": 2
 			},
 			{
-				"question" : "Do the worm.",
-				"drinkValue" : 2
+				"question": "Do the worm.",
+				"drinkValue": 2
 			},
 			{
-				"question" : "Get slapped on the face by the person of your choosing.",
-				"drinkValue" : 1
+				"question": "Get slapped on the face by the person of your choosing.",
+				"drinkValue": 1
 			},
 			{
-				"question" : "Spin an imaginary hula hoop around your waist for 3 minutes while the game continues.",
-				"drinkValue" : 2
+				"question": "Spin an imaginary hula hoop around your waist for 3 minutes while the game continues.",
+				"drinkValue": 2
 			},
 			{
-				"question" : "Make a funny face and keep making it for 2 minutes while the game continues.",
-				"drinkValue" : 2
+				"question": "Make a funny face and keep making it for 2 minutes while the game continues.",
+				"drinkValue": 2
 			},
 			{
-				"question" : "Remove your socks with your teeth.",
-				"drinkValue" : 2
+				"question": "Remove your socks with your teeth.",
+				"drinkValue": 2
 			},
 			{
-				"question" : "Howl like a wolf for 30 seconds.",
-				"drinkValue" : 2
+				"question": "Howl like a wolf for 30 seconds.",
+				"drinkValue": 2
 			},
 			{
-				"question" : "Until your next turn, talk super loud, like nobody can hear you.",
-				"drinkValue" : 1
+				"question": "Until your next turn, talk super loud, like nobody can hear you.",
+				"drinkValue": 1
 			},
 			{
-				"question" : "Make out with your hand.",
-				"drinkValue" : 1
+				"question": "Make out with your hand.",
+				"drinkValue": 1
 			},
 			{
-				"question" : "Talk without closing your mouth until your next turn.",
-				"drinkValue" : 1
+				"question": "Talk without closing your mouth until your next turn.",
+				"drinkValue": 1
 			},
 			{
-				"question" : "Get into a debate with a wall.",
-				"drinkValue" : 2
+				"question": "Get into a debate with a wall.",
+				"drinkValue": 2
 			},
 			{
-				"question" : "Call a random number and try to flirt with the person who picks up.",
-				"drinkValue" : 3
+				"question": "Call a random number and try to flirt with the person who picks up.",
+				"drinkValue": 3
 			},
 			{
-				"question" : "Lick a doorknob.",
-				"drinkValue" : 2
+				"question": "Lick a doorknob.",
+				"drinkValue": 2
 			},
 			{
-				"question" : "Take a selfie with the toilet and post it online.",
-				"drinkValue" : 2
+				"question": "Take a selfie with the toilet and post it online.",
+				"drinkValue": 2
 			}
 		]
-	}	
+	}
 }
