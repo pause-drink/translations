@@ -155,11 +155,11 @@
 		"Plata"
 	],
 	"basicCategories": [
-		"Movie (can be 'The _____')",
-		"Food",
+		"Película (puede ser 'El _____')",
+		"Comida",
 		"Animal",
-		"Country",
-		"Actor or Actress"
+		"País",
+		"Actor or Actriz"
 	],
 	"easyLetters": [
 		"A",
