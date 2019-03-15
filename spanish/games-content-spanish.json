@@ -241,15 +241,15 @@
 	],
 	"playingCards": {
 		"suit": [
-			"Hearts",
-			"Diamonds",
+			"Copas",
+			"Diamentes",
 			"Clubs",
-			"Spades"
+			"Espadas"
 		],
 		"value": [
-			"Ace",
-			"King",
-			"Queen",
+			"As",
+			"Rey",
+			"Reyna",
 			"Jack",
 			"10",
 			"9",
