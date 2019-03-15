@@ -155,11 +155,11 @@
 		"Strieborná"
 	],
 	"basicCategories" : [
-		"Movie (can be 'The _____')",
-		"Food",
-		"Animal",
-		"Country",
-		"Actor or Actress"
+		"Film (môže byť 'The _____')",
+		"Jedlo",
+		"Zviera",
+		"Krajina",
+		"Herec alebo Herečka"
 	],
 	"easyLetters" : [
 		"A",
@@ -698,18 +698,18 @@
 		"Eric Cartman"
 	],
 	"accents" : [
-		"Indian",
-		"Australian",
-		"Jamaican",
-		"Russian",
-		"American",
-		"Italian",
-		"Swedish",
-		"Irish",
-		"Kiwi",
-		"English",
-		"Scottish",
-		"French"
+		"indický",
+		"austrálsky",
+		"jamajský",
+		"ruský",
+		"americký",
+		"taliansky",
+		"švédsky",
+		"írsky",
+		"novozélandský",
+		"britský",
+		"škótsky",
+		"francúzsky"
 	],
 	"countries" : [
 		"India",
