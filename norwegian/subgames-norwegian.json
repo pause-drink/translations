@@ -1,21 +1,21 @@
 [{
         "objectType": "subgame",
-        "name": "Name Swap",
+        "name": "Navnebytte",
         "key": "f67e9200_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Swap names with the player who's turn it is next for the rest of the game.  Whenever ANYBODY calls either of you by your former name they drink!",
+            "description": "Bytt navn med spilleren som er etter deg for til spillet er ferdig. Når noen bruker ett av deres tidligere navn, må de drikke!",
             "content": false,
             "category": "Rule"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Round the sun",
+        "name": "Rundt sola",
         "key": "bb98c83d_ba0d_464d_8694_a453df0f927e",
         "details": {
             "subgameType": "standard",
-            "description": "The player who's birthday is the closest to today drink 3!",
+            "description": "Spilleren som har bursdag nærmest i dag, må drikke 3!",
             "content": false,
             "category": "Profile"
         }
