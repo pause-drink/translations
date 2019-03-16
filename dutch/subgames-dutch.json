@@ -44,18 +44,18 @@
     },
     {
         "objectType": "subgame",
-        "name": "Toothless",
+        "name": "Tandloos",
         "key": "c214144e_a54f_4dd8_86dc_5d287aaed772",
         "details": {
             "subgameType": "standard",
-            "description": "Laat voor de rest van het spel niet meer je tanden zijn. Neem telkens een slok als je die witte makkers toch laat shinen.",
+            "description": "Laat voor de rest van het spel niet meer je tanden zien. Neem telkens een slok als je die witte makkers toch laat shinen.",
             "content": false,
             "category": "Rule"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Finish it",
+        "name": "Opdrinken die handel",
         "key": "f681ed60_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
@@ -77,7 +77,7 @@
     },
     {
         "objectType": "subgame",
-        "name": "Last Names Only",
+        "name": "Alleen nog maar achternamen",
         "key": "f682d7c0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
@@ -110,7 +110,7 @@
     },
     {
         "objectType": "subgame",
-        "name": "Seat Swap",
+        "name": "Stoelendans",
         "key": "f6841040_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
@@ -132,7 +132,7 @@
     },
     {
         "objectType": "subgame",
-        "name": "Star Signs",
+        "name": "Sterrenbeelden",
         "key": "f6848570_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "contentBasic",
@@ -154,7 +154,7 @@
     },
     {
         "objectType": "subgame",
-        "name": "Who runs the world?",
+        "name": "Wie heersen er over de wereld?",
         "key": "f68596e0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "contentJoke",
@@ -165,7 +165,7 @@
     },
     {
         "objectType": "subgame",
-        "name": "It's a man's world",
+        "name": "Het is een mannenwereld",
         "key": "f685bdf0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "contentJoke",
@@ -176,7 +176,7 @@
     },
     {
         "objectType": "subgame",
-        "name": "Students",
+        "name": "Studenten",
         "key": "f6865a30_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
@@ -187,7 +187,7 @@
     },
     {
         "objectType": "subgame",
-        "name": "Set the bar",
+        "name": "Leg de lat",
         "key": "f686a850_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
@@ -198,7 +198,7 @@
     },
     {
         "objectType": "subgame",
-        "name": "Rewind",
+        "name": "Terugspoelen",
         "key": "f686f670_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
@@ -220,7 +220,7 @@
     },
     {
         "objectType": "subgame",
-        "name": "Repeater",
+        "name": "Herhaler",
         "key": "f6876ba0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
@@ -231,7 +231,7 @@
     },
     {
         "objectType": "subgame",
-        "name": "Multi-lingual",
+        "name": "Meertalig",
         "key": "f68792b0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
@@ -242,7 +242,7 @@
     },
     {
         "objectType": "subgame",
-        "name": "Thumb Master",
+        "name": "Duimmeester",
         "key": "f687b9c0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
@@ -264,7 +264,7 @@
     },
     {
         "objectType": "subgame",
-        "name": "Over the top",
+        "name": "Krachtpatsers",
         "key": "f68807e0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
@@ -275,7 +275,7 @@
     },
     {
         "objectType": "subgame",
-        "name": "T-rex",
+        "name": "Dino",
         "key": "f6885600_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
@@ -330,7 +330,7 @@
     },
     {
         "objectType": "subgame",
-        "name": "Fastest Tapper",
+        "name": "Snelste renner",
         "key": "5cb87b07_160d_11e8_a7c5_d7bf8118b9c6",
         "details": {
             "subgameType": "canvas",
@@ -407,7 +407,7 @@
     },
     {
         "objectType": "subgame",
-        "name": "Snake Eyes",
+        "name": "Slangenogen",
         "key": "f68a9ff0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
@@ -429,18 +429,18 @@
     },
     {
         "objectType": "subgame",
-        "name": "Drinking solo",
+        "name": "Alcoholist",
         "key": "f68b1520_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Never drink alone... except now... drink alone now.",
+            "description": "Drink nooit alleen... behalve nu... neem in je eentje een slok.",
             "content": false,
             "category": "Solo"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Drink like a Lady",
+        "name": "Drink als een vrouw",
         "key": "f68b8a50_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
@@ -462,73 +462,73 @@
     },
     {
         "objectType": "subgame",
-        "name": "Take Two",
+        "name": "Neem er twee",
         "key": "f68bd870_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Have a couple of drinks just for yourself.",
+            "description": "Neem een paar slokken alleen voor jezelf.",
             "content": false,
             "category": "Solo"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Take Three",
+        "name": "Neem er drie",
         "key": "f68bff80_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Have a few drinkies just for you.",
+            "description": "Speciaal voor jou een paar slokken.",
             "content": false,
             "category": "Solo"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Nominate One",
+        "name": "Uitdelen maar (1)!",
         "key": "f68c2690_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Choose your victim for one drink nomination.",
+            "description": "Kies het slachtoffer waaraan je een slok uit mag delen.",
             "content": false,
             "category": "Power"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Nominate Two",
+        "name": "Uitdelen maar (2)!",
         "key": "f68c4da0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Choose one victim or spread your two drink nominations out.",
+            "description": "Verdeel twee slokken over een of twee zelfgekozen spelers.",
             "content": false,
             "category": "Power"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Nominate Three",
+        "name": "Uitdelen maar (3)!",
         "key": "f68c74b0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Choose one victim or spread your three drink nominations out.",
+            "description": "Verdeel drie slokken over één of meerdere zelfgekozen spelers.",
             "content": false,
             "category": "Power"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Speak with a lisp",
+        "name": "Spreek met een hazelip",
         "key": "f68c9bc0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Speak with a lisp for the rest of the game!  If you get caught breaking character... drink.",
+            "description": "Spreek met een hazelip voor de rest van het spel! Neem een slok indien je hier onderuit probeert te komen...",
             "content": false,
             "category": "Rule"
         }
     },
     {
         "objectType": "subgame",
-        "name": "One Truth, Two Lies",
+        "name": "Een waarheid, twee leugens",
         "key": "f68cc2d0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
@@ -617,7 +617,7 @@
         "key": "f68e2261_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Put on some lipstick or drink two.",
+            "description": "Doe een beetje lippenstift op óf neem twee slokken.",
             "content": false,
             "category": "Dare"
         }
@@ -628,7 +628,7 @@
         "key": "f68e7080_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Let someone draw a stylish pencil moustache on you, or drink two.",
+            "description": "Laat iemand met een potlood een stijlvolle snor op je tekenen. Neem anders twee slokken.",
             "category": "Dare"
         }
     },
@@ -638,7 +638,7 @@
         "key": "f68e9790_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "timer",
-            "description": "Attempt Michael Jackson's \"moon walk\" and other classic Michael moves for 30 seconds without breaking character or drink 3.",
+            "description": "Doe Michael Jackson's \"moon walk\" en andere classic moves van Michael na voor 30 seconden. Indien je dit niet lukt of volhoudt neem je drie slokken.",
             "time": 30,
             "category": "Dare"
         }
@@ -678,22 +678,22 @@
     },
     {
         "objectType": "subgame",
-        "name": "Hug Someone",
+        "name": "Knuffelbeer",
         "key": "f68f33d0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "quickTimer",
-            "description": "Hug another player within 10 seconds or drink.",
+            "description": "Knuffel een andere speler binnen tien seconden of neem een slok.",
             "time": 10,
             "category": "Challenge"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Frog Prince",
+        "name": "Kikkerprins",
         "key": "f68f5ae0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "quickTimer",
-            "description": "Convince another player to kiss your cheek in 10 seconds or drink.",
+            "description": "Overtuig een andere speler je een kus op de wang te geven binnen 10 seconden. Indien dit niet lukt neem je een slok.",
             "time": 10,
             "category": "Challenge"
         }
@@ -772,7 +772,7 @@
     },
     {
         "objectType": "subgame",
-        "name": "Who am I?",
+        "name": "Wie ben ik?",
         "key": "f690e180_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "timedReveal",
@@ -784,11 +784,11 @@
     },
     {
         "objectType": "subgame",
-        "name": "Tongue Twister",
+        "name": "Tongbrekers",
         "key": "f6912fa0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "timedReveal",
-            "description": "Say the tongue twister perfectly... WITH YOUR EYES CLOSED. Once you reveal it, you'll have 30 seconds! Fail and drink 2!",
+            "description": "Zeg de tongbreker zonder je tong te breken. MET JE OGEN DICHT. Wanneer iedereen het heeft gezien heb je dertig seconden de tijd! Bij het mislukken hiervan neem je twee slokken.",
             "content": "tongueTwisters",
             "time": 30,
             "category": "Challenge"
@@ -800,7 +800,7 @@
         "key": "f6917dc0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "quickTimer",
-            "description": "Name seven alternative or slang words for penis in one minute or drink.",
+            "description": "Geef binnen één minuut zeven alternatieve benamingen of koosnamen voor 'penis', indien dit niet lukt neem je een slok.",
             "time": 60,
             "category": "Challenge"
         }
@@ -811,18 +811,18 @@
         "key": "f691cbe0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "quickTimer",
-            "description": "Name seven alternative or slang words for vagina in one minute or drink.",
+            "description": "Geef binnen één minuut zeven alternatieve benamingen of koosnamen voor 'vagina', indien dit niet lukt neem je een slok.",
             "time": 60,
             "category": "Challenge"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Breasts",
+        "name": "Borsten",
         "key": "f691f2f0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "quickTimer",
-            "description": "Name seven alternative or slang words for breasts in one minute or drink.",
+            "description": "Geef binnen één minuut zeven alternatieve benamingen of koosnamen voor 'borsten', indien dit niet lukt neem je een slok.",
             "time": 60,
             "category": "Challenge"
         }
@@ -862,7 +862,7 @@
     },
     {
         "objectType": "subgame",
-        "name": "Sex positions",
+        "name": "Standjes",
         "key": "f6926820_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
@@ -895,7 +895,7 @@
     },
     {
         "objectType": "subgame",
-        "name": "Ship came into the harbour",
+        "name": "Schip komt de haven binnen",
         "key": "f6932b70_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
@@ -976,7 +976,7 @@
         "key": "c18ad7c0_e27a_4dc2_8c80_661057c2054b",
         "details": {
             "subgameType": "truthOrDare",
-            "description": "Select Truth or Dare. If you can't answer or complete the dare then take the number of drinks specified!",
+            "description": "Selecteer 'Truth' of 'Dare'. Indien je het niet kan beantwoorden of na kunt komen neem je het aantal aangegeven slokken!",
             "content": "truthOrDare",
             "category": "Dare"
         }
