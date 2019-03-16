@@ -4,7 +4,7 @@
         "key": "f67e9200_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Swap names with the player who's turn it is next for the rest of the game.  Whenever ANYBODY calls either of you by your former name they drink!",
+            "description": "Ruil van naam met degene die na jou aan de beurt is voor de rest van het spel. Wanneer ook maar iemand een van jullie bij je echte naam roept moet die persoon een slok nemen!",
             "content": false,
             "category": "Rule"
         }
@@ -15,7 +15,7 @@
         "key": "bb98c83d_ba0d_464d_8694_a453df0f927e",
         "details": {
             "subgameType": "standard",
-            "description": "The player who's birthday is the closest to today drink 3!",
+            "description": "De speler wie zijn verjaardag het dichtste bij vandaag ligt moet 3 slokken nemen!",
             "content": false,
             "category": "Profile"
         }
@@ -26,7 +26,7 @@
         "key": "f6815120_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "All players have a drink!",
+            "description": "Alle spelers moeten een slok nemen!",
             "content": false,
             "category": "Everybody"
         }
@@ -48,7 +48,7 @@
         "key": "c214144e_a54f_4dd8_86dc_5d287aaed772",
         "details": {
             "subgameType": "standard",
-            "description": "Don't show your teeth for the rest of the game!  Drink each time you show those pearly whites.",
+            "description": "Laat voor de rest van het spel niet meer je tanden zijn. Neem telkens een slok als je die witte makkers toch laat shinen.",
             "content": false,
             "category": "Rule"
         }
@@ -59,7 +59,7 @@
         "key": "f681ed60_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "players with clearly less than quarter of a drink, finish it off!",
+            "description": "Spelers die overduidelijk nog een kwart of minder van hun drankje overhebben drinken nu hun glas leeg!",
             "content": false,
             "category": "Profile"
         }
@@ -81,7 +81,7 @@
         "key": "f682d7c0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "No calling players by their first name FOR THE REST OF THE GAME. Last names only or drink.",
+            "description": "Voor de rest van het spel mag niemand meer andere spelers bij hun voornaam noemen. Noem iemand bij zijn achternamen of neem een slok!",
             "content": false,
             "category": "Rule"
         }
@@ -92,7 +92,7 @@
         "key": "f6837400_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "No pointing for the rest of the game! Get caught and drink!  Elbow pointing is ok.",
+            "description": "Niet meer naar anderen wijzen voor de rest van het spel. Neem een slok indien je toch gezien wordt. Wijzen met je elleboog mag wel.",
             "content": false,
             "category": "Rule"
         }
@@ -114,7 +114,7 @@
         "key": "f6841040_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Everybody drink and move one seat over in the current direction of play.",
+            "description": "Iedereen neemt en slok en schuift een plek op in de richting waarin het spel wordt gespeeld.",
             "content": false,
             "category": "Everybody"
         }
@@ -125,7 +125,7 @@
         "key": "f6845e60_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Anyone with a tattoo drink and show one tattoo to the group.",
+            "description": "Iedereen met een tatoo neemt en slok en laat ook één van zijn of haar tatoo's aan de rest zien.",
             "content": false,
             "category": "Profile"
         }
@@ -147,7 +147,7 @@
         "key": "f684faa0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "You must move in slow motion until your next turn.  Get caught forgetting and drink!",
+            "description": "Tot je volgende beurt beweeg je in slow-motion. Indien je het vergeet neem je een slok!",
             "content": false,
             "category": "Rule"
         }
@@ -158,7 +158,7 @@
         "key": "f68596e0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "contentJoke",
-            "description": "Guys have a drink.",
+            "description": "Alle mannen nemen een slok.",
             "content": "guyJokes",
             "category": "Profile"
         }
@@ -169,7 +169,7 @@
         "key": "f685bdf0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "contentJoke",
-            "description": "Girls take a drink.",
+            "description": "Alle vrouwen nemen een slok.",
             "content": "girlJokes",
             "category": "Profile"
         }
@@ -180,7 +180,7 @@
         "key": "f6865a30_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "All Students enrolled with an education provider of any kind drink",
+            "description": "Alle spelers die momenteen ingeschreven staan als student nemen nu een slok.",
             "content": false,
             "category": "Profile"
         }
@@ -191,7 +191,7 @@
         "key": "f686a850_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Drink 1, 2, or 3 drinks.  All players must match you!",
+            "description": "Neem één, twee of drie slokken. Iedereen doet mee!",
             "content": false,
             "category": "Power"
         }
@@ -202,7 +202,7 @@
         "key": "f686f670_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Play now goes in the opposite direction.",
+            "description": "Draai de richting van het spel om.",
             "content": false,
             "category": "Rule"
         }
@@ -213,7 +213,7 @@
         "key": "f6874490_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Keep your eyes closed until your next turn. Only open them for games that require vision, else drink each time you're caught.",
+            "description": "Houd je ogen gesloten tot je volgende beurt. Je mag ze alleen openen voor spelonderdelen waarbij je zicht nodig hebt, in andere gevallen met je ogen open neem je een slok.",
             "content": false,
             "category": "Rule"
         }
@@ -224,7 +224,7 @@
         "key": "f6876ba0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Repeat the last word of every sentence you say for the rest of the game!  Forget, and drink.",
+            "description": "Herhaal het laatste woord van elke zin die je zegt voor de rest van het spel. Vergeten betekent een slok nemen!",
             "content": false,
             "category": "Rule"
         }
@@ -235,7 +235,7 @@
         "key": "f68792b0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Any player who can speak more than one language fluently has a drink for each language.  Call out the language before each drink.",
+            "description": "Elke speler die meer dan één taal vloeiend kan spreken neemt een slok voor elke taal die hij of zij spreekt. Noem de taal voordat je een slok neemt.",
             "content": false,
             "category": "Profile"
         }
@@ -246,7 +246,7 @@
         "key": "f687b9c0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "You're the thumb master.  Place your thumb on the table top (or somewhere else agreed upon) any time BETWEEN TURNS and MAXIMUM ONCE PER TURN.  The last person to also place their thumb drinks.",
+            "description": "Je bent de duimmeester. Plaats je duim op tafel (of een andere plek die je zelf afspreekt)  any time BETWEEN TURNS and MAXIMUM ONCE PER TURN.  The last person to also place their thumb drinks.", ???????????
             "content": false,
             "category": "Power"
         }
@@ -257,7 +257,7 @@
         "key": "f687e0d0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "If there is a song playing, name the song or artist.  If you get it nominate, otherwise take one drink.  If there is no music, everybody drinks!",
+            "description": "Noem de naam van het nummer of de artiest als er nu muziek draait. Indien je dit goed hebt mag je een slok uitdelen, anders moet je zelf een slok nemen. Draait er geen muziek? dan neemt iedereen een slok!",
             "content": false,
             "category": "Challenge"
         }
@@ -268,7 +268,7 @@
         "key": "f68807e0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Who's got the buffest guns out of you and the player opposite?  Arm wrestle to find out.  Loser drinks and winner nominates 3.",
+            "description": "Wie heeft de meeste spierballen tussen jou en de speler tegenover je? Ga armpje drukken om hierachter te komen. De verliezer drinkt één slok en de winnaar mag drie slokken uitdelen.",
             "content": false,
             "category": "Battle"
         }
@@ -279,7 +279,7 @@
         "key": "f6885600_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "You now have little T-rex arms for the rest of the game! Your elbows are not allowed to leave your torso.  If you forget or they come off, drink!",
+            "description": "Je hebt voor de rest van het spel dino-armen! Je ellebogen mogen je zij niet verlaten, als je het toch vergeet of ze verlaten je zij dan neem je een slok.",
             "content": false,
             "category": "Rule"
         }
@@ -301,7 +301,7 @@
         "key": "f688cb30_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Applaud every time someone has to drink for the rest of the game!  Forget to applaud and drink.",
+            "description": "Klap telkens wanneer iemand moet drinken voor de rest van het spel. Neem een slok indien je dit vergeet te doen.",
             "content": false,
             "category": "Rule"
         }
@@ -312,18 +312,18 @@
         "key": "f6894060_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Whoever has the tightest pants or jeans drinks.",
+            "description": "Degene met de strakste broek of jeans neemt een slok.",
             "content": false,
             "category": "Profile"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Spin the bottle",
+        "name": "Flesjedraaien",
         "key": "f6894061_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "canvas",
-            "description": "Put the phone in the middle of all players.  Press go and spin the bottle!  Whoever it lands on has to drink 3.",
+            "description": "Leg de telefoon in het midden van alle spelers. Druk op 'Go' en draai die fles! Degene naar wie de fles draait neemt drie slokken.",
             "content": "spin-the-bottle",
             "category": "Everybody"
         }
@@ -334,7 +334,7 @@
         "key": "5cb87b07_160d_11e8_a7c5_d7bf8118b9c6",
         "details": {
             "subgameType": "canvas",
-            "description": "You and the player opposite tap as fast as you can to make your character run to their drink and drink the whole thing.  Loser drinks 3!",
+            "description": "Jij en de speler tegenover je moeten zo snel mogelijk drukken op het scherm om je eigen karakter te laten rennen voor hun drankje. De verliezer neemt drie slokken!",
             "content": "tap-race",
             "category": "Battle"
         }
@@ -345,51 +345,51 @@
         "key": "d8f50c0b_3080_4190_be10_1367a86bf184",
         "details": {
             "subgameType": "canvas",
-            "description": "It's multiple choice quiz time for up to 10 players. Drink 1 for wrong answers. Answer correctly and exit the quiz.  Last player drinks 3!",
+            "description": "Het is tijd voor meerkeuze vragen met plek voor maximaal 10 mensen. Neem een slok bij foute antwoorden. Antwoord goed en je hoeft niet meer met de vragen mee te doen, de laatst overgebleven speler neemt drie slokken!",
             "content": "buzzers",
             "category": "Everybody"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Rock Paper Scissors",
+        "name": "Steen, papier, schaar!",
         "key": "f689dca0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Challenge the player opposite you to a best of three.  Loser drinks 3!",
+            "description": "Daag de speler tegenover je uit voor een 'Best of three'. De verliezer neemt drie slokken!",
             "content": false,
             "category": "Battle"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Cave Man",
+        "name": "Holbewoner",
         "key": "f689dca1_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "You can only speak in three word sentences for the rest of the game!  Drink each time you forget!",
+            "description": "Je mag vanaf nu alleen nog maar in zinnen met maximaal drie woorden praten! Elke keer dat je dit vergeet te doen neem je een slok.",
             "content": false,
             "category": "Rule"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Quaff, Scull, Chug",
+        "name": "Zuipschuit",
         "key": "f68a2ac0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Drink the rest of your vessel. Owww it hurts I know.",
+            "description": "Drink je vat leeg! Het doet pijn, we weten het.",
             "content": false,
             "category": "Solo"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Speak in a foreign Accent",
+        "name": "Spreek met een buitenlands accent",
         "key": "f68a2ac1_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "contentBasic",
-            "description": "Speak in the following accent for the rest of the game! Drink each time you forget.",
+            "description": "Spreek met het volgende accent voor de rest van het spel! Voor elke keer dat je dit vergeet te doen neem je een slok.",
             "content": "accents",
             "category": "Rule"
         }
