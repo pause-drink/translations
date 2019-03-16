@@ -142,17 +142,17 @@
 		"Soft drinks"
 	],
 	"colours" : [
-		"White",
-		"Blue",
-		"Red",
-		"Green ",
-		"Purple",
-		"Yellow",
-		"Orange",
-		"Black",
-		"Pink",
-		"Gold",
-		"Silver"
+		"Branco",
+		"Azul",
+		"Vermelho",
+		"Verde",
+		"Roxo",
+		"Amarelo",
+		"Laranja",
+		"Preto",
+		"Rosa",
+		"Dourado",
+		"Prateado"
 	],
 	"basicCategories" : [
 		"Movie (can be 'The _____')",
