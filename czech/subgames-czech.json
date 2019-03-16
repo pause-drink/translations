@@ -323,7 +323,7 @@
         "key": "f6894061_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "canvas",
-            "desription": "Položte mobil do prostřed všech hráčů.  Stiskněte \"go\" a roztočte tak flašku!  Na koho flaška ukáže se musí třikrát napít.",
+            "description": "Položte mobil do prostřed všech hráčů.  Stiskněte \"go\" a roztočte tak flašku!  Na koho flaška ukáže se musí třikrát napít.",
             "content": "spin-the-bottle",
             "category": "Everybody"
         }
@@ -345,7 +345,7 @@
         "key": "d8f50c0b_3080_4190_be10_1367a86bf184",
         "details": {
             "subgameType": "canvas",
-            "desription": "Čas na zakšrtávací kvíz pro až 10 hráčů. Napijte se za každou špatnou odpověď. Odpovězte správně a opusťte kvíz.  Poslední hráč pije třikrát!",
+            "description": "Čas na zakšrtávací kvíz pro až 10 hráčů. Napijte se za každou špatnou odpověď. Odpovězte správně a opusťte kvíz.  Poslední hráč pije třikrát!",
             "content": "buzzers",
             "category": "Everybody"
         }
@@ -400,7 +400,7 @@
         "key": "f68a78e0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "desription": "Stal ses mistrem otázek.  Pokud se někomu položíš otázku a oni odpoví jinak než povoleným způsobem, musí se napít.  Mohou odpovídat pouze slovy \"Na**r si\" nebo položením ti jiné otázky nazpět.",
+            "description": "Stal ses mistrem otázek.  Pokud se někomu položíš otázku a oni odpoví jinak než povoleným způsobem, musí se napít.  Mohou odpovídat pouze slovy \"Na**r si\" nebo položením ti jiné otázky nazpět.",
             "content": false,
             "category": "Power"
         }
@@ -422,7 +422,7 @@
         "key": "f68ac700_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "desription": "Stal ses mistrem pravidel.  Vytvoř nějaké nové pravidlo a všichni ho budou muset následovat, včetně tebe.  Hráč, jež toto pravidlo poruší, se musí napít.",
+            "description": "Stal ses mistrem pravidel.  Vytvoř nějaké nové pravidlo a všichni ho budou muset následovat, včetně tebe.  Hráč, jež toto pravidlo poruší, se musí napít.",
             "content": false,
             "category": "Power"
         }
@@ -444,7 +444,7 @@
         "key": "f68b8a50_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "desription": "Odteď musí všichni hráči pít vždy levou rukou a malýčkem zvednutým jako správné dámy. Kdo to nezvládne, musí se napít.",
+            "description": "Odteď musí všichni hráči pít vždy levou rukou a malýčkem zvednutým jako správné dámy. Kdo to nezvládne, musí se napít.",
             "content": false,
             "category": "Rule"
         }
@@ -455,8 +455,7 @@
         "key": "f68bb160_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Don't speak until your next turn.  Any utterance, even an \"mmm\" results in a drink, so quiet!",
-            "desription": "Dokud na tebe nepřijde znovu řada, nemluv.  Jakýkoli zvuk, jež vydáš, včetně \"mmm\", skončí tvým pitím, tak ticho!",
+            "description": "Dokud na tebe nepřijde znovu řada, nemluv.  Jakýkoli zvuk, jež vydáš, včetně \"mmm\", skončí tvým pitím, tak ticho!",
             "content": false,
             "category": "Rule"
         }
@@ -467,7 +466,7 @@
         "key": "f68bd870_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "desription": "Napij se několikrát jen tak pro sebe.",
+            "description": "Napij se několikrát jen tak pro sebe.",
             "content": false,
             "category": "Solo"
         }
@@ -478,7 +477,7 @@
         "key": "f68bff80_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "desription": "Napij se pořádně jen tak pro sebe.",
+            "description": "Napij se pořádně jen tak pro sebe.",
             "content": false,
             "category": "Solo"
         }
@@ -489,7 +488,7 @@
         "key": "f68c2690_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "desription": "Vyber si jednu oběť, jež se bude muset napít.",
+            "description": "Vyber si jednu oběť, jež se bude muset napít.",
             "content": false,
             "category": "Power"
         }
@@ -522,7 +521,7 @@
         "key": "f68c9bc0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "desription": "Po zbytek hry při mluvení musíš šišlat!  Když na tebe někdo přijde, že nešišláš... piješ.",
+            "description": "Po zbytek hry při mluvení musíš šišlat!  Když na tebe někdo přijde, že nešišláš... piješ.",
             "content": false,
             "category": "Rule"
         }
@@ -533,7 +532,7 @@
         "key": "f68cc2d0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "desription": "Řekni jednu pravda a dvě lži v náhodném pořadí.  Všichni si musí tipnout, co z toho byla pravda.  Kdokoli se netrefí se musí napít a ty piješ za každého, kdo se trefil!",
+            "description": "Řekni jednu pravda a dvě lži v náhodném pořadí.  Všichni si musí tipnout, co z toho byla pravda.  Kdokoli se netrefí se musí napít a ty piješ za každého, kdo se trefil!",
             "content": false,
             "category": "Challenge"
         }
@@ -544,7 +543,7 @@
         "key": "f68ce9e0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "desription": "Posaď se někam, kam na tebe nikdo přímo nevidí po celé jedno kolo.  Vrať se na hry, jež vyžadují tvou prezenci.",
+            "description": "Posaď se někam, kam na tebe nikdo přímo nevidí po celé jedno kolo.  Vrať se na hry, jež vyžadují tvou prezenci.",
             "content": false,
             "category": "Rule"
         }
@@ -566,7 +565,7 @@
         "key": "f68d3800_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "desription": "Každý si vybere nějakou jednoslabičkou přezdívku.  Začněte všichni v pomalém rytmu: 1.Kolena, 2.Tlesknutí, 3.Lusknutí-pravé-ruky, 4.Lusknutí-levé-ruky. Ten, kdo je na řadě: na třetí době řekne číslo mezi 1-4 a na čtvrté době řekne nějaké jméno. Číkoliv to jméno bylo: od příští první doby, opakuje své jméno V RYTMU. Číslo, jež zadavatel řekne určuje počet opakování, kolikrát příjemce musí své jméno říct.  Příjemce se pak stane zadavatelem, řekne číslo a jméno V RYTMU (na třetí a čtvrtou dobu) čímž přesune svou roli zase na dalšího člověka.",
+            "description": "Každý si vybere nějakou jednoslabičkou přezdívku.  Začněte všichni v pomalém rytmu: 1.Kolena, 2.Tlesknutí, 3.Lusknutí-pravé-ruky, 4.Lusknutí-levé-ruky. Ten, kdo je na řadě: na třetí době řekne číslo mezi 1-4 a na čtvrté době řekne nějaké jméno. Číkoliv to jméno bylo: od příští první doby, opakuje své jméno V RYTMU. Číslo, jež zadavatel řekne určuje počet opakování, kolikrát příjemce musí své jméno říct.  Příjemce se pak stane zadavatelem, řekne číslo a jméno V RYTMU (na třetí a čtvrtou dobu) čímž přesune svou roli zase na dalšího člověka.",
             "content": false,
             "category": "Everybody"
         }
@@ -588,7 +587,7 @@
         "key": "f68dad30_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "desription": "Svlékni si jednu část tvého oblečení nebo se napij.  Boty, ponožky a šperky se nepočítají.",
+            "description": "Svlékni si jednu část tvého oblečení nebo se napij.  Boty, ponožky a šperky se nepočítají.",
             "category": "Dare"
         }
     },
@@ -629,7 +628,7 @@
         "key": "f68e7080_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "desription": "Nechej si někým namalovat stylový knírek nebo se dvakrát napij.",
+            "description": "Nechej si někým namalovat stylový knírek nebo se dvakrát napij.",
             "category": "Dare"
         }
     },
@@ -639,7 +638,7 @@
         "key": "f68e9790_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "timer",
-            "desription": "Pokus se o \"moon walk\" a ostatní ikonické pohyby Michaela Jacksona po dobu 30 sekund aniž bys vypadl z role nebo se třikrát napij.",
+            "description": "Pokus se o \"moon walk\" a ostatní ikonické pohyby Michaela Jacksona po dobu 30 sekund aniž bys vypadl z role nebo se třikrát napij.",
             "time": 30,
             "category": "Dare"
         }
@@ -650,7 +649,7 @@
         "key": "f68ebea0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "desription": "Rovná záda, hruď až na zem.  Pokud chceš, klidně z kolen.  5 dobrých kliků nebo se napij.",
+            "description": "Rovná záda, hruď až na zem.  Pokud chceš, klidně z kolen.  5 dobrých kliků nebo se napij.",
             "content": false,
             "category": "Challenge"
         }
@@ -705,7 +704,7 @@
         "key": "5dae50e0_ef13_46a0_af70_f52a41a22eb1",
         "details": {
             "subgameType": "timedReveal",
-            "desription": "Nechej ostatní hráče hádat zemi JEN PODLE TANCE! Žádné zvuky nebo jiná gesta.  Hráč, jež zemi uhádne nominuje dva napití.  Pokud zemi nikdo neuhádne, všichni se napijí a ty se napiješ dvakrát!  Máš 30 sekund.",
+            "description": "Nechej ostatní hráče hádat zemi JEN PODLE TANCE! Žádné zvuky nebo jiná gesta.  Hráč, jež zemi uhádne nominuje dva napití.  Pokud zemi nikdo neuhádne, všichni se napijí a ty se napiješ dvakrát!  Máš 30 sekund.",
             "content": "countries",
             "time": 30,
             "category": "Performer"
@@ -717,7 +716,7 @@
         "key": "f68fa900_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "timedReveal",
-            "desription": "Ostatní hráči musí uhodnout, kdo jsi JEN za pomoci IMITACE.  Pokud se hráč trefí, oba nominujete 2 napití, jinak všichni pijí!  Máš 15 sekund.",
+            "description": "Ostatní hráči musí uhodnout, kdo jsi JEN za pomoci IMITACE.  Pokud se hráč trefí, oba nominujete 2 napití, jinak všichni pijí!  Máš 15 sekund.",
             "content": "impersonations",
             "time": 15,
             "category": "Performer"
@@ -729,7 +728,7 @@
         "key": "f68ff720_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "timedReveal",
-            "desription": "Neukazuj ostatním hráčům mobil.  Zabroukej nebo zapískej písničku.  Pokud se hráč trefí, oba nominujete 2 napití, jinak všichni pijí a ty piješ dvakrát!  Máš 45 sekund.",
+            "description": "Neukazuj ostatním hráčům mobil.  Zabroukej nebo zapískej písničku.  Pokud se hráč trefí, oba nominujete 2 napití, jinak všichni pijí a ty piješ dvakrát!  Máš 45 sekund.",
             "content": "famousSongs",
             "time": 45,
             "category": "Performer"
@@ -741,7 +740,7 @@
         "key": "f6901e30_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "timedReveal",
-            "desription": "Podej mobil dalšímu hráči. Přečtou ti slovo, jež budeš muset vyhláskovat pozpátku BEZ CHYB nebo se dvakrát napít. Máš 25 sekund.",
+            "description": "Podej mobil dalšímu hráči. Přečtou ti slovo, jež budeš muset vyhláskovat pozpátku BEZ CHYB nebo se dvakrát napít. Máš 25 sekund.",
             "content": "spellBackwards",
             "time": 25,
             "category": "Challenge"
@@ -753,7 +752,7 @@
         "key": "f6909360_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "timedReveal",
-            "desription": "Neukazuj ostatním hráčům mobil.  Máš 1 minutu na to, abys pantomimou předvedl zadání.  Zákaz mluvení či jakýchkoliv zvuků. Hráč, jež zadání uhodne, nominuje 2 napití.  Pokud se nikdo netrefí, všichni pijí!",
+            "description": "Neukazuj ostatním hráčům mobil.  Máš 1 minutu na to, abys pantomimou předvedl zadání.  Zákaz mluvení či jakýchkoliv zvuků. Hráč, jež zadání uhodne, nominuje 2 napití.  Pokud se nikdo netrefí, všichni pijí!",
             "content": "charades",
             "time": 60,
             "category": "Performer"
@@ -765,7 +764,7 @@
         "key": "f690ba70_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "canvas",
-            "desription": "Neukazuj ostatním hráčům mobil.  Máš 30 sekund na to, abys nakreslil zadání.  Žádné mluvení!  Hráč, jež zadání uhodne, nominuje 2 napití.  Pokud se nikdo netrefí, všichni pijí!",
+            "description": "Neukazuj ostatním hráčům mobil.  Máš 30 sekund na to, abys nakreslil zadání.  Žádné mluvení!  Hráč, jež zadání uhodne, nominuje 2 napití.  Pokud se nikdo netrefí, všichni pijí!",
             "content": "doodles",
             "time": 30,
             "category": "Performer"
@@ -777,7 +776,7 @@
         "key": "f690e180_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "timedReveal",
-            "desription": "Nekoukej se na odpověď.  Přitiskni si k čelu mobil a ujisti se, že všichni viděli, co na něm je.  Ptej se ano/ne otázkami, abys zjistil, kdo jsi. Máš 60 sekund to uhodnout nebo budeš pít třikrát!",
+            "description": "Nekoukej se na odpověď.  Přitiskni si k čelu mobil a ujisti se, že všichni viděli, co na něm je.  Ptej se ano/ne otázkami, abys zjistil, kdo jsi. Máš 60 sekund to uhodnout nebo budeš pít třikrát!",
             "content": "famousPeople",
             "time": 60,
             "category": "Challenge"
@@ -789,7 +788,7 @@
         "key": "f6912fa0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "timedReveal",
-            "desription": "Řekni daný jazykolam bez chyb... SE ZAVŘENÝMA OČIMA. Po odhalení zadání, máš 30 sekund! Udělej chybu a piješ dvakrát!",
+            "description": "Řekni daný jazykolam bez chyb... SE ZAVŘENÝMA OČIMA. Po odhalení zadání, máš 30 sekund! Udělej chybu a piješ dvakrát!",
             "content": "tongueTwisters",
             "time": 30,
             "category": "Challenge"
@@ -801,7 +800,7 @@
         "key": "f6917dc0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "quickTimer",
-            "desription": "Vyjmenuj sedm synonym nebo slangových slov pro penis za 1 minutu nebo se napij.",
+            "description": "Vyjmenuj sedm synonym nebo slangových slov pro penis za 1 minutu nebo se napij.",
             "time": 60,
             "category": "Challenge"
         }
@@ -834,7 +833,7 @@
         "key": "f691f2f1_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "desription": "Všichni hráči začnou ve stejnou dobu pít.  TY můžeš přestat kdykoli chceš.  Hráč po tvé levici může přestat až po tobě, hráč po jeho levici může přestat až po něm atd atd atd.",
+            "description": "Všichni hráči začnou ve stejnou dobu pít.  TY můžeš přestat kdykoli chceš.  Hráč po tvé levici může přestat až po tobě, hráč po jeho levici může přestat až po něm atd atd atd.",
             "content": false,
             "category": "Everybody"
         }
@@ -845,7 +844,7 @@
         "key": "f6921a00_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "desription": "Po směru hodinových ručiček od tebe, jako skupina, počítejte postupně od 1.  Nikdo ale nesmí říct násobky sedmi nebo jakékoli slovo, jež sedm obsahuje!  Místo těchto čísel tleskněte.  Např. 1, 2, 3, 4, 5, 6, tlesk, 8, 9...",
+            "description": "Po směru hodinových ručiček od tebe, jako skupina, počítejte postupně od 1.  Nikdo ale nesmí říct násobky sedmi nebo jakékoli slovo, jež sedm obsahuje!  Místo těchto čísel tleskněte.  Např. 1, 2, 3, 4, 5, 6, tlesk, 8, 9...",
             "content": false,
             "category": "Everybody"
         }
@@ -856,7 +855,7 @@
         "key": "f6924110_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "desription": "Každý z hráčů si vybere nějaký hudební nástroj s nějakou činností a zvukem.  Hra začíná hráči plácající o svá stehna a tleskající svýma rukama ve stabilním, opakovaném rytmu plác-plác-tlesk-tlesk.  Začněte pomalu.  Ty začínáš a předáváš svůj tah na ostatní hráče ve skupině pomocí nahrazování tlesknutí za svůj nástroj a pak za nástroj jiného hráče.  např. plác-plác-buben-buben-plác-plác-kytara-kytara.  Hráč, jež váš tah přijímá (v tomto případě kytarista) musí OKAMŽITĚ pokračovat v rytmu s plác-plác-kytara-kytara-housle-housel (nebo jiný nástroj) a hra takto pokračuje dokud to někdo nezkazí!  Když to někdo pokazí, musí se napít jde z kola ven!  Ostatní hráči pokračují, dokud nezbývají jen dva hráči, ti získávají 3 nominace na pití.  Taky by asi spolu měli založit kapelu.",
+            "description": "Každý z hráčů si vybere nějaký hudební nástroj s nějakou činností a zvukem.  Hra začíná hráči plácající o svá stehna a tleskající svýma rukama ve stabilním, opakovaném rytmu plác-plác-tlesk-tlesk.  Začněte pomalu.  Ty začínáš a předáváš svůj tah na ostatní hráče ve skupině pomocí nahrazování tlesknutí za svůj nástroj a pak za nástroj jiného hráče.  např. plác-plác-buben-buben-plác-plác-kytara-kytara.  Hráč, jež váš tah přijímá (v tomto případě kytarista) musí OKAMŽITĚ pokračovat v rytmu s plác-plác-kytara-kytara-housle-housel (nebo jiný nástroj) a hra takto pokračuje dokud to někdo nezkazí!  Když to někdo pokazí, musí se napít jde z kola ven!  Ostatní hráči pokračují, dokud nezbývají jen dva hráči, ti získávají 3 nominace na pití.  Taky by asi spolu měli založit kapelu.",
             "content": false,
             "category": "Everybody"
         }
@@ -867,7 +866,7 @@
         "key": "f6926820_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "desription": "Každý z hráčů si vybere nějakou sexuální polohu nějakou činností a jménem.  Hra začíná hráči plácající o svá stehna a tleskající svýma rukama ve stabilním, opakovaném rytmu plác-plác-tlesk-tlesk.  Začněte pomalu.  Ty začínáš a předáváš svůj tah na ostatní hráče ve skupině pomocí nahrazování tlesknutí za svou polohu a pak za polohu jiného hráče.  např. plác-plác-misionář-misionář-plác-plác-pes-pes.  Hráč, jež váš tah přijímá (v tomto případě kytarista) musí OKAMŽITĚ pokračovat v rytmu s plác-plác-pes-pes-69-69 (nebo jiná poloha) a hra takto pokračuje dokud to někdo nezkazí!  Když to někdo pokazí, musí se napít jde z kola ven!  Ostatní hráči pokračují, dokud nezbývají jen dva hráči, ti získávají 3 nominace na pití.  Taky by si asi spolu měli najít nějaké klidné místo, kde mohou být o samotě.",
+            "description": "Každý z hráčů si vybere nějakou sexuální polohu nějakou činností a jménem.  Hra začíná hráči plácající o svá stehna a tleskající svýma rukama ve stabilním, opakovaném rytmu plác-plác-tlesk-tlesk.  Začněte pomalu.  Ty začínáš a předáváš svůj tah na ostatní hráče ve skupině pomocí nahrazování tlesknutí za svou polohu a pak za polohu jiného hráče.  např. plác-plác-misionář-misionář-plác-plác-pes-pes.  Hráč, jež váš tah přijímá (v tomto případě kytarista) musí OKAMŽITĚ pokračovat v rytmu s plác-plác-pes-pes-69-69 (nebo jiná poloha) a hra takto pokračuje dokud to někdo nezkazí!  Když to někdo pokazí, musí se napít jde z kola ven!  Ostatní hráči pokračují, dokud nezbývají jen dva hráči, ti získávají 3 nominace na pití.  Taky by si asi spolu měli najít nějaké klidné místo, kde mohou být o samotě.",
             "content": false,
             "category": "Everybody"
         }
@@ -878,7 +877,7 @@
         "key": "f692b640_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "desription": "Řekni náhodný předmět.  Další hráč ho musí zopakovat a přidat svůj.  Hráči musí opakovat celý postupně se rozrůstající seznam ve správném pořadí a vždy přidat na konec nějaký svůj unikátní předmět až do doby, než někdo zapomene celou tuto souvislou řadu. Poražený pije třikrát!",
+            "description": "Řekni náhodný předmět.  Další hráč ho musí zopakovat a přidat svůj.  Hráči musí opakovat celý postupně se rozrůstající seznam ve správném pořadí a vždy přidat na konec nějaký svůj unikátní předmět až do doby, než někdo zapomene celou tuto souvislou řadu. Poražený pije třikrát!",
             "content": false,
             "category": "Everybody"
         }
@@ -889,7 +888,7 @@
         "key": "f692b641_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "desription": "Všichni položí prst na okraj jedné sklenice naplněné z poloviny drinkem, jež je položena uprostřed skupiny.  Začínajíce tebou, střídejte se v hádání, kolik prstů na sklenici zůstane, přičemž každý může buď prst na sklenici ponechat nebo ho okamžitě sundat.  Pokud se vám nepodaří počet prstů uhodnout, napijte se a vraťte svůj prst zpět na sklenici.  Když se vám počet uhodnout podaří jste volní a zbylí hráči pokračují ve hře.  Poslední hráč pije.  Když se stane, že nějaký hráč svůj prst sundá s příliš velkým zpožděním, bere se jeho prst, jakoby byl na sklenici plus se musí také napít.",
+            "description": "Všichni položí prst na okraj jedné sklenice naplněné z poloviny drinkem, jež je položena uprostřed skupiny.  Začínajíce tebou, střídejte se v hádání, kolik prstů na sklenici zůstane, přičemž každý může buď prst na sklenici ponechat nebo ho okamžitě sundat.  Pokud se vám nepodaří počet prstů uhodnout, napijte se a vraťte svůj prst zpět na sklenici.  Když se vám počet uhodnout podaří jste volní a zbylí hráči pokračují ve hře.  Poslední hráč pije.  Když se stane, že nějaký hráč svůj prst sundá s příliš velkým zpožděním, bere se jeho prst, jakoby byl na sklenici plus se musí také napít.",
             "content": false,
             "category": "Everybody"
         }
@@ -900,7 +899,7 @@
         "key": "f6932b70_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "desription": "Řekneš: \"Loď připlula do přístavu a převážela...\"  poté ostatní členové vyberou kategorii a jmenují věci z té kategorie např. druhy ovoce, banán.  Každý hráč řekne novou věc z kategorie z jejich vlastního minulého tahu.  Znejistěte nebo řekněte něco, co již bylo řečeno a pijete.",
+            "description": "Řekneš: \"Loď připlula do přístavu a převážela...\"  poté ostatní členové vyberou kategorii a jmenují věci z té kategorie např. druhy ovoce, banán.  Každý hráč řekne novou věc z kategorie z jejich vlastního minulého tahu.  Znejistěte nebo řekněte něco, co již bylo řečeno a pijete.",
             "content": false,
             "category": "Everybody"
         }
@@ -911,7 +910,7 @@
         "key": "f6935280_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "desription": "Začněte částí verše (nebo, pokud jste nudní, stačí jedno slov).  Každý hráč poté musí rým dokončit.  Zopakujte již vyřčený verš/větu a pijete dvakrát.  Cimrmanovské rýmy jsou ok.",
+            "description": "Začněte částí verše (nebo, pokud jste nudní, stačí jedno slov).  Každý hráč poté musí rým dokončit.  Zopakujte již vyřčený verš/větu a pijete dvakrát.  Cimrmanovské rýmy jsou ok.",
             "content": false,
             "category": "Everybody"
         }
@@ -922,7 +921,7 @@
         "key": "f6937990_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "desription": "Vymyslete něco, co jste ještě nedělali ale myslíte, že ostatní hráči ano.  Všichni, kdo to již dělali se musí napít.",
+            "description": "Vymyslete něco, co jste ještě nedělali ale myslíte, že ostatní hráči ano.  Všichni, kdo to již dělali se musí napít.",
             "content": false,
             "category": "Power"
         }
@@ -933,7 +932,7 @@
         "key": "f693c7b0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "desription": "Hra začíná po směru hodinových ručiček.  Každý hráč řekne \"Fuzzy Duck\" dokuď někdo neřekne \"Duzzy\".  Poté se hraje otočí a hráči musí říkat \"Ducky Fuzz\".  Hra může být otočena vícekrát v kterýkoli moment někdo řekne \"Duzzy\".  Kdo to pokazí, pije.",
+            "description": "Hra začíná po směru hodinových ručiček.  Každý hráč řekne \"Fuzzy Duck\" dokuď někdo neřekne \"Duzzy\".  Poté se hraje otočí a hráči musí říkat \"Ducky Fuzz\".  Hra může být otočena vícekrát v kterýkoli moment někdo řekne \"Duzzy\".  Kdo to pokazí, pije.",
             "content": false,
             "category": "Everybody"
         }
@@ -944,7 +943,7 @@
         "key": "f693eec0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "desription": "Z palců a ukazováčků si udělejte \"pivní brýle\". Svůj tah si předávejte doleva či doprava vyklápěním příslušné ruky a vyslovením \"woop\".  Můžete aktuální tah předávat i naproti sobě tím, že vyklopíte obě své ruce v přímém směru na jiného hráře a vyslovením \"woop woop\". Váhání je zakázáno!  Pokaž to a piješ!",
+            "description": "Z palců a ukazováčků si udělejte \"pivní brýle\". Svůj tah si předávejte doleva či doprava vyklápěním příslušné ruky a vyslovením \"woop\".  Můžete aktuální tah předávat i naproti sobě tím, že vyklopíte obě své ruce v přímém směru na jiného hráře a vyslovením \"woop woop\". Váhání je zakázáno!  Pokaž to a piješ!",
             "content": false,
             "category": "Everybody"
         }
@@ -955,7 +954,7 @@
         "key":"f6898e80_397f_11e8_a45b_25718a0c5009",
         "details":{  
           "subgameType":"canvas",
-          "desription": "Je pravé poledne... ty a hráč naproti tobě jste se ocitli uprostřed v duelu.  Počkej až hodiny ubijí poledne. Vystřelíš-li příliš brzy, napij se a zkus to znovu.  Nech se zastřelit a piješ třikrát!",
+          "description": "Je pravé poledne... ty a hráč naproti tobě jste se ocitli uprostřed v duelu.  Počkej až hodiny ubijí poledne. Vystřelíš-li příliš brzy, napij se a zkus to znovu.  Nech se zastřelit a piješ třikrát!",
           "content":"high-noon",
           "category":"Battle"
         }
@@ -966,7 +965,7 @@
         "key":"4875ee99_4a2a_48d1_b074_408099efa0b1",
         "details":{  
           "subgameType":"canvas",
-          "desription": "Hraj s hráčem naproti tobě. Dejte si závod proti sobě, abyste zjistili, kdo je větší posera. Posera se musí napít třikrát. Když však do sebe narazíte, pijete oba šestkrát!",
+          "description": "Hraj s hráčem naproti tobě. Dejte si závod proti sobě, abyste zjistili, kdo je větší posera. Posera se musí napít třikrát. Když však do sebe narazíte, pijete oba šestkrát!",
           "content":"chicken",
           "category":"Battle"
         }
@@ -977,7 +976,7 @@
         "key": "c18ad7c0_e27a_4dc2_8c80_661057c2054b",
         "details": {
             "subgameType": "truthOrDare",
-            "desription": "Vyberte Pravdu nebo lež. Pokud nemůžete otázku zodpovědět nebo dokončit úkol, napijte se tolikrát, kolikrát je určno!",
+            "description": "Vyberte Pravdu nebo lež. Pokud nemůžete otázku zodpovědět nebo dokončit úkol, napijte se tolikrát, kolikrát je určno!",
             "content": "truthOrDare",
             "category": "Dare"
         }
