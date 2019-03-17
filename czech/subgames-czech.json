@@ -972,11 +972,11 @@
     },
     {
         "objectType": "subgame",
-        "name": "Prava nebo lež",
+        "name": "Vadí Nevadí",
         "key": "c18ad7c0_e27a_4dc2_8c80_661057c2054b",
         "details": {
             "subgameType": "truthOrDare",
-            "description": "Vyberte Pravdu nebo lež. Pokud nemůžete otázku zodpovědět nebo dokončit úkol, napijte se tolikrát, kolikrát je určno!",
+            "description": "Vadí Nevadí (Truth or Dare), vyberte si. Pokud nemůžete otázku zodpovědět nebo dokončit úkol, napijte se tolikrát, kolikrát je určno!",
             "content": "truthOrDare",
             "category": "Dare"
         }
