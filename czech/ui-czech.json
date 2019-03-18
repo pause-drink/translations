@@ -1,0 +1,27 @@
+{
+  "disclaimer": {
+    "para1":  "test czech para 1",
+    "para2":  "test czech para 2est czech para 2est czech para 2est czech para 2est czech para 2est czech para 2est czech pa",
+    "ok": "test czech ok"
+  },
+  "main_menu": {
+    "music": "Muasdfsic",
+    "sound": "All asdf",
+    "info": "Inasdfo",
+    "made_by": "Pause...driasdf made by",
+    "contact": "Gasdfasdfuch by",
+    "rate": "Pleaasdfate on"
+  },
+  "game_select": {
+    "game_mode": "czech Mode",
+    "create": "Create czech",
+    "options": "Advanced czech",
+    "flick": "czech speed",
+    "time": "Turn czech limit",
+    "turns": "czech end limit",
+    "repeats": "Play czech only once",
+    "back": "Bczechck",
+    "play": "Plczech",
+    "close": "adfclos"
+  }
+}
