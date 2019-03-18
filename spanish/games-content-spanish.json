@@ -796,24 +796,29 @@
 		"Los músculos absorben el alcohol más rápido que la grasa. Como resultado, las personas que tienen más músculos y menos grasa corporal tienen una mayor tolerancia al alcohol."
 	],
 	"multipleChoiceQuiz": [{
-			"question": "Who was the second person to set foot on the moon?",
+			"question": "¿Quién fue la segunda persona en poner un pie en la luna?",
 			"answer": "Buzz Aldrin",
 			"dummys": ["Alan Bean", "Neil Armstrong", "Pete Conrad"]
 		},
 		{
-			"question": "Who was the second person to climb Mount Everest?",
+			"question": "¿Quién fue la segunda persona en escalar el Monte Everest?",
 			"answer": "Tenzing Norgay",
 			"dummys": ["Edmund Hillary", "Jürg Marmet", "Ernst Schmied"]
 		},
 		{
-			"question": "Who was the first person to reach the South Pole?",
+			"question": "¿Quién fue la primera persona en llegar al Polo Sur?",
 			"answer": "Roald Amundsen",
 			"dummys": ["Robert Falcon Scott", "Sir Ernest Shackleton", "Nobu Shirase"]
 		},
 		{
-			"question": "Which country won the first football/soccer world cup?",
+			"question": "¿Qué país ganó la primera copa del mundo de fútbol / fútbol?",
 			"answer": "Uruguay",
 			"dummys": ["Argentina", "Brazil", "England"]
+		},
+		{
+			"question": "¿Qual pan dulce lleva forma de un animal?",
+			"answer": "Marranito",
+			"dummys": ["Tortuga", "Concha", "Marranito"]
 		}
 	],
 	"truthOrDare": {
