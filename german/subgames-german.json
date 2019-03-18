@@ -202,7 +202,7 @@
         "key": "f686f670_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Richtungswechsel! Das spiel verläuft jetzt anders herrum..",
+            "description": "Richtungswechsel! Das spiel verläuft jetzt anders herrum.",
             "content": false,
             "category": "Rule"
         }
@@ -213,7 +213,7 @@
         "key": "f6874490_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Keep your eyes closed until your next turn. Only open them for games that require vision, else drink each time you're caught.",
+            "description": "Schließe deibne Augen bis zu deinem nächsten Zug. Öffene sie nur für spiele, für die du sehen musst. Wirst du beim luntzen erwischt, trinkst du!  Keep your eyes closed until your next turn. Only open them for games that require vision, else drink each time you're caught.",
             "content": false,
             "category": "Rule"
         }
@@ -224,7 +224,7 @@
         "key": "f6876ba0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Repeat the last word of every sentence you say for the rest of the game!  Forget, and drink.",
+            "description": "Widerhole das letzte Wort jedes Satzes den du sagst, für den rest des Spiels! Vergisst du es, trinkst du ... du! Repeat the last word of every sentence you say for the rest of the game!  Forget, and drink.",
             "content": false,
             "category": "Rule"
         }
@@ -235,7 +235,7 @@
         "key": "f68792b0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Any player who can speak more than one language fluently has a drink for each language.  Call out the language before each drink.",
+            "description": "Alle Spieler, die mehr als einen Sprache fließend sprechen, nehmen pro sprache einen Schluck. Gib vorher bekannt auf welche Sprache der nächste Schluck geht. Any player who can speak more than one language fluently has a drink for each language.  Call out the language before each drink.",
             "content": false,
             "category": "Profile"
         }
@@ -246,7 +246,7 @@
         "key": "f687b9c0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "You're the thumb master.  Place your thumb on the table top (or somewhere else agreed upon) any time BETWEEN TURNS and MAXIMUM ONCE PER TURN.  The last person to also place their thumb drinks.",
+            "description": "Du bist der Daumen-König! Patziere jederzeit deinen Daumen auf der Tischoberfläche zwischen den Zügen (Maximal einemal pro zug). Die letzte Person die ihren Daumen ebenfalls auf den Tisch legt, trinkt. The last person to also place their thumb drinks.",
             "content": false,
             "category": "Power"
         }
@@ -257,7 +257,7 @@
         "key": "f687e0d0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "If there is a song playing, name the song or artist.  If you get it nominate, otherwise take one drink.  If there is no music, everybody drinks!",
+            "description": "Wenn gerade musik spielt, nenne Titel und Künstler. Ist deine Angabe richtigt, darfst du einen Schluck verteilen. Ansonsten Trinkst du.If there is a song playing, name the song or artist.  If you get it nominate, otherwise take one drink.  If there is no music, everybody drinks!",
             "content": false,
             "category": "Challenge"
         }
@@ -268,7 +268,7 @@
         "key": "f68807e0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Who's got the buffest guns out of you and the player opposite?  Arm wrestle to find out.  Loser drinks and winner nominates 3.",
+            "description": "Wer hat den größeren Bizeps? Du oder dein gegenüber? Stellt es bei einer Runde Armdrücken unter Beweise! Der Gewinner darf 3 Schlücke verteilen, der verlierer trinkt. Who's got the buffest guns out of you and the player opposite?  Arm wrestle to find out.  Loser drinks and winner nominates 3.",
             "content": false,
             "category": "Battle"
         }
@@ -279,7 +279,7 @@
         "key": "f6885600_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "You now have little T-rex arms for the rest of the game! Your elbows are not allowed to leave your torso.  If you forget or they come off, drink!",
+            "description": "Du hast jetzt für den Rest des Spieles kleine T-Rex arme! Deine Elenbogen dürfen deinne Oberkörper nicht verlasse. Lösst du sie doch und wirst erwischt, musst du trinken. You now have little T-rex arms for the rest of the game! Your elbows are not allowed to leave your torso.  If you forget or they come off, drink!",
             "content": false,
             "category": "Rule"
         }
@@ -290,7 +290,7 @@
         "key": "f688a420_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Every time you or the player opposite has to drink, the buddy has to as well for the rest of the game!",
+            "description": "Dein Gegenüber ist jetzt dein Trink-Buddy. Muss einer von euch beiden trinken, trinkt der andere auch. Every time you or the player opposite has to drink, the buddy has to as well for the rest of the game!",
             "content": false,
             "category": "Rule"
         }
@@ -301,7 +301,7 @@
         "key": "f688cb30_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Applaud every time someone has to drink for the rest of the game!  Forget to applaud and drink.",
+            "description": "Applaudiere immer, wenn jemand trinen musss, bis das spiel vorbei ist. Vergisst du es, musst du trinken. Applaud every time someone has to drink for the rest of the game!  Forget to applaud and drink.",
             "content": false,
             "category": "Rule"
         }
@@ -312,7 +312,7 @@
         "key": "f6894060_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Whoever has the tightest pants or jeans drinks.",
+            "description": "Der Spieler mit der engsten Hose trinkt!",
             "content": false,
             "category": "Profile"
         }
@@ -323,7 +323,7 @@
         "key": "f6894061_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "canvas",
-            "description": "Put the phone in the middle of all players.  Press go and spin the bottle!  Whoever it lands on has to drink 3.",
+            "description": "Platziere das Handy in der mitte aller Spieler. Drücke auf GO und dreh die flasche. Der jenihge auf den die flsche zeigt, nimmt 3 gute Schlücke. Put the phone in the middle of all players.  Press go and spin the bottle!  Whoever it lands on has to drink 3.",
             "content": "spin-the-bottle",
             "category": "Everybody"
         }
@@ -334,7 +334,7 @@
         "key": "5cb87b07_160d_11e8_a7c5_d7bf8118b9c6",
         "details": {
             "subgameType": "canvas",
-            "description": "You and the player opposite tap as fast as you can to make your character run to their drink and drink the whole thing.  Loser drinks 3!",
+            "description": "Du und dein Gegnüber, tippen so schnell es geht um eure figur zu seinem Getränk rennen zu lassen und es im anschluss trinken zu lassen. Der Verlierer trinkt 3 Schlücke. You and the player opposite tap as fast as you can to make your character run to their drink and drink the whole thing.  Loser drinks 3!",
             "content": "tap-race",
             "category": "Battle"
         }
@@ -345,7 +345,7 @@
         "key": "d8f50c0b_3080_4190_be10_1367a86bf184",
         "details": {
             "subgameType": "canvas",
-            "description": "It's multiple choice quiz time for up to 10 players. Drink 1 for wrong answers. Answer correctly and exit the quiz.  Last player drinks 3!",
+            "description": "Zeit für ein Multiple choice Quiz für bis zu 10 Spieler. Jede falsche Antwort kostet einen schluck.  Drink 1 for wrong answers. Answer correctly and exit the quiz.  Last player drinks 3!",
             "content": "buzzers",
             "category": "Everybody"
         }
@@ -356,7 +356,7 @@
         "key": "f689dca0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Challenge the player opposite you to a best of three.  Loser drinks 3!",
+            "description": "Fordere dein Gegenüber zu einer Runde Schere-Stein-Papier herraus. Wer 3 Punkte hat gewinnt. Der Verlierer nimmt 3 Schlücke!",
             "content": false,
             "category": "Battle"
         }
@@ -367,7 +367,7 @@
         "key": "f689dca1_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "You can only speak in three word sentences for the rest of the game!  Drink each time you forget!",
+            "description": "zurück in die Steinzeit! Für den Rest der Spieles bist du bist nur noch in der Lage 3 Wörter pro Satz zu sagen. Trinke jedesmal, wenn du es vergisst. You can only speak in three word sentences for the rest of the game!  Drink each time you forget!",
             "content": false,
             "category": "Rule"
         }
@@ -378,7 +378,7 @@
         "key": "f68a2ac0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Drink the rest of your vessel. Owww it hurts I know.",
+            "description": "Trink dein Getränk aus. Oooh.. ja ich weiß, das tut weh. Drink the rest of your vessel. Owww it hurts I know.",
             "content": false,
             "category": "Solo"
         }
@@ -389,7 +389,7 @@
         "key": "f68a2ac1_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "contentBasic",
-            "description": "Speak in the following accent for the rest of the game! Drink each time you forget.",
+            "description": "Sprich für den Rest des piels im folgenden Akzent:     Trinke jedes Mal, wenn du es vergisst!",
             "content": "accents",
             "category": "Rule"
         }
@@ -400,7 +400,7 @@
         "key": "f68a78e0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "You are the question master.  If you ask someone a question and they answer you, they have to drink.  They are allowed to respond only with \"@#$% off\" or by asking a question back.",
+            "description": "Du bistd er Meister der Fragen! Wenn du jemand eine Frage stellst und er antwortet dir, muss er trinken. Die anderen dürfen dir nur mit \"@#$% dich\" oder einern Gegenfrage antworten. You are the question master.  If you ask someone a question and they answer you, they have to drink.  They are allowed to respond only with \"@#$% off\" or by asking a question back.",
             "content": false,
             "category": "Power"
         }
@@ -411,7 +411,7 @@
         "key": "f68a9ff0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Until your next turn, anyone who you catch looking directly in your eyes has to drink.",
+            "description": "Bis zu deinem nächsten Zug, muss jeder trinken, den dabei erwischst, direkten Blickkontakt mit dir zu haben. Until your next turn, anyone who you catch looking directly in your eyes has to drink.",
             "content": false,
             "category": "Power"
         }
@@ -433,7 +433,7 @@
         "key": "f68b1520_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Never drink alone... except now... drink alone now.",
+            "description": "Trinke niemals alleine ... ausser jetzt... trinkte jetzt alleine. Never drink alone... except now... drink alone now.",
             "content": false,
             "category": "Solo"
         }
