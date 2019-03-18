@@ -924,75 +924,75 @@
 			}
 		],
 		"dares": [{
-				"question": "Let the group pose you in an embarrassing position and take a picture.",
+				"question": "Deje que el grupo lo ponga en una posición embarazosa y tome una foto.",
 				"drinkValue": 2
 			},
 			{
-				"question": "Curse like sailor for 20 seconds straight.",
+				"question": "Maldición como marinero durante 20 segundos seguidos.",
 				"drinkValue": 1
 			},
 			{
-				"question": "Do four cartwheels in row.",
+				"question": "Hacer cuatro ruedas de carro en fila.",
 				"drinkValue": 3
 			},
 			{
-				"question": "Lick the floor.",
+				"question": "Lame el suelo.",
 				"drinkValue": 2
 			},
 			{
-				"question": "Let the group give you a new hairstyle.",
+				"question": "Deja que el grupo te regale un nuevo peinado.",
 				"drinkValue": 2
 			},
 			{
-				"question": "Do the worm.",
+				"question": "Haz el gusano.",
 				"drinkValue": 2
 			},
 			{
-				"question": "Get slapped on the face by the person of your choosing.",
+				"question": "Déjate abofetear por la persona de tu elección.",
 				"drinkValue": 1
 			},
 			{
-				"question": "Spin an imaginary hula hoop around your waist for 3 minutes while the game continues.",
+				"question": "Haz girar un aro de hula imaginario alrededor de tu cintura durante 3 minutos mientras el juego continúa.",
 				"drinkValue": 2
 			},
 			{
-				"question": "Make a funny face and keep making it for 2 minutes while the game continues.",
+				"question": "Haz una cara graciosa y sigue haciéndolo durante 2 minutos mientras el juego continúa.",
 				"drinkValue": 2
 			},
 			{
-				"question": "Remove your socks with your teeth.",
+				"question": "Quítate los calcetines con los dientes.",
 				"drinkValue": 2
 			},
 			{
-				"question": "Howl like a wolf for 30 seconds.",
+				"question": "Aullando como un lobo durante 30 segundos.",
 				"drinkValue": 2
 			},
 			{
-				"question": "Until your next turn, talk super loud, like nobody can hear you.",
+				"question": "Hasta tu próximo turno, habla súper fuerte, como si nadie te oyera.",
 				"drinkValue": 1
 			},
 			{
-				"question": "Make out with your hand.",
+				"question": "Hazlo con tu mano.",
 				"drinkValue": 1
 			},
 			{
-				"question": "Talk without closing your mouth until your next turn.",
+				"question": "Habla sin cerrar la boca hasta tu próximo turno.",
 				"drinkValue": 1
 			},
 			{
-				"question": "Get into a debate with a wall.",
+				"question": "Entrar en un debate con un muro.",
 				"drinkValue": 2
 			},
 			{
-				"question": "Call a random number and try to flirt with the person who picks up.",
+				"question": "Llame a un número al azar e intente coquetear con la persona que recoge.",
 				"drinkValue": 3
 			},
 			{
-				"question": "Lick a doorknob.",
+				"question": "Lame un pomo.",
 				"drinkValue": 2
 			},
 			{
-				"question": "Take a selfie with the toilet and post it online.",
+				"question": "Tómate un selfie con el inodoro y publícalo en línea.",
 				"drinkValue": 2
 			}
 		]
