@@ -4,7 +4,7 @@
         "key": "f67e9200_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Swap names with the player who's turn it is next for the rest of the game.  Whenever ANYBODY calls either of you by your former name they drink!",
+            "description": "Tausche den Namen mit dem Spieler der nach dir an der Reihe ist, für den Rest des spiels. Wer einen von euch bei eurem alten Namen nannt, trinkt!",
             "content": false,
             "category": "Rule"
         }
@@ -15,7 +15,7 @@
         "key": "bb98c83d_ba0d_464d_8694_a453df0f927e",
         "details": {
             "subgameType": "standard",
-            "description": "The player who's birthday is the closest to today drink 3!",
+            "description": "Der Spieler, dessen Geburtstag am nähsten am heutigen datum ist, trinkt 3 Schlücke!",
             "content": false,
             "category": "Profile"
         }
@@ -26,7 +26,7 @@
         "key": "f6815120_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "All players have a drink!",
+            "description": "Alle Spieler müssen trinken!",
             "content": false,
             "category": "Everybody"
         }
@@ -37,7 +37,7 @@
         "key": "f6819f40_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Get all players' drinks until your next turn (they pay for them!).  They can only request your service when they've finished their previous drink.",
+            "description": "Bis zu deinem nächsten Zug: Besorge allen Spielern ein neues Getränk. Hohle allen Spielern bis zu deinem nächsten Zug getränke (they pay for them!).  They can only request your service when they've finished their previous drink.",
             "content": false,
             "category": "Rule"
         }
@@ -48,7 +48,7 @@
         "key": "c214144e_a54f_4dd8_86dc_5d287aaed772",
         "details": {
             "subgameType": "standard",
-            "description": "Don't show your teeth for the rest of the game!  Drink each time you show those pearly whites.",
+            "description": "Zeig deine Zähne für die restliche Spielduer nicht mehr. Don't show your teeth for the rest of the game!  Drink each time you show those pearly whites.",
             "content": false,
             "category": "Rule"
         }
@@ -59,7 +59,7 @@
         "key": "f681ed60_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "players with clearly less than quarter of a drink, finish it off!",
+            "description": "Alle Spieler die eindeutig weniher als 1/4 ihres Drinks überig haben, müssen austrinken! players with clearly less than quarter of a drink, finish it off!",
             "content": false,
             "category": "Profile"
         }
@@ -70,7 +70,7 @@
         "key": "f6826290_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "No players can say the word 'DRINK' for the rest of the game otherwise you CONSUME.",
+            "description": "Für den Rest des Spieles darf kein Spieler mehr das Wort 'Trink' verwenden, ansonsten musss KONSUMIERT werden! No players can say the word 'DRINK' for the rest of the game otherwise you CONSUME.",
             "content": false,
             "category": "Rule"
         }
@@ -81,7 +81,7 @@
         "key": "f682d7c0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "No calling players by their first name FOR THE REST OF THE GAME. Last names only or drink.",
+            "description": "Für den Rest des Spieles darf niemand mehr beim Vornamen genannt werden! Wer es doch tut, trinkt! No calling players by their first name FOR THE REST OF THE GAME. Last names only or drink.",
             "content": false,
             "category": "Rule"
         }
@@ -92,7 +92,7 @@
         "key": "f6837400_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "No pointing for the rest of the game! Get caught and drink!  Elbow pointing is ok.",
+            "description": "Für den Rest des Spieles darfst du nicht mehr mit dem Finger zeigen. Dein ellenbogen ist ok. Wirst du beim schummeln erwischt, trinkst du! No pointing for the rest of the game! Get caught and drink!  Elbow pointing is ok.",
             "content": false,
             "category": "Rule"
         }
@@ -103,7 +103,7 @@
         "key": "f683e930_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "A tiny invisible man started living on the rim of your vessel.  Help him off before your COMPULSORY drinks, and help him back on afterwards.  Drink every time you forget!",
+            "description": "Auf dem Rande deines Glass lebt jetzt ein winziger, unsichtbarer Mann. A tiny invisible man started living on the rim of your vessel.  Du musst ihm erst runter helfen, bevor due trinken darfst und ihm danach auch ganz brav wieder hoch helfen. Immer wenn du es vergisst, trinkst du! Help him off before your COMPULSORY drinks, and help him back on afterwards.  Drink every time you forget!",
             "content": false,
             "category": "Rule"
         }
@@ -114,7 +114,7 @@
         "key": "f6841040_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Everybody drink and move one seat over in the current direction of play.",
+            "description": "Jeder trinkt und rutscht einen platz weiter, in die momentane spielrichtung. Everybody drink and move one seat over in the current direction of play.",
             "content": false,
             "category": "Everybody"
         }
@@ -125,7 +125,7 @@
         "key": "f6845e60_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Anyone with a tattoo drink and show one tattoo to the group.",
+            "description": "Jeder mit einem Tattoo trinkt und zeigt der Gruppe eins seiner Tattos. Anyone with a tattoo drink and show one tattoo to the group.",
             "content": false,
             "category": "Profile"
         }
@@ -136,7 +136,7 @@
         "key": "f6848570_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "contentBasic",
-            "description": "The stars are aligned funny... Drink if you're a...",
+            "description": "Die Sterne stehen schlecht... Trink wenn du... bist. The stars are aligned funny... Drink if you're a...",
             "content": "starSigns",
             "category": "Profile"
         }
@@ -147,7 +147,7 @@
         "key": "f684faa0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "You must move in slow motion until your next turn.  Get caught forgetting and drink!",
+            "description": "Du usst dich bis zu deinem nächsten Zug in Zeitlupe bewegen. Tust du es nicht, trinkst du. You must move in slow motion until your next turn.  Get caught forgetting and drink!",
             "content": false,
             "category": "Rule"
         }
@@ -158,7 +158,7 @@
         "key": "f68596e0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "contentJoke",
-            "description": "Guys have a drink.",
+            "description": "Alle Jungs trinken.",
             "content": "guyJokes",
             "category": "Profile"
         }
@@ -169,7 +169,7 @@
         "key": "f685bdf0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "contentJoke",
-            "description": "Girls take a drink.",
+            "description": "Alle Mädchen trinken.",
             "content": "girlJokes",
             "category": "Profile"
         }
@@ -180,7 +180,7 @@
         "key": "f6865a30_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "All Students enrolled with an education provider of any kind drink",
+            "description": "Alle Schüler und Studenten jeglicher Art müssen trinken. All Students enrolled with an education provider of any kind drink",
             "content": false,
             "category": "Profile"
         }
@@ -191,7 +191,7 @@
         "key": "f686a850_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Drink 1, 2, or 3 drinks.  All players must match you!",
+            "description": "Nimm 1,2 oder 3 Schlücke.  Alle anderen müssen dir nachmachen!",
             "content": false,
             "category": "Power"
         }
@@ -202,7 +202,7 @@
         "key": "f686f670_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Play now goes in the opposite direction.",
+            "description": "Richtungswechsel! Das spiel verläuft jetzt anders herrum..",
             "content": false,
             "category": "Rule"
         }
