@@ -286,40 +286,40 @@
 },
 {
     "objectType": "subgame",
-    "name": "Drinking Buddies",
+    "name": "Camarazi de bautura",
     "key": "f688a420_397f_11e8_a45b_25718a0c5009",
     "details": {
         "subgameType": "standard",
-        "description": "Every time you or the player opposite has to drink, the buddy has to as well for the rest of the game!",
+        "description": "Alegeti un camarad de bautura. Pentru resul jocului, de fiecare data cand unul din voi trebuie sa bea, camaradul nu-l lasa la greu si trebuie sa bea si el!",
         "content": false,
         "category": "Rule"
     }
 },
 {
     "objectType": "subgame",
-    "name": "Round of applause",
+    "name": "Runde de aplauze",
     "key": "f688cb30_397f_11e8_a45b_25718a0c5009",
     "details": {
         "subgameType": "standard",
-        "description": "Applaud every time someone has to drink for the rest of the game!  Forget to applaud and drink.",
+        "description": "Aplauda de fiecare data cand cineva trebuie sa bea, pentru tot restul jocului! Daca uiti sa-i aplauzi trebuie sa bei tu ( adu-ti aminte sa te apaluzi singur )!",
         "content": false,
         "category": "Rule"
     }
 },
 {
     "objectType": "subgame",
-    "name": "Hipster Pants",
+    "name": "Pantaloni de hipsteri",
     "key": "f6894060_397f_11e8_a45b_25718a0c5009",
     "details": {
         "subgameType": "standard",
-        "description": "Whoever has the tightest pants or jeans drinks.",
+        "description": "Cine are cei mai stramti pantaloni, trebuie sa bea! Daca nici unul din voi nu poarta pantaloni ( de ce ati face asta..? ), toti jucatori beau!",
         "content": false,
         "category": "Profile"
     }
 },
 {
     "objectType": "subgame",
-    "name": "Spin the bottle",
+    "name": "Invarte sticla",
     "key": "f6894061_397f_11e8_a45b_25718a0c5009",
     "details": {
         "subgameType": "canvas",
@@ -330,11 +330,11 @@
 },
 {
     "objectType": "subgame",
-    "name": "Fastest Tapper",
+    "name": "Cel mai rapid!",
     "key": "5cb87b07_160d_11e8_a7c5_d7bf8118b9c6",
     "details": {
         "subgameType": "canvas",
-        "description": "You and the player opposite tap as fast as you can to make your character run to their drink and drink the whole thing.  Loser drinks 3!",
+        "description": "Regulile sunt simple: impreuna cu jucatorul din fata ta, trebuie sa apasati pe marignea telefonului pentru a va muta caracterul virtual pana ajunge la paharul cu bere. Odata ajunsi, trebuie sa continuati sa apasati, pana cand paharul se termina. Pierzatorul trebuie sa bea 3 guri",
         "content": "tap-race",
         "category": "Battle"
     }
@@ -352,187 +352,187 @@
 },
 {
     "objectType": "subgame",
-    "name": "Rock Paper Scissors",
+    "name": "Piatra, foarfece, hartie!",
     "key": "f689dca0_397f_11e8_a45b_25718a0c5009",
     "details": {
         "subgameType": "standard",
-        "description": "Challenge the player opposite you to a best of three.  Loser drinks 3!",
+        "description": "Provoaca-l pe jucatorul din fata ta la un joc clasic de Piatra, Foarfece, Hartie. Se joaca 3 meciuri, castiga cel care are 2 victorii. Pierzatorul trebuie sa bea 3 guri.",
         "content": false,
         "category": "Battle"
     }
 },
 {
     "objectType": "subgame",
-    "name": "Cave Man",
+    "name": "Omul cavernelor",
     "key": "f689dca1_397f_11e8_a45b_25718a0c5009",
     "details": {
         "subgameType": "standard",
-        "description": "You can only speak in three word sentences for the rest of the game!  Drink each time you forget!",
+        "description": "Pentru tot restul jocului, trebuie sa vorbesti doar in propozitii de cate 3 cuvinte! Daca uiti si folosesti mai multe, trebuie sa bei!",
         "content": false,
         "category": "Rule"
     }
 },
 {
     "objectType": "subgame",
-    "name": "Quaff, Scull, Chug",
+    "name": "Shot, Capac, Da-l pe gat",
     "key": "f68a2ac0_397f_11e8_a45b_25718a0c5009",
     "details": {
         "subgameType": "standard",
-        "description": "Drink the rest of your vessel. Owww it hurts I know.",
+        "description": "Trebuie sa bei tot ce ai in pahar sau sticla... Stiu ca doare... Dar trebuie...",
         "content": false,
         "category": "Solo"
     }
 },
 {
     "objectType": "subgame",
-    "name": "Speak in a foreign Accent",
+    "name": "Vorbeste cu un accent strain",
     "key": "f68a2ac1_397f_11e8_a45b_25718a0c5009",
     "details": {
         "subgameType": "contentBasic",
-        "description": "Speak in the following accent for the rest of the game! Drink each time you forget.",
+        "description": "Pentru tot restul jocului, trebuie sa folosesti urmatorul accent strain! Daca uiti, trebuie sa bei.",
         "content": "accents",
         "category": "Rule"
     }
 },
 {
     "objectType": "subgame",
-    "name": "Question Master",
+    "name": "Maestrul intrebarilor!",
     "key": "f68a78e0_397f_11e8_a45b_25718a0c5009",
     "details": {
         "subgameType": "standard",
-        "description": "You are the question master.  If you ask someone a question and they answer you, they have to drink.  They are allowed to respond only with \"@#$% off\" or by asking a question back.",
+        "description": "De acum inainte, esti maestrul intrebarilor! Daca ii adresezi cuiva o intrebare si iti raspunde, trebuie sa bea. Cei intrebati au voie sa-ti raspunda doar cu o alta intrebare sau cu o injuratura.",
         "content": false,
         "category": "Power"
     }
 },
 {
     "objectType": "subgame",
-    "name": "Snake Eyes",
+    "name": "Ochi de sarpe",
     "key": "f68a9ff0_397f_11e8_a45b_25718a0c5009",
     "details": {
         "subgameType": "standard",
-        "description": "Until your next turn, anyone who you catch looking directly in your eyes has to drink.",
+        "description": "Pana cand vine din nou tura ta, daca prinzi pe cineva ca te priveste direct in ochi, trebuie sa bea!",
         "content": false,
         "category": "Power"
     }
 },
 {
     "objectType": "subgame",
-    "name": "Rule Master",
+    "name": "Maestrul regulilor!",
     "key": "f68ac700_397f_11e8_a45b_25718a0c5009",
     "details": {
         "subgameType": "standard",
-        "description": "You are the Rule Master.  Create a rule that everyone must follow including yourself.  Failure to follow the rule results in a drink for that player.",
+        "description": "De acum inainte, tu esti maestrul regulilor! Creaza o regula pe care toti jucatorii trebuie sa o urmeze, inclusiv tu. Daca cineva uita si nu urmeaza regula, trebuie sa bea.",
         "content": false,
         "category": "Power"
     }
 },
 {
     "objectType": "subgame",
-    "name": "Drinking solo",
+    "name": "Este trist sa bei singur",
     "key": "f68b1520_397f_11e8_a45b_25718a0c5009",
     "details": {
         "subgameType": "standard",
-        "description": "Never drink alone... except now... drink alone now.",
+        "description": "Niciodata sa nu bei singur... Cu exceptia asta... Ia o gura din bautura, singur!",
         "content": false,
         "category": "Solo"
     }
 },
 {
     "objectType": "subgame",
-    "name": "Drink like a Lady",
+    "name": "Bea ca o doamna",
     "key": "f68b8a50_397f_11e8_a45b_25718a0c5009",
     "details": {
         "subgameType": "standard",
-        "description": "From now on all players must only drink with their left hand and their pinky finger must be removed from the vessel like a proper lady.  Failure to do so means drink.",
+        "description": "De acum inainte, toti jucatorii trebuie sa bea ca o doamna, folosindu-si doar mana stanga si cu degetul mic ridicat de pe pahar sau sticla. Daca nu va respectati statutul de doamna, trebuie sa beti!",
         "content": false,
         "category": "Rule"
     }
 },
 {
     "objectType": "subgame",
-    "name": "Silence is Golden",
+    "name": "Tacerea este de aur",
     "key": "f68bb160_397f_11e8_a45b_25718a0c5009",
     "details": {
         "subgameType": "standard",
-        "description": "Don't speak until your next turn.  Any utterance, even an \"mmm\" results in a drink, so quiet!",
+        "description": "Timp de o tura nu trebuie sa vorbesti! Nici un sunet nu este permis, nici macar \"mmm\". Daca nu taci, va trebui sa bei!",
         "content": false,
         "category": "Rule"
     }
 },
 {
     "objectType": "subgame",
-    "name": "Take Two",
+    "name": "A doua incercare",
     "key": "f68bd870_397f_11e8_a45b_25718a0c5009",
     "details": {
         "subgameType": "standard",
-        "description": "Have a couple of drinks just for yourself.",
+        "description": "Ia cateva guri din bautura, doar tu.",
         "content": false,
         "category": "Solo"
     }
 },
 {
     "objectType": "subgame",
-    "name": "Take Three",
+    "name": "A treia incercare",
     "key": "f68bff80_397f_11e8_a45b_25718a0c5009",
     "details": {
         "subgameType": "standard",
-        "description": "Have a few drinkies just for you.",
+        "description": "Ia cateva guri din bautura, doar tu.",
         "content": false,
         "category": "Solo"
     }
 },
 {
     "objectType": "subgame",
-    "name": "Nominate One",
+    "name": "Alege-ti o victima",
     "key": "f68c2690_397f_11e8_a45b_25718a0c5009",
     "details": {
         "subgameType": "standard",
-        "description": "Choose your victim for one drink nomination.",
+        "description": "Alege-ti victima cu grija, doarece victima aleasa trebuie sa bea o gura!",
         "content": false,
         "category": "Power"
     }
 },
 {
     "objectType": "subgame",
-    "name": "Nominate Two",
+    "name": "Alege-ti doua victime",
     "key": "f68c4da0_397f_11e8_a45b_25718a0c5009",
     "details": {
         "subgameType": "standard",
-        "description": "Choose one victim or spread your two drink nominations out.",
+        "description": "Alege-ti una sau doua victime cu grija, doarece victimile alease trebuie sa bea o gura!",
         "content": false,
         "category": "Power"
     }
 },
 {
     "objectType": "subgame",
-    "name": "Nominate Three",
+    "name": "Alege-ti trei victime",
     "key": "f68c74b0_397f_11e8_a45b_25718a0c5009",
     "details": {
         "subgameType": "standard",
-        "description": "Choose one victim or spread your three drink nominations out.",
+        "description": "Alege-ti una, doua sau trei victime cu grija, doarece victimile alease trebuie sa bea o gura!",
         "content": false,
         "category": "Power"
     }
 },
 {
     "objectType": "subgame",
-    "name": "Speak with a lisp",
+    "name": "Vorbeste balbait",
     "key": "f68c9bc0_397f_11e8_a45b_25718a0c5009",
     "details": {
         "subgameType": "standard",
-        "description": "Speak with a lisp for the rest of the game!  If you get caught breaking character... drink.",
+        "description": "Pentru tot restul jocului trebuie sa vorbesti balbait! Daca esti prins ca nu te-ai balbait, trebuie sa bei!",
         "content": false,
         "category": "Rule"
     }
 },
 {
     "objectType": "subgame",
-    "name": "One Truth, Two Lies",
+    "name": "Un adevar si doua minciuni",
     "key": "f68cc2d0_397f_11e8_a45b_25718a0c5009",
     "details": {
         "subgameType": "standard",
-        "description": "Tell one truth and two lies in a random order.  Everyone locks in their guess for the truth.  Anyone who doesn't get it right drinks and you drink for everyone that does!",
+        "description": "Spune un adevar si doua minciuni in ce oridine vrei tu. Pe rand, fiecare jucator trebuie sa ghiceasca care este adevarul. Fiecare persoana care nu ghiceste trebuie sa bea iar tu, trebuie sa bei pentru fiecare persoana care ghiceste.",
         "content": false,
         "category": "Challenge"
     }
