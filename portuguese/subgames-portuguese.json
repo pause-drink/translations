@@ -1,494 +1,494 @@
 [{
         "objectType": "subgame",
-        "name": "Name Swap",
+        "name": "Troca de Nomes",
         "key": "f67e9200_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Swap names with the player who's turn it is next for the rest of the game.  Whenever ANYBODY calls either of you by your former name they drink!",
+            "description": "Tu e o próximmo jogador trocam de nomes durante o resto do jogo.  Sempre que alguém vos chamar pelo vosso nome original, bebe.",
             "content": false,
             "category": "Rule"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Round the sun",
+        "name": "À volta do Sol",
         "key": "bb98c83d_ba0d_464d_8694_a453df0f927e",
         "details": {
             "subgameType": "standard",
-            "description": "The player who's birthday is the closest to today drink 3!",
+            "description": "O jogador com o aniversário mais próximo do dia de hoje bebe 3 golos!",
             "content": false,
             "category": "Profile"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Cheers, Kanpai, Salud!",
+        "name": "Chin-Chin, Kanpai, Salud!",
         "key": "f6815120_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "All players have a drink!",
+            "description": "Todos os jogadores bebem!",
             "content": false,
             "category": "Everybody"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Bartender",
+        "name": "Barman",
         "key": "f6819f40_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Get all players' drinks until your next turn (they pay for them!).  They can only request your service when they've finished their previous drink.",
+            "description": "Manda vir bebidas para todos os jogadores (Cada um paga a sua!).  Só podem pedir o teu serviço quando terminarem a bebida anterior.",
             "content": false,
             "category": "Rule"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Toothless",
+        "name": "Sem dentes",
         "key": "c214144e_a54f_4dd8_86dc_5d287aaed772",
         "details": {
             "subgameType": "standard",
-            "description": "Don't show your teeth for the rest of the game!  Drink each time you show those pearly whites.",
+            "description": "Não podes mostrar os dentes durante o resto do jogo.  Bebe um golo cada vez que fores apanhado a fazê-lo.",
             "content": false,
             "category": "Rule"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Finish it",
+        "name": "Acaba com isso!",
         "key": "f681ed60_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "players with clearly less than quarter of a drink, finish it off!",
+            "description": "Jogadores com menos de um quarto de bebida no copo, bebem tudo!",
             "content": false,
             "category": "Profile"
         }
     },
     {
         "objectType": "subgame",
-        "name": "The \"D\" word",
+        "name": "A palavra \"B\".",
         "key": "f6826290_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "No players can say the word 'DRINK' for the rest of the game otherwise you CONSUME.",
+            "description": "Nenhum jogador pode dizer a palavra 'BEBE' durante o resto do jogo. Se o fizerem devem beber.",
             "content": false,
             "category": "Rule"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Last Names Only",
+        "name": "Só apelidos",
         "key": "f682d7c0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "No calling players by their first name FOR THE REST OF THE GAME. Last names only or drink.",
+            "description": "Durante o resto do jogo tratem-se pelos apelidos ou então bebem.",
             "content": false,
             "category": "Rule"
         }
     },
     {
         "objectType": "subgame",
-        "name": "It's Rude to Point",
+        "name": "É feio apontar",
         "key": "f6837400_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "No pointing for the rest of the game! Get caught and drink!  Elbow pointing is ok.",
+            "description": "Durante o resto do jogo não se pode apointar! Quem for apanhado bebe!  Pode apontar-se com o cotovelo.",
             "content": false,
             "category": "Rule"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Invisible man",
+        "name": "Homem Invisivel",
         "key": "f683e930_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "A tiny invisible man started living on the rim of your vessel.  Help him off before your COMPULSORY drinks, and help him back on afterwards.  Drink every time you forget!",
+            "description": "Um pequeno homem invisivel vive na borda do teu copo.  Sempre que fores beber ajuda-o a sair, e coloca-o de volta quando terminares de beber.  Bebe de novo sempre que te esqueceres de o fazer!",
             "content": false,
             "category": "Rule"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Seat Swap",
+        "name": "Troca de lugar",
         "key": "f6841040_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Everybody drink and move one seat over in the current direction of play.",
+            "description": "Toda a gente bebe e troca para o lugar seguinte na direcção do sentido do jogo.",
             "content": false,
             "category": "Everybody"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Tattooed",
+        "name": "Tatuado",
         "key": "f6845e60_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Anyone with a tattoo drink and show one tattoo to the group.",
+            "description": "Todos os que tem tatuagens bebem e mostram a tatuagem ao grupo.",
             "content": false,
             "category": "Profile"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Star Signs",
+        "name": "Signos",
         "key": "f6848570_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "contentBasic",
-            "description": "The stars are aligned funny... Drink if you're a...",
+            "description": "As estrelas estão alinhadas de uma forma bizarra... Bebem todos os...",
             "content": "starSigns",
             "category": "Profile"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Slooowwww  motion",
+        "name": "Câmara leeenta",
         "key": "f684faa0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "You must move in slow motion until your next turn.  Get caught forgetting and drink!",
+            "description": "Até ao teu próximo turno move-te em câmara lenta.  Se te esqueceres e fores apanhado, bebe!",
             "content": false,
             "category": "Rule"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Who runs the world?",
+        "name": "Quem manda no mundo?",
         "key": "f68596e0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "contentJoke",
-            "description": "Guys have a drink.",
+            "description": "Homens bebem.",
             "content": "guyJokes",
             "category": "Profile"
         }
     },
     {
         "objectType": "subgame",
-        "name": "It's a man's world",
+        "name": "O mundo é dos homens",
         "key": "f685bdf0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "contentJoke",
-            "description": "Girls take a drink.",
+            "description": "Mulheres bebem.",
             "content": "girlJokes",
             "category": "Profile"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Students",
+        "name": "Estudantes",
         "key": "f6865a30_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "All Students enrolled with an education provider of any kind drink",
+            "description": "Todos os estudantes bebem.",
             "content": false,
             "category": "Profile"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Set the bar",
+        "name": "Nivela as bebidas",
         "key": "f686a850_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Drink 1, 2, or 3 drinks.  All players must match you!",
+            "description": "Bebe 1, 2, ou 3 golos.  Todos os jogadores fazem o mesmo!",
             "content": false,
             "category": "Power"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Rewind",
+        "name": "Rebobina",
         "key": "f686f670_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Play now goes in the opposite direction.",
+            "description": "Inverte o sentido do jogo.",
             "content": false,
             "category": "Rule"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Eyes wide shut",
+        "name": "Olhos completamente fechados",
         "key": "f6874490_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Keep your eyes closed until your next turn. Only open them for games that require vision, else drink each time you're caught.",
+            "description": "Mantém os olhos fechados até o teu próximo turno. Só os poderás abrir para jogos em que a visão seja necessária, se não for bebe de cada vez que fores apanhado.",
             "content": false,
             "category": "Rule"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Repeater",
+        "name": "Repetidor",
         "key": "f6876ba0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Repeat the last word of every sentence you say for the rest of the game!  Forget, and drink.",
+            "description": "Repete a última palavra de cada frase que dizes, durante o resto do jogo!  Esquece de fazê-lo e bebe.",
             "content": false,
             "category": "Rule"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Multi-lingual",
+        "name": "Poliglota",
         "key": "f68792b0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Any player who can speak more than one language fluently has a drink for each language.  Call out the language before each drink.",
+            "description": "Qualquer jogador que saiba falar várias linguas, bebe um golo por cada.  Grita a língua antes de cada golo.",
             "content": false,
             "category": "Profile"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Thumb Master",
+        "name": "Mestre do Polegar",
         "key": "f687b9c0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "You're the thumb master.  Place your thumb on the table top (or somewhere else agreed upon) any time BETWEEN TURNS and MAXIMUM ONCE PER TURN.  The last person to also place their thumb drinks.",
+            "description": "És o mestre do polegar.  Coloca o teu polegar em cima da mesa (ou outro lugar acordado) a qualquer altura entre turnos e apenas uma vez por turno. Os outros jogadores terão de fazer o mesmo, o último a fazê-lo bebe.",
             "content": false,
             "category": "Power"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Name that track",
+        "name": "Qual o nome da Música?",
         "key": "f687e0d0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "If there is a song playing, name the song or artist.  If you get it nominate, otherwise take one drink.  If there is no music, everybody drinks!",
+            "description": "Se está uma música a tocar, diz o seu nome ou o do artista.  Se acertares manda alguém beber, se falhares bebe tu.  Se não houver música, bebem todos!",
             "content": false,
             "category": "Challenge"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Over the top",
+        "name": "Braço-de-ferro",
         "key": "f68807e0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Who's got the buffest guns out of you and the player opposite?  Arm wrestle to find out.  Loser drinks and winner nominates 3.",
+            "description": "quem é o mais forte, tu ou o jogador à tua frente?  Façam um braço-de-ferro.  O perdedor bebe e o vencedor nomeia 3 outros jogadores para beberm também.",
             "content": false,
             "category": "Battle"
         }
     },
     {
         "objectType": "subgame",
-        "name": "T-rex",
+        "name": "Tiranossaurus-rex",
         "key": "f6885600_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "You now have little T-rex arms for the rest of the game! Your elbows are not allowed to leave your torso.  If you forget or they come off, drink!",
+            "description": "Durante o resto do jogo tens braços de T-rex! Osteus cotovelos deverão estar sempre colados ao torso.  Se te esqueceres, bebe!",
             "content": false,
             "category": "Rule"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Drinking Buddies",
+        "name": "Amigos dos copos",
         "key": "f688a420_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Every time you or the player opposite has to drink, the buddy has to as well for the rest of the game!",
+            "description": "Durante o resto do jogo tu e o jogador à tua frente são amigos dos copos. Sempre que um beber, o outro bebe também!",
             "content": false,
             "category": "Rule"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Round of applause",
+        "name": "Aplausos",
         "key": "f688cb30_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Applaud every time someone has to drink for the rest of the game!  Forget to applaud and drink.",
+            "description": "Durante o resto do jogo aplaude sempre que alguém beber!  Se te esqueceres bebe também.",
             "content": false,
             "category": "Rule"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Hipster Pants",
+        "name": "Calças Hipster",
         "key": "f6894060_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Whoever has the tightest pants or jeans drinks.",
+            "description": "Quem tiver as calças mais apertadas bebe.",
             "content": false,
             "category": "Profile"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Spin the bottle",
+        "name": "Roda a garrafa",
         "key": "f6894061_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "canvas",
-            "description": "Put the phone in the middle of all players.  Press go and spin the bottle!  Whoever it lands on has to drink 3.",
+            "description": "Coloca o telefone no centro dos jogagores.  Clica para que a a garrafa rode!  Quando parar, o escolhido pela garrafa bebe 3.",
             "content": "spin-the-bottle",
             "category": "Everybody"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Fastest Tapper",
+        "name": "O mais rápido a clicar",
         "key": "5cb87b07_160d_11e8_a7c5_d7bf8118b9c6",
         "details": {
             "subgameType": "canvas",
-            "description": "You and the player opposite tap as fast as you can to make your character run to their drink and drink the whole thing.  Loser drinks 3!",
+            "description": "Tu e o jogador à tua frente clicam no ecrã para que a vossa personagem chegue à bebida e a termine primeiro.  Quem perdcer bebe 3!",
             "content": "tap-race",
             "category": "Battle"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Buzzers",
+        "name": "Campaínha",
         "key": "d8f50c0b_3080_4190_be10_1367a86bf184",
         "details": {
             "subgameType": "canvas",
-            "description": "It's multiple choice quiz time for up to 10 players. Drink 1 for wrong answers. Answer correctly and exit the quiz.  Last player drinks 3!",
+            "description": "Um quiz para até 10 jogadores. Bebe 1 golo por cada resposta errada. Responde correctamente e abandona o quiz.  O último jogador bebe 3!",
             "content": "buzzers",
             "category": "Everybody"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Rock Paper Scissors",
+        "name": "Pedra Papel Tesoura",
         "key": "f689dca0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Challenge the player opposite you to a best of three.  Loser drinks 3!",
+            "description": "Desafia o jogador à tua frente para um jogo à melhor de três.  Quem perder bebe 3!",
             "content": false,
             "category": "Battle"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Cave Man",
+        "name": "Homem das cavernas",
         "key": "f689dca1_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "You can only speak in three word sentences for the rest of the game!  Drink each time you forget!",
+            "description": "Durante o resto do jogo só podes falar com frases compostas por 3 palavras!  Bebe de cada vez que te esqueceres!",
             "content": false,
             "category": "Rule"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Quaff, Scull, Chug",
+        "name": "Bota a baixo",
         "key": "f68a2ac0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Drink the rest of your vessel. Owww it hurts I know.",
+            "description": "Termina o que quer que haja no copo. Dói não dói...",
             "content": false,
             "category": "Solo"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Speak in a foreign Accent",
+        "name": "Fala com um sotaque estranjeiro",
         "key": "f68a2ac1_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "contentBasic",
-            "description": "Speak in the following accent for the rest of the game! Drink each time you forget.",
+            "description": "Durante o resto do jogo fala com o seguinte sotaque! Bebe de cada vez que te esqueceres.",
             "content": "accents",
             "category": "Rule"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Question Master",
+        "name": "Inquiridor Mestre",
         "key": "f68a78e0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "You are the question master.  If you ask someone a question and they answer you, they have to drink.  They are allowed to respond only with \"@#$% off\" or by asking a question back.",
+            "description": "Tu és o inquiridor mestre.  Se fizeres uma pergunta a alguém e ele responder, ele terá de beber.  Para que não bebam terão de te dar uma resposta ordinária ou então fazerem-te uma nova pergunta.",
             "content": false,
             "category": "Power"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Snake Eyes",
+        "name": "Olhos de Cobra",
         "key": "f68a9ff0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Until your next turn, anyone who you catch looking directly in your eyes has to drink.",
+            "description": "Até à tua próxima vez, sempre que apanhares alguém a olhar-te nos olhos, esse alguém bebe.",
             "content": false,
             "category": "Power"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Rule Master",
+        "name": "Mestre legislador",
         "key": "f68ac700_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "You are the Rule Master.  Create a rule that everyone must follow including yourself.  Failure to follow the rule results in a drink for that player.",
+            "description": "Cria uma lei que todos terão de cumprir, inclusivé tu.  Quem for apanhado a prevaricar essa lei, bebe.",
             "content": false,
             "category": "Power"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Drinking solo",
+        "name": "Beber a sós",
         "key": "f68b1520_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Never drink alone... except now... drink alone now.",
+            "description": "Nunca bebas sozinho... excepto agora... bebe sozinho agora.",
             "content": false,
             "category": "Solo"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Drink like a Lady",
+        "name": "Beber como uma senhora",
         "key": "f68b8a50_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "From now on all players must only drink with their left hand and their pinky finger must be removed from the vessel like a proper lady.  Failure to do so means drink.",
+            "description": "Durante o resto do jogo todos os jogadores, sempre que beberem deverão fazê-lo pegando no copo com a mão esquerda e com o dedo mindinho esticado para o ar.  Se se esquecerem bebem outra vez.",
             "content": false,
             "category": "Rule"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Silence is Golden",
+        "name": "O silêncio é de ouro",
         "key": "f68bb160_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Don't speak until your next turn.  Any utterance, even an \"mmm\" results in a drink, so quiet!",
+            "description": "Não fales até ao teu próximo turno.  Mesmo um pequeno \"mmm\" obriga-te a beber, por isso, CALA-TE!",
             "content": false,
             "category": "Rule"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Take Two",
+        "name": "Toma duas",
         "key": "f68bd870_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Have a couple of drinks just for yourself.",
+            "description": "Bebe duas só por seres quem és.",
             "content": false,
             "category": "Solo"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Take Three",
+        "name": "Toma três",
         "key": "f68bff80_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Have a few drinkies just for you.",
+            "description": "Bebe três por seres assim.",
             "content": false,
             "category": "Solo"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Nominate One",
+        "name": "Nomeia um",
         "key": "f68c2690_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Choose your victim for one drink nomination.",
+            "description": "Nomeia uma vítima para beber.",
             "content": false,
             "category": "Power"
         }
