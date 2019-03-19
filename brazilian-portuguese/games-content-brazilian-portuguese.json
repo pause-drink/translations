@@ -155,11 +155,11 @@
 		"Prateado"
 	],
 	"basicCategories" : [
-		"Movie (can be 'The _____')",
-		"Food",
+		"Filme",
+		"Comida",
 		"Animal",
-		"Country",
-		"Actor or Actress"
+		"País",
+		"Ator ou Atriz"
 	],
 	"easyLetters" : [
 		"A",
@@ -180,16 +180,16 @@
 		"T"
 	],
 	"tongueTwisters" : [
-		"Peter Piper picked a peck of pickled peppers.  A peck of pickled peppers Peter Piper picked.",
-		"How much wood would a woodchuck chuck if a woodchuck could chuck wood?",
-		"I saw Susie sitting in a shoe shine shop.  Where she sits she shines, and where she shines she sits.",
-		"Fuzzy Wuzzy was a bear. Fuzzy Wuzzy had no hair. Fuzzy Wuzzy wasn't very fuzzy, was he?",
-		"Can you can a can as a canner can can a can?",
-		"I have got a date at a quarter to eight; I’ll see you at the gate, so don’t be late.",
-		"If two witches would watch two watches, which witch would watch which watch?",
-		"Betty Botter had some butter, “But,” she said, “this butter's bitter.",
-		"Six sick hicks nick six slick bricks",
-		"One-one was a race horse. Two-two was one too.  One-one won one race.  Two-two won one too."
+		"Num ninho de mafagafos há sete mafagafinhos. Quando a mafagafa gafa, gafam os sete mafagafinhos.",
+		"Três pratos de trigo para três tigres tristes.",
+		"O tempo perguntou ao tempo quanto tempo o tempo tem, o tempo respondeu ao tempo que o tempo tem o tempo que o tempo tem.",
+		"O Rato roeu a rica roupa do rei de Roma! A rainha raivosa rasgou o resto e depois resolveu remendar.",
+		"Em rápido rapto, um rápido rato raptou três ratos sem deixar rastros.",
+		"Olha o sapo dentro do saco. O saco com o sapo dentro. O sapo batendo papo e o papo soltando o vento.",
+		"A babá boba bebeu o leite do bebê.",
+		"Bagre branco, branco bagre.",
+		"O que é que Cacá quer? Cacá quer caqui. Qual caqui que Cacá quer? Cacá quer qualquer caqui.",
+		"Chega de cheiro de cera suja."
 	],
 	"famousSongs" : [
 		"Mack The Knife - Bobby Darin",
@@ -241,16 +241,16 @@
 	],
 	"playingCards" : {
 		"suit" : [
-			"Hearts",
-			"Diamonds",
-			"Clubs",
-			"Spades"
+			"Copas",
+			"Ouros",
+			"Paus",
+			"Espadas"
 		],
 		"value" : [
-			"Ace",
-			"King",
-			"Queen",
-			"Jack",
+			"Ás",
+			"Rei",
+			"Rainha",
+			"Valete",
 			"10",
 			"9",
 			"8",
