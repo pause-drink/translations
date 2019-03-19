@@ -874,75 +874,75 @@
 		],
 		"dares" : [
 			{
-				"question" : "Let the group pose you in an embarrassing position and take a picture.",
+				"question" : "Lass dich von der Gruppe in einer peinlichen Pose fotografieren.",
 				"drinkValue" :2
 			},
 			{
-				"question" : "Curse like sailor for 20 seconds straight.",
+				"question" : "Fluche für 20 Sekunden.",
 				"drinkValue" : 1
 			},
 			{
-				"question" : "Do four cartwheels in row.",
+				"question" : "Drehe 4 Räder hintereinander.",
 				"drinkValue" : 3
 			},
 			{
-				"question" : "Lick the floor.",
+				"question" : "Lecke den Boden ab.",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "Let the group give you a new hairstyle.",
+				"question" : "Lass dir von der Gruppe einen neuen Haarschnitt verpassen.",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "Do the worm.",
+				"question" : "Mach den Wurm-Tanzmove.",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "Get slapped on the face by the person of your choosing.",
+				"question" : "Werde geohrfeigt von einer Person deiner Wahl.",
 				"drinkValue" : 1
 			},
 			{
-				"question" : "Spin an imaginary hula hoop around your waist for 3 minutes while the game continues.",
+				"question" : "Mach einen imaginären Hula Hoop und halte diesen für 3 Minuten, während das Spiel weiter geht.",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "Make a funny face and keep making it for 2 minutes while the game continues.",
+				"question" : "Ziehe eine Grimasse und halte diese für 2 Minuten, während das Spiel weiter geht.",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "Remove your socks with your teeth.",
+				"question" : "Ziehe deine Socken mit deinen Zähnen aus.",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "Howl like a wolf for 30 seconds.",
+				"question" : "Heule wie ein Wolf für 30 Sekunden.",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "Until your next turn, talk super loud, like nobody can hear you.",
+				"question" : "Bis zu deiner nächsten Runde musst du so laut reden, als würde dich keiner verstehen.",
 				"drinkValue" : 1
 			},
 			{
-				"question" : "Make out with your hand.",
+				"question" : "Knutsche mit deiner Hand.",
 				"drinkValue" : 1
 			},
 			{
-				"question" : "Talk without closing your mouth until your next turn.",
+				"question" : "Bis zu deiner nächsten Runde musst du mit offenem Mund reden.",
 				"drinkValue" : 1
 			},
 			{
-				"question" : "Get into a debate with a wall.",
+				"question" : "Starte eine Diskussion mit einer Wand.",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "Call a random number and try to flirt with the person who picks up.",
+				"question" : "Rufe eine zufällige Nummer an und versuche mit der Person zu flirten.",
 				"drinkValue" : 3
 			},
 			{
-				"question" : "Lick a doorknob.",
+				"question" : "Lecke einen Türgriff ab.",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "Take a selfie with the toilet and post it online.",
+				"question" : "Mach ein Selfie mit der Toilette und veröffentliche es online.",
 				"drinkValue" : 2
 			}
 		]
