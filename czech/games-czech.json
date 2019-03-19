@@ -1,11 +1,11 @@
 [  
     {  
         "objectType":"game",
-        "name":"Všechny subgames",
+        "name":"Všechny hry",
         "key":"c7e8b6f0_15f8_11e8_b744_d5d3aedd70fd",
         "details":{  
             "gameType":"standard",
-            "description":"Všechny hry jsou k dispozici!",
+            "description":"Všechny hry jsou ve hře!",
             "editable":false,
             "defaultGame":false,
             "subgames":[
@@ -101,11 +101,11 @@
     },    
     {  
         "objectType":"game",
-        "name":"Mobilní dílčí hry",
+        "name":"Mobilní hry",
         "key":"c33ea5a0_1752_11e8_aee9_f17646040cf8",
         "details":{  
             "gameType":"standard",
-            "description":"Tyto dílčí hry jsou jako mini mobilní počítačové hry.",
+            "description":"Tyto hry jsou jako mini video-hry.",
             "editable":false,
             "defaultGame":false,
             "subgames":[  
@@ -123,7 +123,7 @@
         "key":"b7323291_445f_41cb_9763_1ab18abbb95d",
         "details":{  
             "gameType":"standard",
-            "description":"Všechny subgames, které jste si koupili.",
+            "description":"Všechny vaše hry, které jste zakoupili.",
             "editable":false,
             "defaultGame":false,
             "purchasedSubgames": true,
@@ -136,7 +136,7 @@
         "key":"d5a55ddc_6ef5_40de_8876_3fd4512d4a02",
         "details":{  
             "gameType":"standard",
-            "description":"To jsou všechny vlastní dílčí hry, které jste vytvořili.",
+            "description":"Všechny vaše hry, které jste vytvořili.",
             "editable":false,
             "defaultGame":false,
             "customSubgames": true,
@@ -149,7 +149,7 @@
         "key":"5de00964_c93c_4f42_a7c2_d2a14e4e8c5e",
         "details":{  
             "gameType":"standard",
-            "description":"Nechcete číst složitá pravidla? Vyberte si tento.",
+            "description":"Nechcete číst složitá pravidla? Vyberte si tyto.",
             "editable":false,
             "defaultGame":true,
             "subgames":[

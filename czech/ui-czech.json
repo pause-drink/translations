@@ -1,27 +1,27 @@
 {
   "disclaimer": {
-    "para1":  "test czech para 1",
-    "para2":  "test czech para 2est czech para 2est czech para 2est czech para 2est czech para 2est czech para 2est czech pa",
-    "ok": "test czech ok"
+    "para1":  "Nejsme zodpovědní za to, jak vy a vaši přátelé s Pause Drink naložíte",
+    "para2": "Tato hra je určena pouze pro dospělé osoby. PROSÍME, pijte zodpovědně, dávejte na sebe i vaše přátele pozor a užijte si večer.",
+    "ok": "OK"
   },
   "main_menu": {
-    "music": "Muasdfsic",
-    "sound": "All asdf",
-    "info": "Inasdfo",
-    "made_by": "Pause...driasdf made by",
-    "contact": "Gasdfasdfuch by",
-    "rate": "Pleaasdfate on"
+    "music": "Hudba",
+    "sound": "Všechny zvuky",
+    "info": "Informace",
+    "made_by": "Pause...drink! byl vytvořen",
+    "contact": "Kontaktujte nás na",
+    "rate": "Ohodnoťe nás na"
   },
   "game_select": {
-    "game_mode": "czech Mode",
-    "create": "Create czech",
-    "options": "Advanced czech",
-    "flick": "czech speed",
-    "time": "Turn czech limit",
-    "turns": "czech end limit",
-    "repeats": "Play czech only once",
-    "back": "Bczechck",
-    "play": "Plczech",
-    "close": "adfclos"
+    "game_mode": "Herní režim",
+    "create": "Kreativní režim",
+    "options": "Pokročilé nastavení",
+    "flick": "Rychlost míchání otázek",
+    "time": "Délka tahu",
+    "turns": "Počet tahů",
+    "repeats": "Hrát každou z her pouze jednou",
+    "back": "Zpět",
+    "play": "Hrát",
+    "close": "Zavřít"
   }
 }
