@@ -55,68 +55,68 @@
     },
     {
         "objectType": "subgame",
-        "name": "Finish it",
+        "name": "Terminelo!",
         "key": "f681ed60_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "players with clearly less than quarter of a drink, finish it off!",
+            "description": "¡players with clearly less than quarter of a drink, finish it off!",
             "content": false,
-            "category": "Profile"
+            "category": "Perfil"
         }
     },
     {
         "objectType": "subgame",
-        "name": "The \"D\" word",
+        "name": "La palabra \"B\"",
         "key": "f6826290_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "No players can say the word 'DRINK' for the rest of the game otherwise you CONSUME.",
+            "description": "Ningún jugador puede decir la palabra \"BEBER\" durante el resto del juego, de lo contrario, CONSUME.",
             "content": false,
-            "category": "Rule"
+            "category": "Regla"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Last Names Only",
+        "name": "Solo apellidos",
         "key": "f682d7c0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "No calling players by their first name FOR THE REST OF THE GAME. Last names only or drink.",
+            "description": "No llamen por su nombre PARA EL RESTO DEL JUEGO. Sólo apellidos, o beben.",
             "content": false,
-            "category": "Rule"
+            "category": "Regla"
         }
     },
     {
         "objectType": "subgame",
-        "name": "It's Rude to Point",
+        "name": "Es Grosero Apuntar",
         "key": "f6837400_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "No pointing for the rest of the game! Get caught and drink!  Elbow pointing is ok.",
+            "description": "¡No apuntes por el resto del juego! ¡Quédate atrapado y bebe! Apuntar con el codo está bien.",
             "content": false,
-            "category": "Rule"
+            "category": "Regla"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Invisible man",
+        "name": "Hombre invisible",
         "key": "f683e930_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "A tiny invisible man started living on the rim of your vessel.  Help him off before your COMPULSORY drinks, and help him back on afterwards.  Drink every time you forget!",
+            "description": "Un pequeño hombre invisible comenzó a vivir en el borde de tu nave. Ayúdalo a salir antes de tus bebidas OBLIGATORIAS y ayúdalo a volver después. Bebe cada vez que te olvides!",
             "content": false,
-            "category": "Rule"
+            "category": "Regla"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Seat Swap",
+        "name": "Cambio de Asiento",
         "key": "f6841040_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Everybody drink and move one seat over in the current direction of play.",
+            "description": "Todos beben y mueven un asiento en la dirección actual del juego.",
             "content": false,
-            "category": "Everybody"
+            "category": "Todos"
         }
     },
     {
@@ -127,7 +127,7 @@
             "subgameType": "standard",
             "description": "Anyone with a tattoo drink and show one tattoo to the group.",
             "content": false,
-            "category": "Profile"
+            "category": "Perfil"
         }
     },
     {
@@ -138,7 +138,7 @@
             "subgameType": "contentBasic",
             "description": "The stars are aligned funny... Drink if you're a...",
             "content": "starSigns",
-            "category": "Profile"
+            "category": "Perfil"
         }
     },
     {
@@ -149,7 +149,7 @@
             "subgameType": "standard",
             "description": "You must move in slow motion until your next turn.  Get caught forgetting and drink!",
             "content": false,
-            "category": "Rule"
+            "category": "Regla"
         }
     },
     {
@@ -160,7 +160,7 @@
             "subgameType": "contentJoke",
             "description": "Guys have a drink.",
             "content": "guyJokes",
-            "category": "Profile"
+            "category": "Perfil"
         }
     },
     {
@@ -171,7 +171,7 @@
             "subgameType": "contentJoke",
             "description": "Girls take a drink.",
             "content": "girlJokes",
-            "category": "Profile"
+            "category": "Perfil"
         }
     },
     {
@@ -182,7 +182,7 @@
             "subgameType": "standard",
             "description": "All Students enrolled with an education provider of any kind drink",
             "content": false,
-            "category": "Profile"
+            "category": "Perfil"
         }
     },
     {
@@ -193,7 +193,7 @@
             "subgameType": "standard",
             "description": "Drink 1, 2, or 3 drinks.  All players must match you!",
             "content": false,
-            "category": "Power"
+            "category": "Poder"
         }
     },
     {
@@ -204,7 +204,7 @@
             "subgameType": "standard",
             "description": "Play now goes in the opposite direction.",
             "content": false,
-            "category": "Rule"
+            "category": "Regla"
         }
     },
     {
@@ -215,7 +215,7 @@
             "subgameType": "standard",
             "description": "Keep your eyes closed until your next turn. Only open them for games that require vision, else drink each time you're caught.",
             "content": false,
-            "category": "Rule"
+            "category": "Regla"
         }
     },
     {
@@ -226,7 +226,7 @@
             "subgameType": "standard",
             "description": "Repeat the last word of every sentence you say for the rest of the game!  Forget, and drink.",
             "content": false,
-            "category": "Rule"
+            "category": "Regla"
         }
     },
     {
@@ -237,7 +237,7 @@
             "subgameType": "standard",
             "description": "Any player who can speak more than one language fluently has a drink for each language.  Call out the language before each drink.",
             "content": false,
-            "category": "Profile"
+            "category": "Perfil"
         }
     },
     {
@@ -248,7 +248,7 @@
             "subgameType": "standard",
             "description": "You're the thumb master.  Place your thumb on the table top (or somewhere else agreed upon) any time BETWEEN TURNS and MAXIMUM ONCE PER TURN.  The last person to also place their thumb drinks.",
             "content": false,
-            "category": "Power"
+            "category": "Poder"
         }
     },
     {
@@ -259,7 +259,7 @@
             "subgameType": "standard",
             "description": "If there is a song playing, name the song or artist.  If you get it nominate, otherwise take one drink.  If there is no music, everybody drinks!",
             "content": false,
-            "category": "Challenge"
+            "category": "Reto"
         }
     },
     {
@@ -270,7 +270,7 @@
             "subgameType": "standard",
             "description": "Who's got the buffest guns out of you and the player opposite?  Arm wrestle to find out.  Loser drinks and winner nominates 3.",
             "content": false,
-            "category": "Battle"
+            "category": "Batalla"
         }
     },
     {
@@ -281,7 +281,7 @@
             "subgameType": "standard",
             "description": "You now have little T-rex arms for the rest of the game! Your elbows are not allowed to leave your torso.  If you forget or they come off, drink!",
             "content": false,
-            "category": "Rule"
+            "category": "Regla"
         }
     },
     {
@@ -292,7 +292,7 @@
             "subgameType": "standard",
             "description": "Every time you or the player opposite has to drink, the buddy has to as well for the rest of the game!",
             "content": false,
-            "category": "Rule"
+            "category": "Regla"
         }
     },
     {
@@ -303,7 +303,7 @@
             "subgameType": "standard",
             "description": "Applaud every time someone has to drink for the rest of the game!  Forget to applaud and drink.",
             "content": false,
-            "category": "Rule"
+            "category": "Regla"
         }
     },
     {
@@ -314,7 +314,7 @@
             "subgameType": "standard",
             "description": "Whoever has the tightest pants or jeans drinks.",
             "content": false,
-            "category": "Profile"
+            "category": "Perfil"
         }
     },
     {
@@ -325,7 +325,7 @@
             "subgameType": "canvas",
             "description": "Put the phone in the middle of all players.  Press go and spin the bottle!  Whoever it lands on has to drink 3.",
             "content": "spin-the-bottle",
-            "category": "Everybody"
+            "category": "Todos"
         }
     },
     {
@@ -336,7 +336,7 @@
             "subgameType": "canvas",
             "description": "You and the player opposite tap as fast as you can to make your character run to their drink and drink the whole thing.  Loser drinks 3!",
             "content": "tap-race",
-            "category": "Battle"
+            "category": "Batalla"
         }
     },
     {
@@ -347,7 +347,7 @@
             "subgameType": "canvas",
             "description": "It's multiple choice quiz time for up to 10 players. Drink 1 for wrong answers. Answer correctly and exit the quiz.  Last player drinks 3!",
             "content": "buzzers",
-            "category": "Everybody"
+            "category": "Todos"
         }
     },
     {
@@ -358,7 +358,7 @@
             "subgameType": "standard",
             "description": "Challenge the player opposite you to a best of three.  Loser drinks 3!",
             "content": false,
-            "category": "Battle"
+            "category": "Batalla"
         }
     },
     {
@@ -369,7 +369,7 @@
             "subgameType": "standard",
             "description": "You can only speak in three word sentences for the rest of the game!  Drink each time you forget!",
             "content": false,
-            "category": "Rule"
+            "category": "Regla"
         }
     },
     {
@@ -391,7 +391,7 @@
             "subgameType": "contentBasic",
             "description": "Speak in the following accent for the rest of the game! Drink each time you forget.",
             "content": "accents",
-            "category": "Rule"
+            "category": "Regla"
         }
     },
     {
@@ -402,7 +402,7 @@
             "subgameType": "standard",
             "description": "You are the question master.  If you ask someone a question and they answer you, they have to drink.  They are allowed to respond only with \"@#$% off\" or by asking a question back.",
             "content": false,
-            "category": "Power"
+            "category": "Poder"
         }
     },
     {
@@ -413,7 +413,7 @@
             "subgameType": "standard",
             "description": "Until your next turn, anyone who you catch looking directly in your eyes has to drink.",
             "content": false,
-            "category": "Power"
+            "category": "Poder"
         }
     },
     {
@@ -424,7 +424,7 @@
             "subgameType": "standard",
             "description": "You are the Rule Master.  Create a rule that everyone must follow including yourself.  Failure to follow the rule results in a drink for that player.",
             "content": false,
-            "category": "Power"
+            "category": "Poder"
         }
     },
     {
@@ -446,7 +446,7 @@
             "subgameType": "standard",
             "description": "From now on all players must only drink with their left hand and their pinky finger must be removed from the vessel like a proper lady.  Failure to do so means drink.",
             "content": false,
-            "category": "Rule"
+            "category": "Regla"
         }
     },
     {
@@ -457,7 +457,7 @@
             "subgameType": "standard",
             "description": "Don't speak until your next turn.  Any utterance, even an \"mmm\" results in a drink, so quiet!",
             "content": false,
-            "category": "Rule"
+            "category": "Regla"
         }
     },
     {
@@ -490,7 +490,7 @@
             "subgameType": "standard",
             "description": "Choose your victim for one drink nomination.",
             "content": false,
-            "category": "Power"
+            "category": "Poder"
         }
     },
     {
@@ -501,7 +501,7 @@
             "subgameType": "standard",
             "description": "Choose one victim or spread your two drink nominations out.",
             "content": false,
-            "category": "Power"
+            "category": "Poder"
         }
     },
     {
@@ -512,7 +512,7 @@
             "subgameType": "standard",
             "description": "Choose one victim or spread your three drink nominations out.",
             "content": false,
-            "category": "Power"
+            "category": "Poder"
         }
     },
     {
@@ -523,7 +523,7 @@
             "subgameType": "standard",
             "description": "Speak with a lisp for the rest of the game!  If you get caught breaking character... drink.",
             "content": false,
-            "category": "Rule"
+            "category": "Regla"
         }
     },
     {
@@ -534,7 +534,7 @@
             "subgameType": "standard",
             "description": "Tell one truth and two lies in a random order.  Everyone locks in their guess for the truth.  Anyone who doesn't get it right drinks and you drink for everyone that does!",
             "content": false,
-            "category": "Challenge"
+            "category": "Reto"
         }
     },
     {
@@ -545,7 +545,7 @@
             "subgameType": "standard",
             "description": "Sit somewhere no-one has a direct line of sight on you for one round.  Come back for games that require you to be visible",
             "content": false,
-            "category": "Rule"
+            "category": "Regla"
         }
     },
     {
@@ -556,7 +556,7 @@
             "subgameType": "standard",
             "description": "The player opposite puts down their vessel.  Screw up any piece of paper and have 3 shots without leaning or changing position.  They drink once for every hit.  You drink for each miss!",
             "content": false,
-            "category": "Challenge"
+            "category": "Reto"
         }
     },
     {
@@ -567,7 +567,7 @@
             "subgameType": "standard",
             "description": "Everyone assigns themselves a one syllable nickname.  Start the game with everyone slowly in rhythm: 1.Knees, 2.Clap, 3.Right-hand-click, 4.Left-hand-click. Person who's turn it is: on beat 3 say a number from 1-4 and on beat 4 say a name. Whoever's name gets said: from the next beat 1, repeats their own name IN TIME WITH THE BEAT. The number the sender says governs the number of times the receiver repeats their name.  Receiver then becomes sender and says a number and name IN TIME WITH THE BEAT (on beat the 3 and 4) to pass on to the next person.",
             "content": false,
-            "category": "Everybody"
+            "category": "Todos"
         }
     },
     {
@@ -578,7 +578,7 @@
             "subgameType": "timer",
             "description": "Dance like a robot from the 80's for 30 seconds without breaking character or drink three.",
             "time": 30,
-            "category": "Dare"
+            "category": "Atrevimiento"
         }
     },
     {
@@ -588,7 +588,7 @@
         "details": {
             "subgameType": "standard",
             "description": "Strip one item of clothing or drink one.  Shoes, socks, and jewellery don't count.",
-            "category": "Dare"
+            "category": "Atrevimiento"
         }
     },
     {
@@ -598,7 +598,7 @@
         "details": {
             "subgameType": "standard",
             "description": "Strip two items of clothing or drink two.  Shoes, socks, and jewellery don't count.",
-            "category": "Dare"
+            "category": "Atrevimiento"
         }
     },
     {
@@ -608,7 +608,7 @@
         "details": {
             "subgameType": "standard",
             "description": "Strip three items of clothing or drink three.  Shoes, socks, and jewellery don't count.",
-            "category": "Dare"
+            "category": "Atrevimiento"
         }
     },
     {
@@ -619,7 +619,7 @@
             "subgameType": "standard",
             "description": "Put on some lipstick or drink two.",
             "content": false,
-            "category": "Dare"
+            "category": "Atrevimiento"
         }
     },
     {
@@ -629,7 +629,7 @@
         "details": {
             "subgameType": "standard",
             "description": "Let someone draw a stylish pencil moustache on you, or drink two.",
-            "category": "Dare"
+            "category": "Atrevimiento"
         }
     },
     {
@@ -640,7 +640,7 @@
             "subgameType": "timer",
             "description": "Attempt Michael Jackson's \"moon walk\" and other classic Michael moves for 30 seconds without breaking character or drink 3.",
             "time": 30,
-            "category": "Dare"
+            "category": "Atrevimiento"
         }
     },
     {
@@ -651,7 +651,7 @@
             "subgameType": "standard",
             "description": "Straight back, chest to the floor.  From the knees if you choose.  5 good push-ups or drink one.",
             "content": false,
-            "category": "Challenge"
+            "category": "Reto"
         }
     },
     {
@@ -662,7 +662,7 @@
             "subgameType": "standard",
             "description": "Straight back, chest to the floor.  From the knees if you choose. 10 good push-ups or drink two.",
             "content": false,
-            "category": "Challenge"
+            "category": "Reto"
         }
     },
     {
@@ -673,7 +673,7 @@
             "subgameType": "standard",
             "description": "Straight back, chest to the floor. From the knees if you choose.  15 good push-ups or drink three.",
             "content": false,
-            "category": "Challenge"
+            "category": "Reto"
         }
     },
     {
@@ -684,7 +684,7 @@
             "subgameType": "quickTimer",
             "description": "Hug another player within 10 seconds or drink.",
             "time": 10,
-            "category": "Challenge"
+            "category": "Reto"
         }
     },
     {
@@ -695,7 +695,7 @@
             "subgameType": "quickTimer",
             "description": "Convince another player to kiss your cheek in 10 seconds or drink.",
             "time": 10,
-            "category": "Challenge"
+            "category": "Reto"
         }
     },
     {
@@ -707,7 +707,7 @@
             "description": "Get players to guess the country by DANCE ONLY! No vocal sounds or other gestures.  The player who gets it nominates 2 drinks.  If noone gets it, everyone drinks and you drink 2!  You have 30 seconds.",
             "content": "countries",
             "time": 30,
-            "category": "Performer"
+            "category": "Ejecutante"
         }
     },
     {
@@ -719,7 +719,7 @@
             "description": "Other players must guess who you are by your IMPERSONATION ONLY.  If a player guesses right, you both get to nominate 2, otherwise everyone drinks!  You have 15 seconds.",
             "content": "impersonations",
             "time": 15,
-            "category": "Performer"
+            "category": "Ejecutante"
         }
     },
     {
@@ -731,7 +731,7 @@
             "description": "Don't show the phone to any other players.  Hum or whistle the song.  If another player guesses right they nominate 2, otherwise everyone drinks and you drink 2!  You have 45 seconds.",
             "content": "famousSongs",
             "time": 45,
-            "category": "Performer"
+            "category": "Ejecutante"
         }
     },
     {
@@ -743,7 +743,7 @@
             "description": "Pass the phone to the next player. They will read out the word which you must spell backwards WITH NO MISTAKES or drink 2. You have 25 seconds.",
             "content": "spellBackwards",
             "time": 25,
-            "category": "Challenge"
+            "category": "Reto"
         }
     },
     {
@@ -755,7 +755,7 @@
             "description": "Don't show the phone to any other players.  You have 1 minute to act out the clue.  No talking or vocal sounds of any kind. The player who gets it nominates 2.  If noone gets it everybody drinks!",
             "content": "charades",
             "time": 60,
-            "category": "Performer"
+            "category": "Ejecutante"
         }
     },
     {
@@ -767,7 +767,7 @@
             "description": "Don't show the phone to any other players.  You have 30 seconds to draw the following clue.  No talking!  The player who guesses right nominates 2.  If noone gets it everybody drinks!",
             "content": "doodles",
             "time": 30,
-            "category": "Performer"
+            "category": "Ejecutante"
         }
     },
     {
@@ -779,7 +779,7 @@
             "description": "Don't look at the answer.  Hold the phone to your forehead and show everyone else.  Ask yes/no questions to find out who you are. You have 60 seconds or drink 3!",
             "content": "famousPeople",
             "time": 60,
-            "category": "Challenge"
+            "category": "Reto"
         }
     },
     {
@@ -791,7 +791,7 @@
             "description": "Say the tongue twister perfectly... WITH YOUR EYES CLOSED. Once you reveal it, you'll have 30 seconds! Fail and drink 2!",
             "content": "tongueTwisters",
             "time": 30,
-            "category": "Challenge"
+            "category": "Reto"
         }
     },
     {
@@ -802,7 +802,7 @@
             "subgameType": "quickTimer",
             "description": "Name seven alternative or slang words for penis in one minute or drink.",
             "time": 60,
-            "category": "Challenge"
+            "category": "Reto"
         }
     },
     {
@@ -813,7 +813,7 @@
             "subgameType": "quickTimer",
             "description": "Name seven alternative or slang words for vagina in one minute or drink.",
             "time": 60,
-            "category": "Challenge"
+            "category": "Reto"
         }
     },
     {
@@ -824,7 +824,7 @@
             "subgameType": "quickTimer",
             "description": "Name seven alternative or slang words for breasts in one minute or drink.",
             "time": 60,
-            "category": "Challenge"
+            "category": "Reto"
         }
     },
     {
@@ -835,7 +835,7 @@
             "subgameType": "standard",
             "description": "All players start drinking at the same time.  YOU can stop when you like.  The player to your left can stop after you do, and the player to their left can stop after they do etc etc.",
             "content": false,
-            "category": "Everybody"
+            "category": "Todos"
         }
     },
     {
@@ -846,7 +846,7 @@
             "subgameType": "standard",
             "description": "Going clockwise from you, as a group, count upwards from 1.  However, noone can say a multiple of seven or any number with a seven in it!  Instead clap.  E.g 1, 2, 3, 4, 5, 6, clap, 8, 9...",
             "content": false,
-            "category": "Everybody"
+            "category": "Todos"
         }
     },
     {
@@ -857,7 +857,7 @@
             "subgameType": "standard",
             "description": "Every player choose a musical instrument with an action and sound.  The game starts with all players slapping their thighs and clapping their hands in a constant, repeated rhythm of slap-slap-clap-clap.  Start slow.  You start and pass the turn around the group by substituting the claps, first for your instrument, and then for another player's.  e.g. slap-slap-guitar-guitar-slap-slap-drums-drums.  The player who receives the turn (the drummer in this example) must IMMEDIATELY continue the rhythm with slap-slap-drums-drums-slap-slap-violin-violin  (or another players instrument) and play continues until someone stuffs up!  When you stuff up you drink and are out!  Other players continue until there are only two left who get to nominate 3 drinks each.  They should probably also start a band.",
             "content": false,
-            "category": "Everybody"
+            "category": "Todos"
         }
     },
     {
@@ -868,7 +868,7 @@
             "subgameType": "standard",
             "description": "Every player chooses their unique sexual position with it's action and name.  The game starts with all players slapping their thighs and clapping their hands in a constant, repeated rhythm of slap-slap-clap-clap.  Start slow.  You start and pass the turn around the group by substituting the claps, first for your sexual position and then for another player's.  e.g. slap-slap-missionary-slap-slap-doggy style.  The player who receives the turn (the doggy styler in this example) must IMMEDIATELY continue the rhythm with slap-slap-doggy style-slap-slap-blow job  (or another players sexual position) and play continues until someone stuffs up!  When you stuff up you drink and are out!  Other players continue until there are only two left who get to nominate 3 drinks each.  They should maybe get a room too.",
             "content": false,
-            "category": "Everybody"
+            "category": "Todos"
         }
     },
     {
@@ -879,7 +879,7 @@
             "subgameType": "standard",
             "description": "Say any random object.  The next player must say your object and then add their own.  players must keep repeating the growing list in order and adding their own objects until someone can't remember the sequence. Loser drinks 3!",
             "content": false,
-            "category": "Everybody"
+            "category": "Todos"
         }
     },
     {
@@ -890,7 +890,7 @@
             "subgameType": "standard",
             "description": "Everybody place one finger on the rim of a single cup filled with half a drink in the centre of the group.  Starting with you, take turns to guess the number of fingers that will be left on the cup, where as you make your guess, everyone can either leave there finger on or immediately remove it.  If you guess wrong, take a drink then put your finger back.  Get it right and you're free while the other players carry on.  The last player drinks the cup.  Delayed finger removals count as being left on and that player drinks.",
             "content": false,
-            "category": "Everybody"
+            "category": "Todos"
         }
     },
     {
@@ -901,7 +901,7 @@
             "subgameType": "standard",
             "description": "You say: \"A ship came into the harbour carrying a cargo load of...\"  then name a category of things and a thing from that category e.g. types of fruit, banana.  Each player says a new thing from the category on their turn.  Hesitate for 5 seconds or say something that's already been said and they drink.",
             "content": false,
-            "category": "Everybody"
+            "category": "Todos"
         }
     },
     {
@@ -912,7 +912,7 @@
             "subgameType": "standard",
             "description": "Start a rhyme off (or just say a word if you're boring).  Each player then has to rhyme with that.  Repeat a word or can't think of one and drink 2.  Words that sound the same but have a different meaning are ok.",
             "content": false,
-            "category": "Everybody"
+            "category": "Todos"
         }
     },
     {
@@ -923,7 +923,7 @@
             "subgameType": "standard",
             "description": "Think of something that you've never done but you think some other players have.  Everyone who's done it has to drink.",
             "content": false,
-            "category": "Power"
+            "category": "Poder"
         }
     },
     {
@@ -934,7 +934,7 @@
             "subgameType": "standard",
             "description": "Play starts clockwise around the group.  Each player says \"Fuzzy Duck\" until someone says \"Duzzy\".  Then play reverses and players have to say \"Ducky Fuzz\".  Play can be reversed again at any time when someone says \"Duzzy\".  Stuff it up and drink.",
             "content": false,
-            "category": "Everybody"
+            "category": "Todos"
         }
     },
     {
@@ -945,7 +945,7 @@
             "subgameType": "standard",
             "description": "Make \"beer goggles\" out of your thumbs and index fingers. Pass play to the left or right by extending the appropriate hand and saying \"woop\".  You can pass it across the circle by extending both hands directly towards a player and going \"woop woop\". No hesitation allowed!  Fail and drink!",
             "content": false,
-            "category": "Everybody"
+            "category": "Todos"
         }
     },
     {
@@ -956,7 +956,7 @@
             "subgameType": "canvas",
             "description": "It's high noon... you and the player opposite find yourselves in a gun duel.  Wait for the clock to strike midday. Shoot too soon and drink before starting again.  Get shot and drink 3!",
             "content": "high-noon",
-            "category": "Battle"
+            "category": "Batalla"
         }
     },
     {
@@ -967,7 +967,7 @@
             "subgameType": "canvas",
             "description": "Two player battle between you and the player opposite. Race towards each other head-on to see who is chicken. 3 drinks to the chicken and 6 each if you crash!",
             "content": "chicken",
-            "category": "Battle"
+            "category": "Batalla"
         }
     },
     {
@@ -978,7 +978,7 @@
             "subgameType": "truthOrDare",
             "description": "Select Truth or Dare. If you can't answer or complete the dare then take the number of drinks specified!",
             "content": "truthOrDare",
-            "category": "Dare"
+            "category": "Atrevimiento"
         }
     }
 ]
