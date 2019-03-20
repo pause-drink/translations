@@ -900,6 +900,7 @@
         "details": {
             "subgameType": "standard",
             "description": "You say: \"A ship came into the harbour carrying a cargo load of...\"  then name a category of things and a thing from that category e.g. types of fruit, banana.  Each player says a new thing from the category on their turn.  Hesitate for 5 seconds or say something that's already been said and they drink.",
+            "description": "Du sagst: \"Ein Schiff fährt in den Hafen und hat geladen...\" und nennst eine Kategorie und eine Sache dieser Kategorie. Z.B.: Obstsorten: Banane. Jeder Spieler nennt eine weitere passende Sache. Zögerst du für 5 Sekunden oder sagst du etwas was bereits genannt wurde: Trinken.",
             "content": false,
             "category": "Everybody"
         }
@@ -910,7 +911,7 @@
         "key": "f6935280_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Start a rhyme off (or just say a word if you're boring).  Each player then has to rhyme with that.  Repeat a word or can't think of one and drink 2.  Words that sound the same but have a different meaning are ok.",
+            "description": "Beginne einen Reim (oder nur ein Wort wenn du ein Langweiler bist). Jeder Spieler muss daraufhin den Reim fortführen. Trinke 2 Schlücke wenn du ein Wort wiederholst oder dir nichts mehr einfällt. Wörter die gleich lauten, aber eine andere Bedeutung haben sind ok.",
             "content": false,
             "category": "Everybody"
         }
@@ -921,7 +922,7 @@
         "key": "f6937990_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Think of something that you've never done but you think some other players have.  Everyone who's done it has to drink.",
+            "description": "Denke dir etwas aus, was du noch nie getan hast, aber wovon du denkst das deine Mitspieler es schon getan haben. Jeder der es bereits getan hat, muss trinken.",
             "content": false,
             "category": "Power"
         }
@@ -943,10 +944,7 @@
         "key": "f693eec0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Make \"beer goggles\" out of your thumbs and index fingers. Pass play to the left or right by extending the appropriate hand and saying \"woop\".  You can pass it across the circle by extending both hands directly towards a player and going \"woop woop\". No hesitation allowed!  Fail and drink!",
-            "content": false,
-            "category": "Everybody"
-        }
+            "description": "Forme eine Brille mit deinen Daumen und Zeigefingern. Gebe das Spiel nach Links oder Rechts weiter in dem du die entsprechende Hand anhebst und \"woop\" sagst. Du kannst es auch weitergeben in dem du beide Hände in die Richtung eines beliebigen Spielers neigst und \"woop woop\" sagst. Zögern ist nicht erlaubt! Scheiterst du, trinkst du!",
     },      
     {  
         "objectType":"subgame",
@@ -954,7 +952,7 @@
         "key":"f6898e80_397f_11e8_a45b_25718a0c5009",
         "details":{  
           "subgameType":"canvas",
-          "description":"It's high noon... you and the player opposite find yourselves in a gun duel.  Wait for the clock to strike midday. Shoot too soon and drink before starting again.  Get shot and drink 3!",
+          "description":"Es ist High Noon. Du und dein Gegenüber steht euch in einem Duell gegenüber. Warte bis die Uhr 12 schlägt. Schießt du zu früh, trinkst du und versuchst es noch einmal. Wirst du erschossen trinke 3 Schlücke!",
           "content":"high-noon",
           "category":"Battle"
         }
@@ -965,7 +963,7 @@
         "key":"4875ee99_4a2a_48d1_b074_408099efa0b1",
         "details":{  
           "subgameType":"canvas",
-          "description":"Two player battle between you and the player opposite. Race towards each other head-on to see who is chicken. 3 drinks to the chicken and 6 each if you crash!",
+          "description":"Zwei-Spieler Kampf zwischen dir und deinem Gegenüber. Rennt mit den Köpfen nach vorne aufeinander zu und findet heraus wer einen Rückzieher macht. 3 Schlücke an das feige Hühnchen und 6 für jeden falls ihr zusammenstoßt.",
           "content":"chicken",
           "category":"Battle"
         }
@@ -977,6 +975,7 @@
         "details": {
             "subgameType": "truthOrDare",
             "description": "Select Truth or Dare. If you can't answer or complete the dare then take the number of drinks specified!",
+            "description": "Wähle Wahrheit oder Pflicht. Falls du nicht antwortest oder deine Pflicht nicht erfüllst, trinke die festgelegte Anzahl an Schlücken.",
             "content": "truthOrDare",
             "category": "Dare"
         }
