@@ -1,23 +1,23 @@
 [{
         "objectType": "subgame",
-        "name": "Name Swap",
+        "name": "Cambio de nombre",
         "key": "f67e9200_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Swap names with the player who's turn it is next for the rest of the game.  Whenever ANYBODY calls either of you by your former name they drink!",
+            "description": "Intercambia nombres con el jugador que le toca a continuación para el resto del juego. ¡Cada vez que CUALQUIERA te llama a alguno de ustedes por su nombre anterior, ellos beben!",
             "content": false,
-            "category": "Rule"
+            "category": "Regla"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Round the sun",
+        "name": "Redondear el sol",
         "key": "bb98c83d_ba0d_464d_8694_a453df0f927e",
         "details": {
             "subgameType": "standard",
-            "description": "The player who's birthday is the closest to today drink 3!",
+            "description": "El jugador cuyo cumpleaños es el más cercano a hoy bebe 3!",
             "content": false,
-            "category": "Profile"
+            "category": "Perfil"
         }
     },
     {
@@ -26,31 +26,31 @@
         "key": "f6815120_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "All players have a drink!",
+            "description": "Todos tomen un bebida!",
             "content": false,
-            "category": "Everybody"
+            "category": "Todos"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Bartender",
+        "name": "Barman",
         "key": "f6819f40_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Get all players' drinks until your next turn (they pay for them!).  They can only request your service when they've finished their previous drink.",
+            "description": "Obtén las bebidas de todos los jugadores hasta tu próximo turno (¡ellos pagan por ellos!). Solo pueden solicitar su servicio cuando hayan terminado su bebida anterior.",
             "content": false,
-            "category": "Rule"
+            "category": "Regla"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Toothless",
+        "name": "Sin dientes",
         "key": "c214144e_a54f_4dd8_86dc_5d287aaed772",
         "details": {
             "subgameType": "standard",
-            "description": "Don't show your teeth for the rest of the game!  Drink each time you show those pearly whites.",
+            "description": "¡No muestres tus dientes por el resto del juego! Bebe cada vez que muestres esos blancos perlados.",
             "content": false,
-            "category": "Rule"
+            "category": "Regla"
         }
     },
     {
@@ -947,27 +947,27 @@
             "content": false,
             "category": "Everybody"
         }
-    },      
-    {  
-        "objectType":"subgame",
-        "name":"High Noon",
-        "key":"f6898e80_397f_11e8_a45b_25718a0c5009",
-        "details":{  
-          "subgameType":"canvas",
-          "description":"It's high noon... you and the player opposite find yourselves in a gun duel.  Wait for the clock to strike midday. Shoot too soon and drink before starting again.  Get shot and drink 3!",
-          "content":"high-noon",
-          "category":"Battle"
+    },
+    {
+        "objectType": "subgame",
+        "name": "High Noon",
+        "key": "f6898e80_397f_11e8_a45b_25718a0c5009",
+        "details": {
+            "subgameType": "canvas",
+            "description": "It's high noon... you and the player opposite find yourselves in a gun duel.  Wait for the clock to strike midday. Shoot too soon and drink before starting again.  Get shot and drink 3!",
+            "content": "high-noon",
+            "category": "Battle"
         }
-    },  
-    {  
-        "objectType":"subgame",
-        "name":"Chicken",
-        "key":"4875ee99_4a2a_48d1_b074_408099efa0b1",
-        "details":{  
-          "subgameType":"canvas",
-          "description":"Two player battle between you and the player opposite. Race towards each other head-on to see who is chicken. 3 drinks to the chicken and 6 each if you crash!",
-          "content":"chicken",
-          "category":"Battle"
+    },
+    {
+        "objectType": "subgame",
+        "name": "Chicken",
+        "key": "4875ee99_4a2a_48d1_b074_408099efa0b1",
+        "details": {
+            "subgameType": "canvas",
+            "description": "Two player battle between you and the player opposite. Race towards each other head-on to see who is chicken. 3 drinks to the chicken and 6 each if you crash!",
+            "content": "chicken",
+            "category": "Battle"
         }
     },
     {
