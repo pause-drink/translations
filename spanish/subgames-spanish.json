@@ -55,11 +55,11 @@
     },
     {
         "objectType": "subgame",
-        "name": "Terminelo!",
+        "name": "Terminalo!",
         "key": "f681ed60_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "¡players with clearly less than quarter of a drink, finish it off!",
+            "description": "¡Jugadores con menos de un cuarto de copa, terminalo!",
             "content": false,
             "category": "Perfil"
         }
@@ -928,11 +928,11 @@
     },
     {
         "objectType": "subgame",
-        "name": "Fuzzy Duck",
+        "name": "Hoy Soto",
         "key": "f693c7b0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "El juego comienza en el sentido de las agujas del reloj alrededor del grupo. Cada jugador dice \"Fuzzy Duck\" hasta que alguien diga \"Duzzy\". Luego el juego se invierte y los jugadores tienen que decir \"Ducky Fuzz\". El juego puede revertirse nuevamente en cualquier momento cuando alguien diga \"Duzzy\". Llénalo y bebe.",
+            "description": "El juego comienza en el sentido de las agujas del reloj alrededor del grupo. Cada jugador dice \"Hoy Soto\" hasta que alguien diga \"Duzzy\". Luego el juego se invierte y los jugadores tienen que decir \"Soto Hoy\". El juego puede revertirse nuevamente en cualquier momento cuando alguien diga \"Soy H-\". Llénalo y bebe.",
             "content": false,
             "category": "Todos"
         }
