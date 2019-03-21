@@ -1,34 +1,34 @@
 [{
         "objectType": "subgame",
-        "name": "Name Swap",
+        "name": "Echange de Noms",
         "key": "f67e9200_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Swap names with the player who's turn it is next for the rest of the game.  Whenever ANYBODY calls either of you by your former name they drink!",
+            "description": "Echange ton nom avec le joueur qui joue après toi pour le reste de la partie. Dès que quelqu'un appelle l'un d'entre vous par son ancien nom, il boit !",
             "content": false,
-            "category": "Rule"
+            "category": "Règle"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Round the sun",
+        "name": "Autour du Soleil",
         "key": "bb98c83d_ba0d_464d_8694_a453df0f927e",
         "details": {
             "subgameType": "standard",
-            "description": "The player who's birthday is the closest to today drink 3!",
+            "description": "Le joueur qui a son anniversaire le plus proche d'aujourd'hui boit 3 gorgées !",
             "content": false,
-            "category": "Profile"
+            "category": "Profil"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Cheers, Kanpai, Salud!",
+        "name": "Santé, Cheers, Salud!",
         "key": "f6815120_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "All players have a drink!",
+            "description": "Tout le monde boit un coup !",
             "content": false,
-            "category": "Everybody"
+            "category": "Tout le Monde"
         }
     },
     {
@@ -44,57 +44,57 @@
     },
     {
         "objectType": "subgame",
-        "name": "Toothless",
+        "name": "Sans Dents",
         "key": "c214144e_a54f_4dd8_86dc_5d287aaed772",
         "details": {
             "subgameType": "standard",
-            "description": "Don't show your teeth for the rest of the game!  Drink each time you show those pearly whites.",
+            "description": "Ne montre pas tes dents pour le reste de la partie!  Bois à chaque fois que tu montres ces belles perles blanches.",
             "content": false,
-            "category": "Rule"
+            "category": "Règle"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Finish it",
+        "name": "Finis le!",
         "key": "f681ed60_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "players with clearly less than quarter of a drink, finish it off!",
+            "description": "Les gens qui ont moins d'un quart de leur verre plein, finissez le!",
             "content": false,
-            "category": "Profile"
+            "category": "Profil"
         }
     },
     {
         "objectType": "subgame",
-        "name": "The \"D\" word",
+        "name": "Le mot \"D\" ",
         "key": "f6826290_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "No players can say the word 'DRINK' for the rest of the game otherwise you CONSUME.",
+            "description": "Personne ne peut plus dire le mot 'BOIRE', sinon il CONSUME.",
             "content": false,
-            "category": "Rule"
+            "category": "Règle"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Last Names Only",
+        "name": "Nom de Famille Seulement",
         "key": "f682d7c0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "No calling players by their first name FOR THE REST OF THE GAME. Last names only or drink.",
+            "description": "Personne n'appelle plus les autres par son prénom pour LE RESTE DE LA PARTIE. Noms de familles seulement sinon tu bois.",
             "content": false,
-            "category": "Rule"
+            "category": "Règle"
         }
     },
     {
         "objectType": "subgame",
-        "name": "It's Rude to Point",
+        "name": "C'est malpoli de pointer du doigt",
         "key": "f6837400_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "No pointing for the rest of the game! Get caught and drink!  Elbow pointing is ok.",
+            "description": "Plus personne ne pointe du doigt pour LE RESTE DE LA PARTIE! Tu bois si tu te fais prendre! On peut encore pointer les gens du menton.",
             "content": false,
-            "category": "Rule"
+            "category": "Règle"
         }
     },
     {
