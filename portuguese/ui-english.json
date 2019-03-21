@@ -1,0 +1,27 @@
+{
+  "disclaimer": {
+    "para1":  "We are not responsible for how you and your friends use Pause Drink.",
+    "para2":  "This game is for adults only. PLEASE drink responsibly, take care of yourself and your buddies, and have fun.",
+    "ok": "OK"
+  },
+  "main_menu": {
+    "music": "Music",
+    "sound": "All Sound",
+    "info": "Info",
+    "made_by": "Pause...drink! is made by",
+    "contact": "Get in touch by",
+    "rate": "Please rate on"
+  },
+  "game_select": {
+    "game_mode": "Game Mode",
+    "create": "Create mode",
+    "options": "Advanced options",
+    "flick": "Flicker speed",
+    "time": "Turn time limit",
+    "turns": "Game end limit",
+    "repeats": "Play subgames only once",
+    "back": "Back",
+    "play": "Play",
+    "close": "Close"
+  }
+}
