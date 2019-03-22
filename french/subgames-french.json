@@ -33,11 +33,11 @@
     },
     {
         "objectType": "subgame",
-        "name": "Bartender",
+        "name": "Tenancier de Bar",
         "key": "f6819f40_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Get all players' drinks until your next turn (they pay for them!).  They can only request your service when they've finished their previous drink.",
+            "description": "Sers les verres de tous les joueurs jusqu'à ton prochain tour (Ils payent pour si ils doivent les payer! ). Ils ne peuvent te demander que si ils ont finis leurs dernier verre.",
             "content": false,
             "category": "Rule"
         }
@@ -99,57 +99,57 @@
     },
     {
         "objectType": "subgame",
-        "name": "Invisible man",
+        "name": "Le petit bonhomme",
         "key": "f683e930_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "A tiny invisible man started living on the rim of your vessel.  Help him off before your COMPULSORY drinks, and help him back on afterwards.  Drink every time you forget!",
+            "description": "Un petit bonhomme vit maintenant sur le bord de ton verre. Sors le à chaque fois que tu veux boire, et remets le après. Bois à chaque fois que tu oublies.",
             "content": false,
-            "category": "Rule"
+            "category": "Règle"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Seat Swap",
+        "name": "Changement de Siège",
         "key": "f6841040_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Everybody drink and move one seat over in the current direction of play.",
+            "description": "Tout le monde boit et se déplace d'un siège dans le sens du jeu. ",
             "content": false,
-            "category": "Everybody"
+            "category": "Tout le monde"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Tattooed",
+        "name": "Tatoué",
         "key": "f6845e60_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Anyone with a tattoo drink and show one tattoo to the group.",
+            "description": "Les gens qui ont au moins un Tatouage boivent une gorgée et doivent en montrer au moins 1 à tout le monde.",
             "content": false,
-            "category": "Profile"
+            "category": "Profil"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Star Signs",
+        "name": "Les Signes des Etoiles",
         "key": "f6848570_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "contentBasic",
-            "description": "The stars are aligned funny... Drink if you're a...",
+            "description": "Les étoiles sont alignés de façon spéciale... Bois une gorgée si tu es une...",
             "content": "starSigns",
-            "category": "Profile"
+            "category": "Profil"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Slooowwww  motion",
+        "name": "Raleeentiiiiiii",
         "key": "f684faa0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "You must move in slow motion until your next turn.  Get caught forgetting and drink!",
+            "description": "Tu dois bouger au ralenti jusqu'à ton prochain tour. Bois à chaque fois que tu oublies.",
             "content": false,
-            "category": "Rule"
+            "category": "Règle"
         }
     },
     {
@@ -158,9 +158,9 @@
         "key": "f68596e0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "contentJoke",
-            "description": "Guys have a drink.",
+            "description": "Tous les Hommes boivent.",
             "content": "guyJokes",
-            "category": "Profile"
+            "category": "Profil"
         }
     },
     {
@@ -169,108 +169,108 @@
         "key": "f685bdf0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "contentJoke",
-            "description": "Girls take a drink.",
+            "description": "Toutes les Femmes boivent.",
             "content": "girlJokes",
-            "category": "Profile"
+            "category": "Profil"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Students",
+        "name": "Elèves",
         "key": "f6865a30_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "All Students enrolled with an education provider of any kind drink",
+            "description": "Tous les élèves qui sont dans n'importe quel type d'école boivent.",
             "content": false,
-            "category": "Profile"
+            "category": "Profil"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Set the bar",
+        "name": "Prépare le bar",
         "key": "f686a850_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Drink 1, 2, or 3 drinks.  All players must match you!",
+            "description": "Bois 1, 2 ou 3 gorgées.  Tout le monde doit te suivre!",
             "content": false,
-            "category": "Power"
+            "category": "Pouvoir"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Rewind",
+        "name": "Changement de sens",
         "key": "f686f670_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Play now goes in the opposite direction.",
+            "description": "On joue maintenant dans le sens opposé.",
             "content": false,
-            "category": "Rule"
+            "category": "Règle"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Eyes wide shut",
+        "name": "Les yeux fermés",
         "key": "f6874490_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Keep your eyes closed until your next turn. Only open them for games that require vision, else drink each time you're caught.",
+            "description": "Garde les yeux fermés jusqu'à ton prochain tour. Ouvres les seulement si un jeu le requière. Sinon, bois à chaque fois qu'on te voit les yeux ouverts.",
             "content": false,
-            "category": "Rule"
+            "category": "Règle"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Repeater",
+        "name": "Répéteur",
         "key": "f6876ba0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Repeat the last word of every sentence you say for the rest of the game!  Forget, and drink.",
+            "description": "Répète le dernier mot de chaque phrase que tu dis! Oublie et tu bois.",
             "content": false,
-            "category": "Rule"
+            "category": "Règle"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Multi-lingual",
+        "name": "Polyglotte",
         "key": "f68792b0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Any player who can speak more than one language fluently has a drink for each language.  Call out the language before each drink.",
+            "description": "Chaque joueur qui parle courament plus d'une langue bois une gorgées pour chaque langue.  Annonce la langue avant chaque gorgée.",
             "content": false,
-            "category": "Profile"
+            "category": "Profil"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Thumb Master",
+        "name": "Maitre du Pouce",
         "key": "f687b9c0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "You're the thumb master.  Place your thumb on the table top (or somewhere else agreed upon) any time BETWEEN TURNS and MAXIMUM ONCE PER TURN.  The last person to also place their thumb drinks.",
+            "description": "Tu es le Maitre du Pouce.  Place ton pouce sur le dessus de la table (ou quelque part ailleurs qui soit le dessus de quelque chose) quand tu veux ENTRE LES TOURS et MAXIMUM UNE FOIS PAR TOUR.  La dernière personne qui place aussi son pouce, bois.",
             "content": false,
-            "category": "Power"
+            "category": "Pouvoir"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Name that track",
+        "name": "Donne la musique",
         "key": "f687e0d0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "If there is a song playing, name the song or artist.  If you get it nominate, otherwise take one drink.  If there is no music, everybody drinks!",
+            "description": "Si il a de la musique, donne le titre ou l'artiste.  Si tu y arrives tu donnes, sinon tu prends une gorgée.  Si il n'y a pas de musique, tout le monde bois!",
             "content": false,
             "category": "Challenge"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Over the top",
+        "name": "Bras de fer",
         "key": "f68807e0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Who's got the buffest guns out of you and the player opposite?  Arm wrestle to find out.  Loser drinks and winner nominates 3.",
+            "description": "Qui a le plus de force entre toi et ton opposant ?  Faites un bras de fer pour le découvrir.  Le perdant bois 1 gorgée et le gagnant en distribue 3.",
             "content": false,
-            "category": "Battle"
+            "category": "Bataille"
         }
     },
     {
