@@ -279,18 +279,18 @@
         "key": "f6885600_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "You now have little T-rex arms for the rest of the game! Your elbows are not allowed to leave your torso.  If you forget or they come off, drink!",
+            "description": "Tu as maintenant des petits bras de T-rex jusqu'à la fin de la partie ! Tu n'as pas le droit de décoller tes coudes de ton torse. Si tu oublies ou qu'ils se décollent, tu bois!",
             "content": false,
-            "category": "Rule"
+            "category": "Règle"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Drinking Buddies",
+        "name": "Compères de Boisson",
         "key": "f688a420_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Every time you or the player opposite has to drink, the buddy has to as well for the rest of the game!",
++++            "description": "A chaque fois que toi ou the player opposite doivent boire, l'autre compère doit lui aussi boire jusqu'à la fin de la partie!",
             "content": false,
             "category": "Rule"
         }
@@ -303,7 +303,7 @@
             "subgameType": "standard",
             "description": "Applaud every time someone has to drink for the rest of the game!  Forget to applaud and drink.",
             "content": false,
-            "category": "Rule"
+            "category": "Règle"
         }
     },
     {
