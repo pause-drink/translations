@@ -235,7 +235,7 @@
         "key": "f68792b0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Každž hráč, jež dokáže mluvit plynule více než jedním jazykem se musí napít za každý takový jazyk.  Vyslovte jméno každého jazyku předtím, než se na něj napijete.",
+            "description": "Každý hráč, jež dokáže mluvit plynule více než jedním jazykem se musí napít za každý takový jazyk.  Vyslovte jméno každého jazyku předtím, než se na něj napijete.",
             "content": false,
             "category": "Profile"
         }
@@ -268,7 +268,7 @@
         "key": "f68807e0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Kdo je z vás a hráče naproti nejnamakanější?  Páka vás rozsoudí.  Poražený pije and vítěz nominuje tři hráče, kdo se taky napijí.",
+            "description": "Kdo je z vás a hráče naproti nejnamakanější?  Páka vás rozsoudí.  Poražený pije a vítěz nominuje tři hráče, kdo se taky napijí.",
             "content": false,
             "category": "Battle"
         }
