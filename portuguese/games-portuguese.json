@@ -1,11 +1,11 @@
 [  
     {  
         "objectType":"game",
-        "name":"All subgames",
+        "name":"Todos os subjogos",
         "key":"c7e8b6f0_15f8_11e8_b744_d5d3aedd70fd",
         "details":{  
             "gameType":"standard",
-            "description":"All available subgames are in play!",
+            "description":"Todos os subjogos disponíveis!",
             "editable":false,
             "defaultGame":false,
             "subgames":[
@@ -101,11 +101,11 @@
     },    
     {  
         "objectType":"game",
-        "name":"Mobile subgames",
+        "name":"Subjogos para dispositivos móveis",
         "key":"c33ea5a0_1752_11e8_aee9_f17646040cf8",
         "details":{  
             "gameType":"standard",
-            "description":"These subgames are like mini mobile computer games.",
+            "description":"Estes subjogos são como minijogos de computador.",
             "editable":false,
             "defaultGame":false,
             "subgames":[  
@@ -119,11 +119,11 @@
     },    
     {  
         "objectType":"game",
-        "name":"Purchased",
+        "name":"Comprados",
         "key":"b7323291_445f_41cb_9763_1ab18abbb95d",
         "details":{  
             "gameType":"standard",
-            "description":"All the subgames you've bought.",
+            "description":"Todos os subjogos que compraste.",
             "editable":false,
             "defaultGame":false,
             "purchasedSubgames": true,
@@ -132,11 +132,11 @@
     },
     {  
         "objectType":"game",
-        "name":"Custom subgames",
+        "name":"Subjogos personalizados",
         "key":"d5a55ddc_6ef5_40de_8876_3fd4512d4a02",
         "details":{  
             "gameType":"standard",
-            "description":"These are all the custom subgames you've created.",
+            "description":"Todos os subjogos personalizados que criaste.",
             "editable":false,
             "defaultGame":false,
             "customSubgames": true,
@@ -145,11 +145,11 @@
     },
     {  
         "objectType":"game",
-        "name":"Simple rules only",
+        "name":"Subjogos com regras simples",
         "key":"5de00964_c93c_4f42_a7c2_d2a14e4e8c5e",
         "details":{  
             "gameType":"standard",
-            "description":"Don't want to read complex rules? Choose this one.",
+            "description":"Não queres perder tempo a ler regras complicadas? Escolhe este modo.",
             "editable":false,
             "defaultGame":true,
             "subgames":[
