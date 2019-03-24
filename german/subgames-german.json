@@ -899,7 +899,6 @@
         "key": "f6932b70_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "You say: \"A ship came into the harbour carrying a cargo load of...\"  then name a category of things and a thing from that category e.g. types of fruit, banana.  Each player says a new thing from the category on their turn.  Hesitate for 5 seconds or say something that's already been said and they drink.",
             "description": "Du sagst: \"Ein Schiff fährt in den Hafen und hat geladen...\" und nennst eine Kategorie und eine Sache dieser Kategorie. Z.B.: Obstsorten: Banane. Jeder Spieler nennt eine weitere passende Sache. Zögerst du für 5 Sekunden oder sagst du etwas was bereits genannt wurde: Trinken.",
             "content": false,
             "category": "Everybody"
@@ -945,6 +944,9 @@
         "details": {
             "subgameType": "standard",
             "description": "Forme eine Brille mit deinen Daumen und Zeigefingern. Gebe das Spiel nach Links oder Rechts weiter in dem du die entsprechende Hand anhebst und \"woop\" sagst. Du kannst es auch weitergeben in dem du beide Hände in die Richtung eines beliebigen Spielers neigst und \"woop woop\" sagst. Zögern ist nicht erlaubt! Scheiterst du, trinkst du!",
+            "content": false,
+            "category": "Everybody"
+        }
     },      
     {  
         "objectType":"subgame",
@@ -974,7 +976,6 @@
         "key": "c18ad7c0_e27a_4dc2_8c80_661057c2054b",
         "details": {
             "subgameType": "truthOrDare",
-            "description": "Select Truth or Dare. If you can't answer or complete the dare then take the number of drinks specified!",
             "description": "Wähle Wahrheit oder Pflicht. Falls du nicht antwortest oder deine Pflicht nicht erfüllst, trinke die festgelegte Anzahl an Schlücken.",
             "content": "truthOrDare",
             "category": "Dare"
