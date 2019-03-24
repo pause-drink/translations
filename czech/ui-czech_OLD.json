@@ -1,0 +1,27 @@
+{
+  "disclaimer": {
+    "para1":  "Nejsme zodpovědní za to, jak vy a vaši přátelé s Pause Drink naložíte",
+    "para2": "Tato hra je určena pouze pro dospělé osoby. PROSÍME, pijte zodpovědně, dávejte na sebe i vaše přátele pozor a užijte si večer.",
+    "ok": "OK"
+  },
+  "main_menu": {
+    "music": "Hudba",
+    "sound": "Všechny zvuky",
+    "info": "Informace",
+    "made_by": "Pause...drink! byl vytvořen",
+    "contact": "Kontaktujte nás na",
+    "rate": "Ohodnoťe nás na"
+  },
+  "game_select": {
+    "game_mode": "Herní režim",
+    "create": "Kreativní režim",
+    "options": "Pokročilé nastavení",
+    "flick": "Rychlost míchání otázek",
+    "time": "Délka tahu",
+    "turns": "Počet tahů",
+    "repeats": "Hrát každou z her pouze jednou",
+    "back": "Zpět",
+    "play": "Hrát",
+    "close": "Zavřít"
+  }
+}
