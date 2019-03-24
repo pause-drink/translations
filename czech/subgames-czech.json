@@ -323,7 +323,7 @@
         "key": "f6894061_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "canvas",
-            "description": "Položte mobil do prostřed všech hráčů.  Stiskněte \"go\" a roztočte tak flašku!  Na koho flaška ukáže se musí třikrát napít.",
+            "description": "Položte zařízení do prostřed všech hráčů.  Stiskněte \"go\" a roztočte tak flašku!  Na koho flaška ukáže se musí třikrát napít.",
             "content": "spin-the-bottle",
             "category": "Everybody"
         }
@@ -728,7 +728,7 @@
         "key": "f68ff720_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "timedReveal",
-            "description": "Neukazuj ostatním hráčům mobil.  Zabroukej nebo zapískej písničku.  Pokud se hráč trefí, oba nominujete 2 napití, jinak všichni pijí a ty piješ dvakrát!  Máš 45 sekund.",
+            "description": "Neukazuj ostatním hráčům zařízení.  Zabroukej nebo zapískej písničku.  Pokud se hráč trefí, oba nominujete 2 napití, jinak všichni pijí a ty piješ dvakrát!  Máš 45 sekund.",
             "content": "famousSongs",
             "time": 45,
             "category": "Performer"
@@ -740,7 +740,7 @@
         "key": "f6901e30_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "timedReveal",
-            "description": "Podej mobil dalšímu hráči. Přečtou ti slovo, jež budeš muset vyhláskovat pozpátku BEZ CHYB nebo se dvakrát napít. Máš 25 sekund.",
+            "description": "Podej zařízení dalšímu hráči. Přečtou ti slovo, jež budeš muset vyhláskovat pozpátku BEZ CHYB nebo se dvakrát napít. Máš 25 sekund.",
             "content": "spellBackwards",
             "time": 25,
             "category": "Challenge"
@@ -752,7 +752,7 @@
         "key": "f6909360_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "timedReveal",
-            "description": "Neukazuj ostatním hráčům mobil.  Máš 1 minutu na to, abys pantomimou předvedl zadání.  Zákaz mluvení či jakýchkoliv zvuků. Hráč, jež zadání uhodne, nominuje 2 napití.  Pokud se nikdo netrefí, všichni pijí!",
+            "description": "Neukazuj ostatním hráčům zařízení.  Máš 1 minutu na to, abys pantomimou předvedl zadání.  Zákaz mluvení či jakýchkoliv zvuků. Hráč, jež zadání uhodne, nominuje 2 napití.  Pokud se nikdo netrefí, všichni pijí!",
             "content": "charades",
             "time": 60,
             "category": "Performer"
@@ -764,7 +764,7 @@
         "key": "f690ba70_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "canvas",
-            "description": "Neukazuj ostatním hráčům mobil.  Máš 30 sekund na to, abys nakreslil zadání.  Žádné mluvení!  Hráč, jež zadání uhodne, nominuje 2 napití.  Pokud se nikdo netrefí, všichni pijí!",
+            "description": "Neukazuj ostatním hráčům zařízení.  Máš 30 sekund na to, abys nakreslil zadání.  Žádné mluvení!  Hráč, jež zadání uhodne, nominuje 2 napití.  Pokud se nikdo netrefí, všichni pijí!",
             "content": "doodles",
             "time": 30,
             "category": "Performer"
@@ -776,7 +776,7 @@
         "key": "f690e180_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "timedReveal",
-            "description": "Nekoukej se na odpověď.  Přitiskni si k čelu mobil a ujisti se, že všichni viděli, co na něm je.  Ptej se ano/ne otázkami, abys zjistil, kdo jsi. Máš 60 sekund to uhodnout nebo budeš pít třikrát!",
+            "description": "Nekoukej se na odpověď.  Přitiskni si k čelu zařízení a ujisti se, že všichni viděli, co na něm je.  Ptej se ano/ne otázkami, abys zjistil, kdo jsi. Máš 60 sekund to uhodnout nebo budeš pít třikrát!",
             "content": "famousPeople",
             "time": 60,
             "category": "Challenge"
