@@ -4,7 +4,7 @@
     "key": "f67e9200_397f_11e8_a45b_25718a0c5009",
     "details": {
         "subgameType": "standard",
-        "description": "Tu e o próximmo jogador trocam de nomes durante o resto do jogo.  Sempre que alguém vos chamar pelo vosso nome original, bebe.",
+        "description": "Tu e o próximo jogador trocam de nomes durante o resto do jogo.  Sempre que alguém vos chamar pelo vosso nome original, bebe.",
         "content": false,
         "category": "Regra"
     }
@@ -99,11 +99,11 @@
 },
 {
     "objectType": "subgame",
-    "name": "Homem Invisivel",
+    "name": "Homem Invisível",
     "key": "f683e930_397f_11e8_a45b_25718a0c5009",
     "details": {
         "subgameType": "standard",
-        "description": "Um pequeno homem invisivel vive na borda do teu copo.  Sempre que fores beber ajuda-o a sair, e coloca-o de volta quando terminares de beber.  Bebe de novo sempre que te esqueceres de o fazer!",
+        "description": "Um pequeno homem invisível vive na borda do teu copo.  Sempre que fores beber ajuda-o a sair, e coloca-o de volta quando terminares de beber.  Bebe de novo sempre que te esqueceres de o fazer!",
         "content": false,
         "category": "Regra"
     }
@@ -213,7 +213,7 @@
     "key": "f6874490_397f_11e8_a45b_25718a0c5009",
     "details": {
         "subgameType": "standard",
-        "description": "Mantem os olhos fechados até o teu próximo turno. Só os poderás abrir para jogos em que a visão seja necessária, se não for bebe de cada vez que fores apanhado.",
+        "description": "Mantém os olhos fechados até o teu próximo turno. Só os poderás abrir para jogos em que a visão seja necessária, se não for bebe de cada vez que fores apanhado.",
         "content": false,
         "category": "Regra"
     }
@@ -235,7 +235,7 @@
     "key": "f68792b0_397f_11e8_a45b_25718a0c5009",
     "details": {
         "subgameType": "standard",
-        "description": "Qualquer jogador que saiba falar várias linguas, bebe um golo por cada.  Grita a língua antes de cada golo.",
+        "description": "Qualquer jogador que saiba falar várias línguas, bebe um golo por cada.  Grita a língua antes de cada golo.",
         "content": false,
         "category": "Perfil"
     }
@@ -268,7 +268,7 @@
     "key": "f68807e0_397f_11e8_a45b_25718a0c5009",
     "details": {
         "subgameType": "standard",
-        "description": "Quem é o mais forte, tu ou o jogador à tua frente?  Façam um braço-de-ferro. O perdedor bebe e o vencedor nomeia 3 outros jogadores para beberm também.",
+        "description": "Quem é o mais forte, tu ou o jogador à tua frente?  Façam um braço-de-ferro. O perdedor bebe e o vencedor nomeia 3 outros jogadores para bebem também.",
         "content": false,
         "category": "Batalha"
     }
@@ -323,7 +323,7 @@
     "key": "f6894061_397f_11e8_a45b_25718a0c5009",
     "details": {
         "subgameType": "canvas",
-        "description": "Coloca o telefone no centro dos jogagores.  Clica para que a a garrafa rode!  Quando parar, o escolhido pela garrafa bebe 3.",
+        "description": "Coloca o telefone no centro dos jogadores.  Clica para que a a garrafa rode!  Quando parar, o escolhido pela garrafa bebe 3.",
         "content": "spin-the-bottle",
         "category": "Todos"
     }
@@ -334,7 +334,7 @@
     "key": "5cb87b07_160d_11e8_a7c5_d7bf8118b9c6",
     "details": {
         "subgameType": "canvas",
-        "description": "Tu e o jogador à tua frente clicam no ecrã para que a vossa personagem chegue à bebida e a termine primeiro.  Quem perdcer bebe 3!",
+        "description": "Tu e o jogador à tua frente clicam no ecrã para que a vossa personagem chegue à bebida e a termine primeiro.  Quem perder bebe 3!",
         "content": "tap-race",
         "category": "Batalha"
     }
@@ -422,7 +422,7 @@
     "key": "f68ac700_397f_11e8_a45b_25718a0c5009",
     "details": {
         "subgameType": "standard",
-        "description": "Cria uma lei que todos terão de cumprir, inclusivé tu.  Quem for apanhado a prevaricar essa lei, bebe.",
+        "description": "Cria uma lei que todos terão de cumprir, inclusive tu.  Quem for apanhado a prevaricar essa lei, bebe.",
         "content": false,
         "category": "Poder"
     }
@@ -656,7 +656,7 @@
 },
 {
     "objectType": "subgame",
-    "name": "Dez flexôes de braços",
+    "name": "Dez flexões de braços",
     "key": "f68ee5b0_397f_11e8_a45b_25718a0c5009",
     "details": {
         "subgameType": "standard",
@@ -888,7 +888,7 @@
     "key": "f692b641_397f_11e8_a45b_25718a0c5009",
     "details": {
         "subgameType": "standard",
-        "description": "Todos os jogadores colocam um dedo na borda de um copo cheio até meio. Começando por ti cada jogador irá apostar num número de dedos que ficará no copo. Quando for dada a ordem cada jogador poderá tirar ou manter o seu dedo no copo. Os jogadores que acertarem no número de dedos estão safos e saiem do jogo, enquanto os que falharam continuam a jogar. O último jogador bebe o copo.",
+        "description": "Todos os jogadores colocam um dedo na borda de um copo cheio até meio. Começando por ti cada jogador irá apostar num número de dedos que ficará no copo. Quando for dada a ordem cada jogador poderá tirar ou manter o seu dedo no copo. Os jogadores que acertarem no número de dedos estão safos e saem do jogo, enquanto os que falharam continuam a jogar. O último jogador bebe o copo.",
         "content": false,
         "category": "Todos"
     }
@@ -965,7 +965,7 @@
     "key":"4875ee99_4a2a_48d1_b074_408099efa0b1",
     "details":{  
       "subgameType":"canvas",
-      "description":"Tu e o jogador à tua frente conduzem um carro, frente a frente. O medroso que se desviar primeiro bebe 3 golos. Os malucos que destruiram os carros bebem 6 golos cada!",
+      "description":"Tu e o jogador à tua frente conduzem um carro, frente a frente. O medroso que se desviar primeiro bebe 3 golos. Os malucos que destruíram os carros bebem 6 golos cada!",
       "content":"chicken",
       "category":"Batalha"
     }
