@@ -1,6 +1,6 @@
 [{
         "objectType": "subgame",
-        "name": "Name Swap",
+        "name": "Namen wissel",
         "key": "f67e9200_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
@@ -11,7 +11,7 @@
     },
     {
         "objectType": "subgame",
-        "name": "Round the sun",
+        "name": "Rond de zon",
         "key": "bb98c83d_ba0d_464d_8694_a453df0f927e",
         "details": {
             "subgameType": "standard",
@@ -22,7 +22,7 @@
     },
     {
         "objectType": "subgame",
-        "name": "Cheers, Kanpai, Salud!",
+        "name": "Cheers, Kanpai, Proost!",
         "key": "f6815120_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
@@ -33,7 +33,7 @@
     },
     {
         "objectType": "subgame",
-        "name": "Bartender",
+        "name": "Barman",
         "key": "f6819f40_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
@@ -70,7 +70,7 @@
         "key": "f6826290_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "No players can say the word 'DRINK' for the rest of the game otherwise you CONSUME.",
+            "description": "Niemand zeg meer 'DRINK' voor de rest van het spel anders CONSUMEER je",
             "content": false,
             "category": "Rule"
         }
@@ -88,7 +88,7 @@
     },
     {
         "objectType": "subgame",
-        "name": "It's Rude to Point",
+        "name": "Wijzen is niet netjes",
         "key": "f6837400_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
@@ -99,7 +99,7 @@
     },
     {
         "objectType": "subgame",
-        "name": "Invisible man",
+        "name": "Onzichtbare man",
         "key": "f683e930_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
@@ -143,7 +143,7 @@
     },
     {
         "objectType": "subgame",
-        "name": "Slooowwww  motion",
+        "name": "Slooowwww-motion",
         "key": "f684faa0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
@@ -180,14 +180,14 @@
         "key": "f6865a30_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Alle spelers die momenteen ingeschreven staan als student nemen nu een slok.",
+            "description": "Alle studenten nemen nu een slok.",
             "content": false,
             "category": "Profile"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Leg de lat",
+        "name": "Leg de lat hoog!",
         "key": "f686a850_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
@@ -209,7 +209,7 @@
     },
     {
         "objectType": "subgame",
-        "name": "Eyes wide shut",
+        "name": "Ogen dicht",
         "key": "f6874490_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
@@ -246,14 +246,14 @@
         "key": "f687b9c0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Je bent de duimmeester. Plaats je duim op tafel (of een andere plek die je zelf afspreekt)  any time BETWEEN TURNS and MAXIMUM ONCE PER TURN.  The last person to also place their thumb drinks.",
+            "description": "Je bent de duimmeester. Plaats je duim op tafel (of een andere plek die je zelf afspreekt) elke moment TUSSEN BEURTEN en MAXIMAAL 1 KEER PER RONDE. De laatste met de duim op tafel drinkt.",
             "content": false,
             "category": "Power"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Name that track",
+        "name": "Noem het lied",
         "key": "f687e0d0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
@@ -286,18 +286,18 @@
     },
     {
         "objectType": "subgame",
-        "name": "Drinking Buddies",
+        "name": "Drink maat",
         "key": "f688a420_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Every time you or the player opposite has to drink, the buddy has to as well for the rest of the game!",
+            "description": "Je moet elke keer drinken als degene aan de overkant moet drinken, jij drinkt ook als je drink maat moet drinken. Voor de rest van het spel!",
             "content": false,
             "category": "Rule"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Round of applause",
+        "name": "Ronde van applause",
         "key": "f688cb30_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
@@ -308,7 +308,7 @@
     },
     {
         "objectType": "subgame",
-        "name": "Hipster Pants",
+        "name": "Hipster broek",
         "key": "f6894060_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
@@ -345,7 +345,7 @@
         "key": "d8f50c0b_3080_4190_be10_1367a86bf184",
         "details": {
             "subgameType": "canvas",
-            "description": "Het is tijd voor meerkeuze vragen met plek voor maximaal 10 mensen. Neem een slok bij foute antwoorden. Antwoord goed en je hoeft niet meer met de vragen mee te doen, de laatst overgebleven speler neemt drie slokken!",
+            "description": "Het is tijd voor meerkeuze vragen met plek voor maximaal 10 mensen. Neem een slok bij een fout antwoord. Antwoord goed en je hoeft niet meer met de vragen mee te doen, de laatst overgebleven speler neemt drie slokken!",
             "content": "buzzers",
             "category": "Everybody"
         }
@@ -396,11 +396,11 @@
     },
     {
         "objectType": "subgame",
-        "name": "Question Master",
+        "name": "Quizmaster",
         "key": "f68a78e0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "You are the question master.  If you ask someone a question and they answer you, they have to drink.  They are allowed to respond only with \"@#$% off\" or by asking a question back.",
+            "description": "Jij bent de quizmaster. Als iemand een van jouw vragen beantwoord, DRINKT diegene. Ze mogen alleen met \"@##$&%$\" antwoorden, of door een vraag terug te stellen.",
             "content": false,
             "category": "Power"
         }
@@ -411,18 +411,18 @@
         "key": "f68a9ff0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Until your next turn, anyone who you catch looking directly in your eyes has to drink.",
+            "description": "Niemand mag jou aankijken, anders DRINKT diegene.",
             "content": false,
             "category": "Power"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Rule Master",
+        "name": "Regelmeester",
         "key": "f68ac700_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "You are the Rule Master.  Create a rule that everyone must follow including yourself.  Failure to follow the rule results in a drink for that player.",
+            "description": "Je bent de regelmeester. Maak een regel voor iedereen, en voor je zelf! Mislukken betekent DRINKEN!.",
             "content": false,
             "category": "Power"
         }
@@ -440,10 +440,11 @@
     },
     {
         "objectType": "subgame",
-        "name": "Drink als een vrouw",
+        "name": "Drink als een dame",
         "key": "f68b8a50_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
+            "description": "Vanaf DRINK je netjes. Linker hand om het glas en pink omhoog. Zoals het hoort! Mislukken betekent DRINKEN",
             "description": "From now on all players must only drink with their left hand and their pinky finger must be removed from the vessel like a proper lady.  Failure to do so means drink.",
             "content": false,
             "category": "Rule"
@@ -451,11 +452,11 @@
     },
     {
         "objectType": "subgame",
-        "name": "Silence is Golden",
+        "name": "Spreken is zilver, zwijgen is goud!",
         "key": "f68bb160_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Don't speak until your next turn.  Any utterance, even an \"mmm\" results in a drink, so quiet!",
+            "description": "Ben stil tot je volgende beurt. Zelfs \"mmm\" wordt bestraft door een slok, stilte!",
             "content": false,
             "category": "Rule"
         }
@@ -477,7 +478,7 @@
         "key": "f68bff80_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Speciaal voor jou een paar slokken.",
+            "description": "Speciaal voor jou drie slokken.",
             "content": false,
             "category": "Solo"
         }
@@ -532,18 +533,18 @@
         "key": "f68cc2d0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Tell one truth and two lies in a random order.  Everyone locks in their guess for the truth.  Anyone who doesn't get it right drinks and you drink for everyone that does!",
+            "description": "Vertel een waarheid en twee leugens. Iedereen gokt. Voor elke speler die goed heeft drink jij, iedereen die het fout heeft drinkt zelf.",
             "content": false,
             "category": "Challenge"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Hermit",
+        "name": "Kluizenaar",
         "key": "f68ce9e0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Sit somewhere no-one has a direct line of sight on you for one round.  Come back for games that require you to be visible",
+            "description": "Ga ergens zitten waar niemand je kan zien voor een ronde. Kom terug voor spellen waar je zichtbaar voor moet zijn.",
             "content": false,
             "category": "Rule"
         }
@@ -947,23 +948,23 @@
             "content": false,
             "category": "Everybody"
         }
-    },      
-    {  
+    },
+    {
         "objectType":"subgame",
         "name":"High Noon",
         "key":"f6898e80_397f_11e8_a45b_25718a0c5009",
-        "details":{  
+        "details":{
           "subgameType":"canvas",
           "description":"It's high noon... you and the player opposite find yourselves in a gun duel.  Wait for the clock to strike midday. Shoot too soon and drink before starting again.  Get shot and drink 3!",
           "content":"high-noon",
           "category":"Battle"
         }
-    },  
-    {  
+    },
+    {
         "objectType":"subgame",
         "name":"Chicken",
         "key":"4875ee99_4a2a_48d1_b074_408099efa0b1",
-        "details":{  
+        "details":{
           "subgameType":"canvas",
           "description":"Two player battle between you and the player opposite. Race towards each other head-on to see who is chicken. 3 drinks to the chicken and 6 each if you crash!",
           "content":"chicken",
