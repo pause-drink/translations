@@ -749,22 +749,22 @@
 	],
 	"multipleChoiceQuiz" : [
 		{
-			"question" : "Who was the second person to set foot on the moon?",
+			"question" : "Quem foi a segunda pessoa a pisar na lua?",
 			"answer" : "Buzz Aldrin",
 			"dummys" : ["Alan Bean", "Neil Armstrong", "Pete Conrad"]
 		},
 		{
-			"question" : "Who was the second person to climb Mount Everest?",
+			"question" : "Quem foi a segunda pessoa a escalar o Monte Everest?",
 			"answer" : "Tenzing Norgay",
 			"dummys" : ["Edmund Hillary", "Jürg Marmet", "Ernst Schmied"]
 		},
 		{
-			"question" : "Who was the first person to reach the South Pole?",
+			"question" : "Quem foi a primeira pessoa a chegar ao Polo Norte?",
 			"answer" : "Roald Amundsen",
 			"dummys" : ["Robert Falcon Scott", "Sir Ernest Shackleton", "Nobu Shirase"]
 		},
 		{
-			"question" : "Which country won the first football/soccer world cup?",
+			"question" : "Qual foi o país a ganhar o primeiro campeonato mundial de futebol?",
 			"answer" : "Uruguay",
 			"dummys" : ["Argentina", "Brazil", "England"]
 		}
