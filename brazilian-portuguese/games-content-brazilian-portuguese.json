@@ -874,75 +874,75 @@
 		],
 		"dares" : [
 			{
-				"question" : "Let the group pose you in an embarrassing position and take a picture.",
+				"question" : "Deixe as pessoas escolherem uma posição vergonhosa e tirarem uma foto sua fazendo isso.",
 				"drinkValue" :2
 			},
 			{
-				"question" : "Curse like sailor for 20 seconds straight.",
+				"question" : "Fale vários palavrões por 20 segundos sem parar.",
 				"drinkValue" : 1
 			},
 			{
-				"question" : "Do four cartwheels in row.",
+				"question" : "Dê cinco cambalhotas.",
 				"drinkValue" : 3
 			},
 			{
-				"question" : "Lick the floor.",
+				"question" : "Lamba o chão.",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "Let the group give you a new hairstyle.",
+				"question" : "Deixe o grupo montar um novo penteado para você.",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "Do the worm.",
+				"question" : "Se arraste no chão como uma minhoca.",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "Get slapped on the face by the person of your choosing.",
+				"question" : "Tome um tapa na cara de alguém que você escolher.",
 				"drinkValue" : 1
 			},
 			{
-				"question" : "Spin an imaginary hula hoop around your waist for 3 minutes while the game continues.",
+				"question" : "Rode um bambolê imaginário no seu pulso por 3 minutos enquanto o jogo continua.",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "Make a funny face and keep making it for 2 minutes while the game continues.",
+				"question" : "Faça caretas por 2 minutos enquanto o jogo continua.",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "Remove your socks with your teeth.",
+				"question" : "Tire suas meias ou sapatos com os dentes.",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "Howl like a wolf for 30 seconds.",
+				"question" : "Uive como um lôbo por 30 segundos.",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "Until your next turn, talk super loud, like nobody can hear you.",
+				"question" : "Até a sua próxima rodada, fale super alto como se ninguém pudesse te ouvir.",
 				"drinkValue" : 1
 			},
 			{
-				"question" : "Make out with your hand.",
+				"question" : "Dê um beijo de lingua na sua mão.",
 				"drinkValue" : 1
 			},
 			{
-				"question" : "Talk without closing your mouth until your next turn.",
+				"question" : "Fale sem fechar a sua boca até a sua próxima rodada.",
 				"drinkValue" : 1
 			},
 			{
-				"question" : "Get into a debate with a wall.",
+				"question" : "Discuta algo com a parede.",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "Call a random number and try to flirt with the person who picks up.",
+				"question" : "Ligue para um número qualquer e dê em cima da pessoa que atender.",
 				"drinkValue" : 3
 			},
 			{
-				"question" : "Lick a doorknob.",
+				"question" : "Lamba uma maçaneta.",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "Take a selfie with the toilet and post it online.",
+				"question" : "Tire uma foto com a privada e poste em uma rede social.",
 				"drinkValue" : 2
 			}
 		]
