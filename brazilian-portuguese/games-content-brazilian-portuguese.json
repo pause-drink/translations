@@ -772,103 +772,103 @@
 	"truthOrDare" : {
 		"truths" : [
 			{
-				"question" : "What would you do if you were the opposite sex for a month?",
+				"question" : "O que você faria se fosse do sexo oposto por um mês?",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "What is the most expensive thing you have stolen?",
+				"question" : "Qual foi a coisa mais cara que você já robou?",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "What is the most childish thing you still do?",
+				"question" : "Qual a coisa mais infantil que você ainda faz?",
 				"drinkValue" : 1
 			},
 			{
-				"question" : "Have you ever let someone take the blame for something you did?",
+				"question" : "Você já deixou alguém receber a culpa por algo que você foi o responsável?",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "What is the meanest you have been to someone that didn’t deserve it?",
+				"question" : "Qual foi a pior coisa que você fez para alguém que não merecia?",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "What is something that people think you would never do but you have?",
+				"question" : "O que as pessoas pensam que você jamais faria, mas já fez?",
 				"drinkValue" : 1
 			},
 			{
-				"question" : "What was the worst encounter you had with a police officer?",
+				"question" : "Qual foi o pior encontro que você já teve com um policial?",
 				"drinkValue" : 1
 			},
 			{
-				"question" : "What is your deepest darkest fear?",
+				"question" : "Qual o seu maior medo?",
 				"drinkValue" : 3
 			},
 			{
-				"question" : "Tell everyone about your first kiss.",
+				"question" : "Conte para todos como foi o seu primeiro beijo.",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "Where is the strangest place you have peed?",
+				"question" : "Qual foi o lugar mais estranho que você já fez xixi?",
 				"drinkValue" : 1
 			},
 			{
-				"question" : "Who is the sexiest person here?",
+				"question" : "Quem é a pessoa mais sexy aqui?",
 				"drinkValue" : 1
 			},
 			{
-				"question" : "What terrible thing have you done that you lied to cover up?",
+				"question" : "Qual a coisa mais terrível que você fez e precisou mentir para se acobertar?",
 				"drinkValue" : 3
 			},
 			{
-				"question" : "Who have you loved but they didn’t love you back?",
+				"question" : "Você já amou alguém que não te amava?",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "What is something that you have never told anyone?",
+				"question" : "O que você nunca contou a ninguém?",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "What is the most disgusting habit you have?",
+				"question" : "Qual o hábito mais nojento que você tem?",
 				"drinkValue" : 1
 			},
 			{
-				"question" : "What is the most embarrassing thing you have put up on social media?",
+				"question" : "Qual a coisa mais vergonhosa que você já colocou em uma rede social?",
 				"drinkValue" : 1
 			},
 			{
-				"question" : "What was the most awkward romantic encounter you have had?",
+				"question" : "Qual o encontro romântico mais esquisito que você já teve?",
 				"drinkValue" : 1
 			},
 			{
-				"question" : "What is the grossest thing you have had in your mouth?",
+				"question" : "Qual a coisa mais nojenta que você já colocou na boca?",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "What is the biggest lie you have ever told?",
+				"question" : "Qual foi a maior mentira que você já contou?",
 				"drinkValue" : 3
 			},
 			{
-				"question" : "What is the most embarrassing photo you have on your phone?",
+				"question" : "Qual a foto mais vergonhosa que você já teve no seu celular?",
 				"drinkValue" : 3
 			},
 			{
-				"question" : "What is the weirdest thing you have done for a boyfriend or girlfriend?",
+				"question" : "Qual a coisa mais estranha que você já fez para o seu/sua namorado/namorada?",
 				"drinkValue" : 3
 			},
 			{
-				"question" : "When was the last time you picked your nose without a tissue?",
+				"question" : "Qual foi a última vez que você limpou o nariz sem um pano?",
 				"drinkValue" : 1
 			},
 			{
-				"question" : "Tell us your most embarrassing vomit story.",
+				"question" : "Conte-nos sobre a história mais vergonhosa que você já passou envolvendo vômito.",
 				"drinkValue" : 1
 			},
 			{
-				"question" : "Have you ever made out with someone here?",
+				"question" : "Você já ficou com alguém daqui?",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "What would you do if you were the opposite gender for a day?",
+				"question" : "O que você faria se fosse do sexo oposto por um dia?",
 				"drinkValue" : 1
 			}
 		],
