@@ -13,7 +13,7 @@
 		"Toy Story 3",
 		"Matrix",
 		"Alien",
-		"Kevin allein zuhaus",
+		"Kevin - Allein zu Haus",
 		"Der König von Narnia",
 		"Black Swan",
 		"The Departed - unter Feinden",
@@ -76,23 +76,23 @@
 		"Berühmte Künstler",
 		"Basketballspieler",
 		"Tennisspieler",
-		"Berühmte Fußballler",
+		"Berühmte Fußballer",
 		"Berühmte Wissenschaftler",
 		"Olympische Teilnehmer",
 		"Philosophen",
-		"Persönlichkeiten der Weltrelgionen",
+		"Persönlichkeiten der Weltreligionen",
 		"Autoren",
 		"Regisseure",
-		"Nicht-Amerikanische oder deutsche Schauspieler",
-		"Nicht-Amerikanische oder deutsche Schauspielerinnen",
+		"Nicht-amerikanische oder deutsche Schauspieler",
+		"Nicht-amerikanische oder deutsche Schauspielerinnen",
 		"Musiker",
 		"Gegenwärtige Staatsoberhäupter",
-		"Ost US staates",
-		"West US staates",
+		"Ost US Staaten",
+		"West US Staaten",
 		"Europäische Landeshauptstädte",
 		"Großkatzen",
 		"Japanische Automarken",
-		"aufrecht gehende Spezies",
+		"Aufrecht gehende Spezien",
 		"Fischarten",
 		"Vogelarten",
 		"Affenarten",
@@ -106,16 +106,16 @@
 		"Balkanstaaten",
 		"Länder im Südpazifischen Ozean",
 		"Ehemalige US-Präsidenten",
-		"Schauspieler as der Sitcom 'Friends'",
+		"Schauspieler aus der Sitcom 'Friends'",
 		"Mitglieder der 'Avengers'",
 		"Feinde von 'Batman'",
 		"Charaktere aus 'Der Herr der Ringe'",
-		"Fast food Ketten",
+		"Fast Food Ketten",
 		"Nudelsorten",
 		"Biersorten",
 		"Weinsorten",
-		"Vodka Marken",
-		"Whiskey Marken",
+		"Vodkamarken",
+		"Whiskeymarken",
 		"Länder am nördlichen Mittelmeer",
 		"Länder in Südostasien",
 		"Planeten in unserem Sonnensystem",
@@ -132,9 +132,9 @@
 		"Charaktere aus 'Harry Potter'",
 		"Menschliche Organe",
 		"Ölkonzerne",
-		"Computer Hersteller",
+		"Computerhersteller",
 		"Handymarken",
-		"Sneaker Marken",
+		"Sneakermarken",
 		"Saiteninstrumente",
 		"Blasinstrumente",
 		"Eiscremesorten",
@@ -155,7 +155,7 @@
 		"Silber"
 	],
 	"basicCategories" : [
-		"Film (can be 'The _____')",
+		"Film (zum Beispiel 'The _____')",
 		"Essen",
 		"Tier",
 		"Land",
@@ -180,16 +180,16 @@
 		"T"
 	],
 	"tongueTwisters" : [
-		"Fischers Fritze fischt frische Fische;Frische Fische fischt Fischers Fritze.",
+		"Fischers Fritze fischt frische Fische. Frische Fische fischt Fischers Fritze.",
 		"Der Cottbusser Postkutscher putzt den Cottbusser Postkutschkasten. Den Cottbusser Postkutschkasten putzt der Cottbusser Postkutschkasten.",
 		"Zehn zahme Ziegen zogen zehn Zentner Zucker zum Zoo.",
-		"Fuzzy Wuzzy was a bear. Fuzzy Wuzzy had no hair. Fuzzy Wuzzy wasn't very fuzzy, was he?",
-		"Can you can a can as a canner can can a can?",
-		"I have got a date at a quarter to eight; I’ll see you at the gate, so don’t be late.",
-		"If two witches would watch two watches, which witch would watch which watch?",
-		"Betty Botter had some butter, “But,” she said, “this butter's bitter.",
-		"Six sick hicks nick six slick bricks",
-		"One-one was a race horse. Two-two was one too.  One-one won one race.  Two-two won one too."
+		"Als wir noch in der Wiege lagen, gab's noch keine Liegewagen. Jetzt kann man in den Wagen liegen und sich in allen Lagen wiegen.",
+		"Blaukraut bleibt Blaukraut, Brautkleid bleibt Brautkleid.",
+		"Der Flugplatzspatz nahm auf dem Flugplatz platz. Auf dem Flugplatz nahm der Flugplatzspatz platz.",
+		"Der Whiskymixer mixt den Whisky mit dem Whiskymixer. Mit dem Whiskymixer mixt der Whiskymixer den Whisky.",
+		"Am Zehnten Zehnten zehn Uhr zehn zogen zehn zahme Ziegen zehn Zentner Zucker zum Zoo.",
+		"Der Zahnarzt zieht Zähne mit Zahnarztzange im Zahnarztzimmer.",
+		"Der froschforschende Froschforscher forscht in der froschforschenden Froschforschung."
 	],
 	"famousSongs" : [
 		"Living On A Prayer - Bon Jovi",
@@ -629,49 +629,49 @@
 	],
 	"guyJokes" : [
 		["Was ist der schnellste weg ins Herz eines Mannes?", "Mit einem scharfen Messer durch seine Brust."],
-		["Why shouldn’t you let a man’s mind wander?", "Because it’s way too little to be out all alone."],
-		["Was haben Männer und Parplätze gemeinsam?", "Alle Guten sind bereits vergeben und der Rest ist behindert."],
+		["Was sagt ein Mann, der bis über die Gürtellinie hinaus im Wasser steht?", "Das geht über meinen Verstand..."],
+		["Was haben Männer und Parkplätze gemeinsam?", "Alle Guten sind bereits vergeben und der Rest ist behindert."],
 		["Was ist der Unterschied zwischen der Klitoris und einem Golfball?", "Nach dem Golfball wird der Mann tatsächlich suchen."],
-		["Wie nennt man das Nutzlose Stück Haut am Ende vom Penis?", "Mann."], 
-		["What do you call a man who won’t go down on you?", "You don’t!"],
-		["What should you do if your man walks out?", "Shut the door and celebrate."],
-		["What do a balloon and a man have in common?", "One prick pretty much ruins them."],
+		["Wie nennt man das nutzlose Stück Haut am Ende vom Penis?", "Mann."], 
+		["Wie kann man das Ego eines Mannes in nur 3 Worten ruinieren?", "Ist er drinn?"],
+		["Was solltest du tun wenn dein Mann das Zimmer verlässt?", "Die Tür schließen und feiern!"],
+		["Was verstehen Männer unter Vorspiel?", "Betteln."],
 		["Was macht einen Splitter im Finger besser als einen Mann?", "Der Splitter tut weh, aber schlussendlich wird man ihn los."],
-		["What’s the difference between a knife and an argumentative man?", "A knife has a point."],
-		["How many feminists does it take to change a lightbulb?", "None. It’s not the lightbulb that needs changing."],
-		["How is a man like a gun?", "Keep one around long enough, and you’ll definitely want to shoot him."],
-		["Wieso hat Gott Adam und Eva erschaffen?", "Jeder braucht einen Grboben entwurf, bevor er das Endprodukt herstellen kann."],
+		["Was ist ein Mann mit einer Meinung?", "Im Unrecht."],
+		["Wie viel Intelligenz (in Prozent) verliert ein Mann beim Anblick eines Dekoltees?", "50% - pro Brust"],
+		["Warum heiraten Männer?", "Damit sie ihren Bauch nicht mehr einziehen müssen."],
+		["Wieso hat Gott Adam und Eva erschaffen?", "Jeder braucht einen groben Entwurf, bevor er das Endprodukt herstellen kann."],
 		["Wieso hat Gott den Mann überhaupt erschaffen?", "Weil er nicht wusste, wie man einen Vibrator dazu bringt den Rasen zu mähen."],
-		["Wie nennt man einen Mann, der 95% seiner intelligenz verloren hat?", "Geschieden."],
-		["What kind of man can you actually change?", "The ones still in diapers."],
+		["Wie nennt man einen Mann, der 95% seiner Intelligenz verloren hat?", "Geschieden."],
+		["Woran erkennt man einen lügenden Mann?", "Er bewegt seine Lippen."],
 		["Wieso solltest du keinem Mann vertrauen der behauptet er “hätte die Hosen an”?", "Bezüglich anderer Sachen lügt er bestimmt auch."],
-		["Wieso benötigt man millionen Spermien um einen einzelle zu befruchten?", "Weil sie wirklich zu stolz sind um nach dem Weg zu fragen."],
-		["Was ist die Definition von einem ewigen Junggesellen?", "Ein Mann, der seinen Chance verpasst hat einer Frau das Leben zu vermiesen."],
-		["Wieso kann man sicha uch gleich einen jüngeren suchen?", "Sie werden eh nicht reifer."],
+		["Wieso benötigt man millionen Spermien um einen Einelle zu befruchten?", "Weil sie wirklich zu stolz sind um nach dem Weg zu fragen."],
+		["Was ist die Definition von einem ewigen Junggesellen?", "Ein Mann, der seine Chance verpasst hat einer Frau das Leben zu vermiesen."],
+		["Wieso kann man sich auch gleich einen jüngeren suchen?", "Sie werden eh nicht reifer."],
 		["Wie besorgt man einem Mann den bestmöglichen Orgasmus?", "Wen intressiert das?"],
-		["Wieso ist es so schwer einen Mann als Vollidiot darstehen zu lassen?", "Die Meisten bekommen das alleine schon gut genug hin."],
-		["Liebe macht blind", "Einen Mann zu heiraten öffent einem jedoch richtig die Augen."]
+		["Wieso ist es so schwer einen Mann als Vollidiot darstehen zu lassen?", "Die meisten Männer bekommen das alleine schon gut genug hin."],
+		["Liebe macht blind:", "Einen Mann zu heiraten öffent einem jedoch richtig die Augen."]
 	],
 	"girlJokes" : [
 		["Woher weiß man, dasss eine Frau etwas schlaues sagen wird?", "Wenn sie den Satz mit, \"Ein Mann hat mir mal erzählt...\" beginnt"],
-		["Was haben Frauen und Tornaos gemeinsam?", "Sie sind beide unglaublich laut wenn sie kommen und nehmen dein ganzes Haus mit, wennn sie gehen."],
+		["Was haben Frauen und Tornados gemeinsam?", "Sie sind beide unglaublich laut wenn sie kommen und nehmen dein ganzes Haus mit, wennn sie gehen."],
 		["Wie kann dich eine Frau zum Millionär machen?", "Indem du ein Billionär bist."],
 		["Was ist 16cm lag und 8cm breit und macht jede frau verrückt?", "Geld."],
-		["Ein Mann fährt einen Frau mit seinem Auto an. Wer ist schuld?", "Der Mann. Was hat er mit dem Auto in der Küche verloren?"],
-		["Wissenschaftler haben ein Lebensmittel entdeckt, das den Sexualtrieb einer Frau um 90% senkt.", "Es nennnt sich Hochzeitstorte."],
-		["Einer Schache kann man sich sicher sein, wenn ein amn der Frau die Autotür aufhält.", "Entweder die Frau oder das Auto ist neu."],
+		["Ein Mann fährt eine Frau mit seinem Auto an. Wer ist schuld?", "Der Mann. Was hat er mit dem Auto in der Küche verloren?"],
+		["Wissenschaftler haben ein Lebensmittel entdeckt, dass den Sexualtrieb einer Frau um 90% senkt.", "Es nennnt sich Hochzeitstorte."],
+		["Einer Schache kann man sich sicher sein, wenn ein man der Frau die Autotür aufhält.", "Entweder die Frau oder das Auto ist neu."],
 		["Wie viele Männer braucht man um ein Bier zu öffen?", "Keinen. Es sollte schon offen sein, wenn sie es ihm bringt."],
 		["Wieso sterben Männer vor ihren Frauen?", "Weil sie es wollen."],
-		["Wie repaiert man die Uhr einenr Frau?", "Garnicht. Am Backofen ist auch einen Uhr."],
-		["Wie viele Männer braucht man um einen Rolle Klopapier zu wechseln?", "Das weiss man nicht, denn es ist noch nie vorgekommen."],
-		["woran sieht man, dass ein Mann für die Zukunft plant?", "Er kauft zwei Kästen Bier."],
-		["Was weißt du, wenn deine Frau im Wohnzimmer ist?", "Die Kette ist zu lang!!"],
-		["Wieso gibt es keinen Frauen auf dem Mond?", "Dort musss nicht geputz werden."],
+		["Wie repaiert man die Uhr einer Frau?", "Gar nicht. Am Backofen ist auch eine Uhr."],
+		["Wie viele Männer braucht man um eine Rolle Klopapier zu wechseln?", "Das weiß man nicht, denn es ist noch nie vorgekommen."],
+		["Woran sieht man, dass ein Mann für die Zukunft plant?", "Er kauft zwei Kästen Bier."],
+		["Was weißt du, wenn deine Frau im Wohnzimmer ist?", "Die Kette ist zu lang!"],
+		["Wieso gibt es keine Frauen auf dem Mond?", "Dort musss nicht geputz werden."],
 		["Wieso haben Frauen kleinere Füße als Männer?", "Evolution, damit sie näher am Herd stehen können."],
 		["Wann ist eine Frau genau 1€ wert?", "Wenn sie einen Einkaufwagen schiebt."],
-		["Warum haben Männer keine Cellulite?", "Weil's scheiße aussieht."],
-		["Warum können Frauen nicht Boxen?", "Weil sie keine Rechte haben."],
-		["Wieso reiben sich Frauen nach dem Aufstehen die Augen?", "Weil sie keine Eier haben, die sie Kratzen können."],
+		["Warum haben Männer keine Cellulite?", "Weil es scheiße aussieht."],
+		["Warum können Frauen nicht boxen?", "Weil sie keine Rechte haben."],
+		["Wieso reiben sich Frauen nach dem Aufstehen die Augen?", "Weil sie keine Eier haben, die sie kratzen können."],
 		["Wieso täuschen Frauen ihren Orgasmus vor?", "Weil sie glauben den Mann interessiert das."]
 	],
 	"impersonations" : [
@@ -718,43 +718,43 @@
 		"Neuseeland",
 		"Spanien",
 		"USA",
-		"Turkei",
+		"Türkei",
 		"Argentinien",
 		"Kuba",
 		"Irland"
 	],
 	"alcoholInfo" : [
-		"The \"alcohol\" in alcoholic beverages such as wine, beer, and spirits is actually ethanol, or ethyl alcohol. It’s the only type of alcohol that you can drink without causing serious damage to your body.",
-		"Alcohol is a depressant. This means that it slows down activity in the brain.",
-		"Alcohol has a wide variety of effects. In the brain, it triggers the release of dopamine, a neurotransmitter that’s associated with pleasure and satisfaction.",
-		"Stress relief is another side effect of drinking alcohol. This is caused by an increase in the uptake of another neurotransmitter, called GABA.",
-		"Alcohol is among the most commonly misused addictive substances. About 12.7 percent of American adults meet the criteria for alcohol use disorder (AUD). That’s 1 in 8 adults.",
-		"Alcohol is processed in the liver, where enzymes help break down ethanol into acetaldehyde and acetate.",
-		"The effects associated with drinking occur when ethanol enters your bloodstream and passes through the membranes of cells in your brain, heart, and other organs.",
-		"Men are more likely to use alcohol than women.",
-		"Alcohol has different health consequences for men and women. Long-term drinking is more likely to have negative health effects for women compared to men, even if the woman drinks less for a shorter period of time.",
-		"Alcohol-attributable deaths are the third-leading preventable cause of death in America. According to the Centers for Disease Control and Prevention, 88,424 people die from alcohol-related causes each year in the United States.",
-		"Alcohol may be nearly as old as civilization. Residues from an alcoholic beverage that dates back to 7,000 to 6,600 B.C. have been found in China.",
-		"Archaeologists have found evidence suggesting that the workers who built the Great Pyramids of Giza were paid in beer.",
-		"Binge drinking is a pattern of alcohol consumption that involves drinking a lot in a short period of time. For women, four or more drinks in two hours is considered binge drinking. For men, it’s five or more drinks in two hours.",
-		"Teens who start drinking before the age of 15 are more likely to develop alcohol dependence later on in life.",
-		"Symptoms of acute alcohol withdrawal syndrome (AWS) include hallucinations, seizures, and, in severe cases, even death. People who are dependent on alcohol should seek medical assistance to stop drinking.",
-		"Culture has a significant influence on how people consume alcohol. A study that explored family drinking in Italy found that Italians who drank at family meals while growing up were less likely to develop unhealthy drinking habits later on in life.",
-		"Alcohol use is a significant risk factor for dementia.",
-		"Drinking red wine in moderation is believed to be good for the heart. Red wine contains resveratrol, a substance which helps control cholesterol, prevent blood vessel damage, and stop blood clots.",
-		"Binge drinking can lead to a hangover the following morning. Hangovers are caused by chemical byproducts created during alcohol processing.",
+		"Der \"Alkohol\" in Wein, Bier und Spirituosen ist eigentlich Ethanol oder Ethyl-Alohol - der einzige genießbare Alkohol.",
+		"Alkohol wirkt ähnlich wie ein Antidepressiva. Er entschleunigt deine Gehirnaktivität.",
+		"Alokohl bringt eine Menge von Nebenwirkungen mit sich. Im Gehirn setzt dieser zum Beispiel Dopmain frei, ein Neurotransmitter zur Übermittlung von Zufriedenstellung.",
+		"Stressabbau ist auch eine Nebenwirkung. Dies geschieht durch die Anregung des Neurotransmitter GABA",
+		"Alkohol ist einer der meist missbrauchten Droge. Einer von acht Amerikanern hat oder leidet noch immer unter Alkoholkonsummissbrauch.",
+		"Alkohl wird durch die Leber abgebaut, indem diese mittels Enzyme das Ethanol in Acetaldehyde und Acetate wandelt.",
+		"Der Effekt von Alkohol tritt dann in Kraft, wenn das Ethanol durch deine Blutleitbahnen in das Gehirn oder andere Organe gelangt.",
+		"Tendenziell trinken Männer eher Alokhol als Frauen.",
+		"Alkohol hat verschiedene Langzeitfolgen. Diese Folgen haben bei Frauen eine höhere Wirkung als bei Männer, auch wenn diese weniger trinken als Männer.",
+		"Alkohol bezogende Tode sind die drittmeiste Ursache an verhinderbaren Toden in den USA. Jährlich sterben 88,424 Menschen durch direkten oder indirekten Einfluss von Alkohol in den USA.",
+		"Alkohol könnte fast genau so alt wie die Zivilisation sein! In China wurden einst Überreste von Behältern gefunden, welche auf den Konsum von Alohol im Jahre 7000 v.Chr. hinweisen.",
+		"Archäologen haben Beweise gefunden, dass die Arbeiter während der Errichtung der Pyramiden in Gaza mit Bier bezahlt wurden sind.",
+		"Unter Binge-drinking versteht man den Konsum von viel Alkohol in kurzer Zeit. Vier oder mehr Drinks in zwei Stunden bezeichnet man bei Frauen bereits als Binge-drinking, bei Männern erst ab fünf.",
+		"Teenager die vor dem fünfzehnten Lebensjahr mit dem Trinken beginnen, entwickeln tendenziell eher eine Alkoholabhängig im Verlauf des späteren Lebens.",
+		"Symptome von aktuen Alkoholentzug sind Halluzinationen, Krämpfe oder sogar Tod. Alkholabhängige Personen sollten schnellstmöglich eine Hilfe suchen.",
+		"Kultur hat einen signifikanten Einfluss auf das Verhalten bezüglich Alkoholkonsum. Eine Studie hat herausgefunden, dass Italiener, die beim Essen während in ihrer Kindheit regelmäßig dem Alkoholkonsum anständig näher gebracht worden sind, im späteren Verlauf ihres Lebens tendenziell weniger eine Abhängigkeit entwickeln.",
+		"Alkohol erhöht den Eintritt einer frühen Dement signifikant.",
+		"Der Konsum von Rotwein in moderaten Maßen gilt oftmals als gesund, da dieses zum Beispiel die Blutgerinnung mindern kann.",
+		"Binge-drinking steigert die Chance eines Katers eher als moderates trinken, auch bei gleichen Massen an Alkohol.",
 		"Hormonal changes lead to unpleasant hangover symptoms. For instance, hormonal changes cause you to urinate more, which can lead to dehydration.",
-		"Dark liquors, such as red wine or whiskey, are more likely to result in severe hangovers. White or clear liquors are less likely to result in a hangover.",
-		"Muscles absorb alcohol faster than fat. As a result, people who have more muscles and less body fat have higher alcohol tolerance."
+		"Dunkle alkoholische Getränke wie Wein, oder Starkbier steigern die Chance auf einen Kater eher als helle Getränke.",
+		"Muskeln absorbieren Alkohol schneller als Fett. Dementsprechend sind muskolöse Menschen gegenüber Alkohol toleranter."
 	],
 	"multipleChoiceQuiz" : [
 		{
-			"question" : "Wer war der ZWEITE Mensch auf dem Mond?",
+			"question" : "Wer war der zweite Mensch auf dem Mond?",
 			"answer" : "Buzz Aldrin",
 			"dummys" : ["Alan Bean", "Neil Armstrong", "Pete Conrad"]
 		},
 		{
-			"question" : "Wer hat als ZWEITES Mount Everest bestiegen?",
+			"question" : "Wer hat als zweite den Mount Everest bestiegen?",
 			"answer" : "Tenzing Norgay",
 			"dummys" : ["Edmund Hillary", "Jürg Marmet", "Ernst Schmied"]
 		},
@@ -776,7 +776,7 @@
 				"drinkValue" : 2
 			},
 			{
-				"question" : "Was ist das teuereste, dass di je geklaut hast?",
+				"question" : "Was ist das teuereste, dass du je geklaut hast?",
 				"drinkValue" : 2
 			},
 			{
@@ -788,15 +788,15 @@
 				"drinkValue" : 2
 			},
 			{
-				"question" : "Was ist das gemeinste, das du je zu jemandem warst, der es nicht verdient hatte?",
+				"question" : "Was ist das gemeinste, dass du je zu jemandem gesagt hast, der es nicht verdient hatte?",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "Was würden Leute dir nie glauben, das du bereits getan hast?",
+				"question" : "Was würden Leute dir nie glauben, dass du bereits getan hast?",
 				"drinkValue" : 1
 			},
 			{
-				"question" : "Was war bis jetzt deinen schlechteste begegnung mit der Polizei?",
+				"question" : "Was war bis jetzt deine schlechteste Begegnung mit der Polizei?",
 				"drinkValue" : 1
 			},
 			{
@@ -832,15 +832,15 @@
 				"drinkValue" : 1
 			},
 			{
-				"question" : "Was ist das peinlichste, das du je auf Social Media gepostet hast?",
+				"question" : "Was ist das peinlichste, dass du je auf Social Media gepostet hast?",
 				"drinkValue" : 1
 			},
 			{
-				"question" : "Was war die peinlichste romantische Begegnung die du bis jetzt hattest?",
+				"question" : "Was war die peinlichste romantische Begegnung, die du bis jetzt hattest?",
 				"drinkValue" : 1
 			},
 			{
-				"question" : "Was ist der ekelhafteste, dass du je im Mund hattest?",
+				"question" : "Was ist das ekelhafteste, dass du je im Mund hattest?",
 				"drinkValue" : 2
 			},
 			{
@@ -860,7 +860,7 @@
 				"drinkValue" : 1
 			},
 			{
-				"question" : "TWas ist deine peinlichste Kotz-Geschichte.",
+				"question" : "Was ist deine peinlichste Kotz-Geschichte?",
 				"drinkValue" : 1
 			},
 			{
@@ -868,7 +868,7 @@
 				"drinkValue" : 2
 			},
 			{
-				"question" : "Was würdest du Tun wennn du für einen Tag das andere Geschlecht hättest?",
+				"question" : "Was würdest du tun, wenn du für einen Tag das andere Geschlecht hättest?",
 				"drinkValue" : 1
 			}
 		],
