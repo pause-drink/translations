@@ -290,53 +290,53 @@
         "key": "f688a420_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "A chaque fois que toi ou the player opposite doivent boire, l'autre compère doit lui aussi boire jusqu'à la fin de la partie!",
-            "content": false,
-            "category": "Rule"
-        }
-    },
-    {
-        "objectType": "subgame",
-        "name": "Round of applause",
-        "key": "f688cb30_397f_11e8_a45b_25718a0c5009",
-        "details": {
-            "subgameType": "standard",
-            "description": "Applaud every time someone has to drink for the rest of the game!  Forget to applaud and drink.",
+            "description": "A chaque fois que toi ou le joueur en face de toi doivent boire, l'autre compère doit lui aussi boire jusqu'à la fin de la partie!",
             "content": false,
             "category": "Règle"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Hipster Pants",
+        "name": "Tour d'applaudissement",
+        "key": "f688cb30_397f_11e8_a45b_25718a0c5009",
+        "details": {
+            "subgameType": "standard",
+            "description": "Applaudis à chaque fois qu'un joueur doit boire jusqu'à la fin de la partie!  Oublies d'applaudir et tu bois.",
+            "content": false,
+            "category": "Règle"
+        }
+    },
+    {
+        "objectType": "subgame",
+        "name": "Pantalon de Hipster",
         "key": "f6894060_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Whoever has the tightest pants or jeans drinks.",
+            "description": "Celui ou celle qui a le jean ou le pantalon le plus serré bois.",
             "content": false,
-            "category": "Profile"
+            "category": "Profil"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Spin the bottle",
+        "name": "Jeu de la bouteille",
         "key": "f6894061_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "canvas",
-            "description": "Put the phone in the middle of all players.  Press go and spin the bottle!  Whoever it lands on has to drink 3.",
+            "description": "Pose le téléphone au milieu des joueurs.  Press GO et fait tourner la bouteille!  Celui ou celle sur qui elle pointe bois.",
             "content": "spin-the-bottle",
-            "category": "Everybody"
+            "category": "Tout le monde"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Fastest Tapper",
+        "name": "Tappeur le plus rapide",
         "key": "5cb87b07_160d_11e8_a7c5_d7bf8118b9c6",
         "details": {
             "subgameType": "canvas",
-            "description": "You and the player opposite tap as fast as you can to make your character run to their drink and drink the whole thing.  Loser drinks 3!",
+            "description": "Toi et le joueur en face tapez le plus vite possible pour faire courir votre joueur jusqu'à leur verre et le boire.   Le perdant boit 3!",
             "content": "tap-race",
-            "category": "Battle"
+            "category": "Bataille"
         }
     },
     {
@@ -345,183 +345,183 @@
         "key": "d8f50c0b_3080_4190_be10_1367a86bf184",
         "details": {
             "subgameType": "canvas",
-            "description": "It's multiple choice quiz time for up to 10 players. Drink 1 for wrong answers. Answer correctly and exit the quiz.  Last player drinks 3!",
+            "description": "C'est un quizz à choix multiples jusqu'à 10 jours. Bois 1 gorgée pour chaque mauvaise réponse. Réponds correctement et sors du quizz. Le dernier joueur bois 3 gorgées!",
             "content": "buzzers",
             "category": "Everybody"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Rock Paper Scissors",
+        "name": "Pierre Papier Ciseaux",
         "key": "f689dca0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Challenge the player opposite you to a best of three.  Loser drinks 3!",
+            "description": "Défi le joueur en face de toi pour un match en 2 manches gagnantes. Le perdant boit 3 gorgées.!",
             "content": false,
             "category": "Battle"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Cave Man",
+        "name": "Homme des Cavernes",
         "key": "f689dca1_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "You can only speak in three word sentences for the rest of the game!  Drink each time you forget!",
+            "description": "Tu ne peux parler qu'avec des phrases de 3 mots pour le reste de la partie!  Bois à chaque fois que tu oublies!",
             "content": false,
             "category": "Rule"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Quaff, Scull, Chug",
+        "name": "Cul Sec",
         "key": "f68a2ac0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Drink the rest of your vessel. Owww it hurts I know.",
+            "description": "Bois le reste de ton verre. Ohhh ça fait mal, je sais.",
             "content": false,
             "category": "Solo"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Speak in a foreign Accent",
+        "name": "Parle avec un Accent Etrangé",
         "key": "f68a2ac1_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "contentBasic",
-            "description": "Speak in the following accent for the rest of the game! Drink each time you forget.",
+            "description": "Parle avec l'accent suivant pour le reste de la partie! Bois à chaque fois que tu oublies.",
             "content": "accents",
             "category": "Rule"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Question Master",
+        "name": "Maitre des questions",
         "key": "f68a78e0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "You are the question master.  If you ask someone a question and they answer you, they have to drink.  They are allowed to respond only with \"@#$% off\" or by asking a question back.",
+            "description": "Tu es le maitre des quesitons. Si tu poses une question à une personne et qu'elle te répond, elle boit. Cette personne ne peut te répondre que par \"@#$% off\" ou en répondant par une question.",
             "content": false,
             "category": "Power"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Snake Eyes",
+        "name": "Oeil de Vipère",
         "key": "f68a9ff0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Until your next turn, anyone who you catch looking directly in your eyes has to drink.",
+            "description": "Jusqu'à ton prochain tour, si tu vois quelqu'un te regarder directement dans les yeux, il boit.",
             "content": false,
             "category": "Power"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Rule Master",
+        "name": "Createur de Règles",
         "key": "f68ac700_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "You are the Rule Master.  Create a rule that everyone must follow including yourself.  Failure to follow the rule results in a drink for that player.",
+            "description": "Tu es le Créateur de Règles. Créer une règle que tout le monde doit suivre, toi y comprit. Dès qu'un joueur ne respecte pas la règle, il boit.",
             "content": false,
             "category": "Power"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Drinking solo",
+        "name": "Boire Seul",
         "key": "f68b1520_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Never drink alone... except now... drink alone now.",
+            "description": "Ne jamais boire seul... Seulement cette fois ci... Bois tout seul.",
             "content": false,
             "category": "Solo"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Drink like a Lady",
+        "name": "Bois comme une princesse",
         "key": "f68b8a50_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "From now on all players must only drink with their left hand and their pinky finger must be removed from the vessel like a proper lady.  Failure to do so means drink.",
+            "description": "A partir de maintenant tous les joueurs doivent boire avec leur main gauche et avec leur petit doigt levée comme une princesse. Ne pas le faire signifie boire.",
             "content": false,
             "category": "Rule"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Silence is Golden",
+        "name": "Le Silence est d'Or",
         "key": "f68bb160_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Don't speak until your next turn.  Any utterance, even an \"mmm\" results in a drink, so quiet!",
+            "description": "Ne parles pas jusqu'à ton prochain tour. Chaque son, même un \"mmm\" te fera boire, donc chut!",
             "content": false,
             "category": "Rule"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Take Two",
+        "name": "Prends en 2",
         "key": "f68bd870_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Have a couple of drinks just for yourself.",
+            "description": "Prends 2 petits coups, juste pour toi.",
             "content": false,
             "category": "Solo"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Take Three",
+        "name": "Prends en 3",
         "key": "f68bff80_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Have a few drinkies just for you.",
+            "description": "3 petites gorgées et puis s'en va, juste pour toi.",
             "content": false,
             "category": "Solo"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Nominate One",
+        "name": "Désigne quelqu'un",
         "key": "f68c2690_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Choose your victim for one drink nomination.",
+            "description": "Choisis une victime pour ta nomination du prochain qui boit.",
             "content": false,
             "category": "Power"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Nominate Two",
+        "name": "Donne en 2",
         "key": "f68c4da0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Choose one victim or spread your two drink nominations out.",
+            "description": "Choisis une victime ou distribues les 2 gorgées.",
             "content": false,
             "category": "Power"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Nominate Three",
+        "name": "Donne en 3",
         "key": "f68c74b0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Choose one victim or spread your three drink nominations out.",
+            "description": "Choisis une victime ou distribues les 3 gorgées.",
             "content": false,
             "category": "Power"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Speak with a lisp",
+        "name": "Cheveu sur la langue",
         "key": "f68c9bc0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Speak with a lisp for the rest of the game!  If you get caught breaking character... drink.",
+            "description": "Parle avec un cheveu sur la langue pour le reste de la partie! Si tu ne le fais pas, bois.",
             "content": false,
             "category": "Rule"
         }
