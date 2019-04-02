@@ -74,9 +74,9 @@
   },
   "game": {
     "go": "Go!",
-    "hint_pause": "Touche pour mettre ton tour en pause, suis les instructions, passe au joueur suivant.",
+    "hint_pause": "Touche pour t'arrêter sur un mini-jeu, suis les instructions, passe au joueur suivant.",
     "hint_continue": "Touche le titre ou la description pour commencer le tour suivant.",
-    "exit": "Sortie",
+    "exit": "Exit",
     "exit_title": "Quitter la partie en cours ?",
     "exit_description": "Toute progression sera perdue...",
     "yes": "Oui",
