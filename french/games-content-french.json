@@ -533,7 +533,7 @@
 		"light",
 		"bulb",
 		"platypus",
-		"music"			
+		"music"
 	],
 	"famousPeople" : [
 		"Justin Timberlake",
@@ -749,202 +749,202 @@
 	],
 	"multipleChoiceQuiz" : [
 		{
-			"question" : "Who was the second person to set foot on the moon?",
+			"question" : "Qui a été la seconde personne à marcher sur la lune ?",
 			"answer" : "Buzz Aldrin",
 			"dummys" : ["Alan Bean", "Neil Armstrong", "Pete Conrad"]
 		},
 		{
-			"question" : "Who was the second person to climb Mount Everest?",
+			"question" : "Qui a été la seconde personne à monter le Mont Everest ?",
 			"answer" : "Tenzing Norgay",
 			"dummys" : ["Edmund Hillary", "Jürg Marmet", "Ernst Schmied"]
 		},
 		{
-			"question" : "Who was the first person to reach the South Pole?",
+			"question" : "Qui a été la première personne à rejoindre le pôle sud ?",
 			"answer" : "Roald Amundsen",
 			"dummys" : ["Robert Falcon Scott", "Sir Ernest Shackleton", "Nobu Shirase"]
 		},
 		{
-			"question" : "Which country won the first football/soccer world cup?",
+			"question" : "Quel pays a remporté la première coupe du monde de football ?",
 			"answer" : "Uruguay",
-			"dummys" : ["Argentina", "Brazil", "England"]
+			"dummys" : ["Argentine", "Brésil", "Angleterre"]
 		}
 	],
 	"truthOrDare" : {
 		"truths" : [
 			{
-				"question" : "What would you do if you were the opposite sex for a month?",
+				"question" : "Que ferais-tu si tu étais du sexe opposé pour un mois ?",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "What is the most expensive thing you have stolen?",
+				"question" : "Quelle est la chose la plus chère que tu aies volé ?",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "What is the most childish thing you still do?",
+				"question" : "Quelle est la chose la plus gamine que tu fais encore ?",
 				"drinkValue" : 1
 			},
 			{
-				"question" : "Have you ever let someone take the blame for something you did?",
+				"question" : "As-tu déjà laissé quelqu'un prendre la culpabilité sur quelque chose que tu as fait ?",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "What is the meanest you have been to someone that didn’t deserve it?",
+				"question" : "Jusqu'à quel point as-tu été méchant avec quelqu'un qui ne l'avait pas mérité ?",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "What is something that people think you would never do but you have?",
+				"question" : "Révéle quelque chose que les gens te pensent incapable de faire mais que tu as déjà fait.",
 				"drinkValue" : 1
 			},
 			{
-				"question" : "What was the worst encounter you had with a police officer?",
+				"question" : "Quelle a été ta pire rencontre avec un policier ?",
 				"drinkValue" : 1
 			},
 			{
-				"question" : "What is your deepest darkest fear?",
+				"question" : "Quelle est ta peur la plus profonde ?",
 				"drinkValue" : 3
 			},
 			{
-				"question" : "Tell everyone about your first kiss.",
+				"question" : "Raconte ton premier baiser à tout le monde.",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "Where is the strangest place you have peed?",
+				"question" : "Quel est l'endroit le plus bizarre dans lequel tu as pissé ?",
 				"drinkValue" : 1
 			},
 			{
-				"question" : "Who is the sexiest person here?",
+				"question" : "Qui est la personne la plus sexy ici ?",
 				"drinkValue" : 1
 			},
 			{
-				"question" : "What terrible thing have you done that you lied to cover up?",
+				"question" : "Qu'as-tu fait de si terrible qu'il ait fallu mentir pour le cacher?",
 				"drinkValue" : 3
 			},
 			{
-				"question" : "Who have you loved but they didn’t love you back?",
+				"question" : "Qui as-tu aimé sans être aimé en retour ?",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "What is something that you have never told anyone?",
+				"question" : "Qu'est-ce que tu n'as jamais dit à personne ?",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "What is the most disgusting habit you have?",
+				"question" : "Quelle est ton habitude la plus dégoûtante ?",
 				"drinkValue" : 1
 			},
 			{
-				"question" : "What is the most embarrassing thing you have put up on social media?",
+				"question" : "Quelle est la chose la plus embarassante que tu aies mise sur les réseaux ?",
 				"drinkValue" : 1
 			},
 			{
-				"question" : "What was the most awkward romantic encounter you have had?",
+				"question" : "Quelle a été ta rencontre amoureuse la plus gênante ?",
 				"drinkValue" : 1
 			},
 			{
-				"question" : "What is the grossest thing you have had in your mouth?",
+				"question" : "Quelle est la chose la plus sale que tu aies eu dans ta bouche ?",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "What is the biggest lie you have ever told?",
+				"question" : "Quel est le plus gros mensonge que tu ais inventé ?",
 				"drinkValue" : 3
 			},
 			{
-				"question" : "What is the most embarrassing photo you have on your phone?",
+				"question" : "Quelle est la photo la plus embarassante sur ton téléphone ?",
 				"drinkValue" : 3
 			},
 			{
-				"question" : "What is the weirdest thing you have done for a boyfriend or girlfriend?",
+				"question" : "Quelle est la chose la plus bizarre que tu aies faite pour ton/ta partenaire ?",
 				"drinkValue" : 3
 			},
 			{
-				"question" : "When was the last time you picked your nose without a tissue?",
+				"question" : "À quand remonte la dernière fois que tu t'es curé le nez sans mouchoir ?",
 				"drinkValue" : 1
 			},
 			{
-				"question" : "Tell us your most embarrassing vomit story.",
+				"question" : "Raconte ton histoire de vomi la plus embarassante.",
 				"drinkValue" : 1
 			},
 			{
-				"question" : "Have you ever made out with someone here?",
+				"question" : "Est-tu déjà sorti avec quelqu'un ici ?",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "What would you do if you were the opposite gender for a day?",
+				"question" : "Que ferais-tu si tu changeais de sexe pour une journée ?",
 				"drinkValue" : 1
 			}
 		],
 		"dares" : [
 			{
-				"question" : "Let the group pose you in an embarrassing position and take a picture.",
+				"question" : "Fais toi photographier dans une position gênante choisie par le groupe.",
 				"drinkValue" :2
 			},
 			{
-				"question" : "Curse like sailor for 20 seconds straight.",
+				"question" : "Jure comme un marin pendant 20 secondes.",
 				"drinkValue" : 1
 			},
 			{
-				"question" : "Do four cartwheels in row.",
+				"question" : "Fais quatre galipettes d'affilée.",
 				"drinkValue" : 3
 			},
 			{
-				"question" : "Lick the floor.",
+				"question" : "Lèche le sol.",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "Let the group give you a new hairstyle.",
+				"question" : "Laisse le groupe te refaire un brushing.",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "Do the worm.",
+				"question" : "Imite un ver.",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "Get slapped on the face by the person of your choosing.",
+				"question" : "Choisis quelqu'un pour qu'il te gifle.",
 				"drinkValue" : 1
 			},
 			{
-				"question" : "Spin an imaginary hula hoop around your waist for 3 minutes while the game continues.",
+				"question" : "Fais du hula hoop imaginaire pendant les trois prochaines minutes de la partie.",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "Make a funny face and keep making it for 2 minutes while the game continues.",
+				"question" : "Fais une grimace pendant les deux prochaines minutes de la partie.",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "Remove your socks with your teeth.",
+				"question" : "Enlève tes chaussettes avec tes dents.",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "Howl like a wolf for 30 seconds.",
+				"question" : "Hurle comme un loup pendant 30 secondes.",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "Until your next turn, talk super loud, like nobody can hear you.",
+				"question" : "Parle très fort, comme si personne ne t'entendait, jusqu'au prochain tour.",
 				"drinkValue" : 1
 			},
 			{
-				"question" : "Make out with your hand.",
+				"question" : "Roule une pelle à ta main.",
 				"drinkValue" : 1
 			},
 			{
-				"question" : "Talk without closing your mouth until your next turn.",
+				"question" : "Parle sans fermer ta bouche jusqu'au tour suivant.",
 				"drinkValue" : 1
 			},
 			{
-				"question" : "Get into a debate with a wall.",
+				"question" : "Débats avec un mur.",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "Call a random number and try to flirt with the person who picks up.",
+				"question" : "Appelle un numéro aléatoire et essaie de draguer la personne qui décroche.",
 				"drinkValue" : 3
 			},
 			{
-				"question" : "Lick a doorknob.",
+				"question" : "Lèche une pognée de porte.",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "Take a selfie with the toilet and post it online.",
+				"question" : "Prends toi en selfie devant des toilettes et poste-le sur les réseaux.",
 				"drinkValue" : 2
 			}
 		]
-	}	
+	}
 }
