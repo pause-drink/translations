@@ -1,7 +1,7 @@
 {
   "disclaimer": {
     "para1":  "Nós não nos responsabilizamos sobre como você e seus amigos utilizam o Pause Drink.",
-    "para2":  "Este jogo é apenas para adultos. POR FAVOR, beba com moderação, se cuide, cuide dos seus amigos e se divirta.",
+    "para2":  "Este jogo é somente para adultos. POR FAVOR, beba com moderação, se cuide, cuide dos seus amigos e se divirta.",
     "ok": "OK"
   },
   "main_menu": {
@@ -20,7 +20,7 @@
     "flick_speed": "Velocidade do texto",
     "time_limit": "Limite de tempo",
     "turns_limit": "Limite para o final do jogo",
-    "repeats": "Jogue os subgames apenas uma vez",
+    "repeats": "Jogue os subjogos apenas uma vez",
     "play": "Jogar",
     "close": "Fechar",    
     "time": "tempo",
@@ -73,7 +73,7 @@
     "play": "Jogar"
   },
   "game": {
-    "go": "Ir!",
+    "go": "Vamos lá!",
     "hint_pause": "Clique na tela na sua rodada, siga as instruções, passe para o próximo jogador.",
     "hint_continue": "Clique no título ou na descrição para iniciar a próxima rodada.",
     "exit": "Sair",
