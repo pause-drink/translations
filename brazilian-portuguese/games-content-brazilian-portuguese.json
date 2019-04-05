@@ -627,53 +627,179 @@
 		"Aquário",
 		"Peixes"
 	],
-	"guyJokes" : [
-		["What’s the fastest way to a man’s heart?", "Through his chest with a sharp knife."],
-		["Why shouldn’t you let a man’s mind wander?", "Because it’s way too little to be out all alone."],
-		["How are men like parking spaces?", "All the good ones are taken, and the ones leftover are disabled."],
-		["What’s the difference between a clitoris and a golf ball?", "A man will actually look for a golf ball."],
-		["What’s the best way to find a truly committed man?", "Visit the closest mental hospital."],
-		["What do you call a man who won’t go down on you?", "You don’t!"],
-		["What should you do if your man walks out?", "Shut the door and celebrate."],
-		["What do a balloon and a man have in common?", "One prick pretty much ruins them."],
-		["How are splinters better than a man?", "Splinters are a pain, but they go away eventually."],
-		["What’s the difference between a knife and an argumentative man?", "A knife has a point."],
-		["How many feminists does it take to change a lightbulb?", "None. It’s not the lightbulb that needs changing."],
-		["How is a man like a gun?", "Keep one around long enough, and you’ll definitely want to shoot him."],
-		["Why did God make Adam before Eve?", "Everyone needs a rough draft before they make the final copy."],
-		["Why did God even create men?", "Because He couldn’t figure out how to make a vibrator that would mow the lawn."],
-		["What do you call a man who’s lost 95 percent of his intelligence?", "Divorced."],
-		["What kind of man can you actually change?", "The ones still in diapers."],
-		["Why shouldn’t you trust a man who claims he “wears the pants”?", "He probably lies about other shit, too."],
-		["Why does it take a million sperm to fertilize one egg?", "They really are too damn proud to stop and ask for directions."],
-		["What’s the definition of a perpetual bachelor?", "A man who’s missed the opportunity to make a woman miserable."],
-		["You might as well go for a younger guy. Why?", "They never mature anyway."],
-		["How do you get a man to have the best orgasm possible?", "Who cares?"],
-		["How come it’s so hard to make a fool out of a man?", "Because most of them are the DIY type in that way."],
-		["Love is blind.", "Marrying a man, on the other hand, is a real eye opener."]
-	],
-	"girlJokes" : [
-		["How do you know when a woman is about to say something smart?", "When she starts her sentence with, \"A man once told me...\""],
-		["How are women and tornadoes alike?", "They both moan like hell when they come, and take the house when they leave."],
-		["When can women make you a millionaire?", "When you're a billionaire."],
-		["What's six inches long, two inches wide, and drives women wild?", "Money."],
-		["A man driving a car hits a woman. Whose fault is it?", "The man's. Why was he driving in the kitchen?"],
-		["Scientists have discovered a food that diminishes a woman's sex drive by 90%.", "It's called a wedding cake."],
-		["When a man opens the car door for his wife, you can be sure of one thing.", "Either the car is new or the wife is."],
-		["How many men does it take to open a beer?", "None. It should be opened by the time she brings it."],
-		["Why do men die before their wives?", "They want to."],
-		["How do you fix a woman's watch?", "You don't. There is a clock on the oven."],
-		["How many men does it take to change a roll of toilet paper?", "I don't know, it has never happened."],
-		["How does a man show that he is planning for the future?", "He buys two cases of beer."],
-		["What is the difference between a snow man and a snow woman?", "Snowballs!!"],
-		["Why are there no women on the moon?", "Because it doesn't need to be cleaned"],
-		["Why do women have smaller feet than men?", "It's one of those 'evolutionary things' that allows them to stand closer to the kitchen sink."],
-		["Why do men pass gas more than women?", "Because women can't shut up long enough to build up the required pressure."],
-		["I married a Miss Right.", "I just didn't know her first name was Always."],
-		["What should you give a woman who has everything?", "A man to show her how to work it."],
-		["Why do women rub their eyes when they wake up?", "Because they don't have balls to scratch."],
-		["Why do women fake orgasms?", "Because they think men care."]
-	],
+	"guyJokes": [
+		[
+		    "Qual o caminho mais curto para o coração de um homem?",
+		    "Pelo torax, com uma faca afiada."
+		],
+		[
+		    "Por que não podemos deixar a mente masculina divagar sozinha?",
+		    "Porque crianças não podem andar sozinhas por ai."
+		],
+		[
+		    "Por que homens são como vagas de estacionamento?",
+		    "Todos os bons estão ocupados e os restante não são para você."
+		],
+		[
+		    "Qual a diferença entre o clitoris e uma bola de futebol?",
+		    "Homens geralmente conseguem encontrar uma bola de futebol."
+		],
+		[
+		    "Por que é que são necessários milhões de espermatozóides para fertilizar um único óvulo?",
+		    "Porque os espermatozóides são masculinos e negam-se a perguntar o caminho."
+		],
+		[
+		    "O que ocorre com um homem quando come uma mosca?",
+		    "Fica com mais neurônios no estômago do que no cérebro."
+		],
+		[
+		    "Por que é que os homens gostam de amor à primeira vista?",
+		    "Porque economiza tempo em cantadas e convites para jantar."
+		],
+		[
+		    "Por que é que os homens não têm a crise da meia idade?",
+		    "Porque ficam todos parados na adolescência."
+		],
+		[
+		    "Qual a diferença entre ir a um bar sozinha e ir a um circo?",
+		    "Quando você vai ao circo os palhaços não falam contigo."
+		],
+		[
+		    "O que têm em comum o clitóris, os aniversários e a tampa do vaso sanitário?",
+		    "Os homens sempre erram."
+		],
+		[
+		    "Sabe como uma mulher e livra de 75 quilos de gordura inútil?",
+		    "Pede o divórcio."
+		],
+		[
+		    "How is a man like a gun?",
+		    "Keep one around long enough, and you’ll definitely want to shoot him."
+		],
+		[
+		    "Como é que se pode ter a certeza de que as novelas são ficção?",
+		    "Porque na vida real os homens não são carinhosos fora da cama."
+		],
+		[
+		    "O que os homens geralmente entendem como \"preliminares\" para sexo?",
+		    "Duas horas implorando para ir para a cama com eles."
+		],
+		[
+		    "Como se chama um homem que perdeu 95 porcento da sua inteligência?",
+		    "Divorciado."
+		],
+		[
+		    "Qual a diferença entre os homens e a fruta?",
+		    "É que a fruta amadurece um dia..."
+		],
+		[
+		    "Por que é que as pilhas são melhores que os homens?",
+		    "Porque as pilhas têm pelo menos um lado positivo."
+		],
+		[
+		    "Por que os homens querem casar com virgens?",
+		    "Eles não suportam críticas."
+		],
+		[
+		    "Por que os homens são como as pipocas?",
+		    "Eles te satisfazem, mas por pouco tempo."
+		],
+		[
+		    "Por que os homens não costumam mostrar seus sentimentos verdadeiros?",
+		    "Porque eles não têm nenhum."
+		],
+		[
+		    "O que é que Deus disse depois de criar o homem?",
+		    "Acho que posso melhorar..."
+		],
+		[
+		    "Por que os homens gostam de mulheres inteligentes?",
+		    "Porque os opostos se atraem."
+		],
+		[
+		    "Qual a diferença entre a cabeça de um prego e a cabeça de um homem?",
+		    "A cabeça de um prego pode servir para alguma coisa."
+		]
+	    ],
+	    "girlJokes": [
+		[
+		    "Porque é que as mulheres fingem o orgasmo?",
+		    "Porque elas pensam que o homem se importa."
+		],
+		[
+		    "Por que mulheres e tornados se parecem?",
+		    "Ambos são barulhentos e levam sua casa quando vão embora."
+		],
+		[
+		    "Quando uma mulher pode te fazer milionário?",
+		    "Quando você é bilionário."
+		],
+		[
+		    "Eu casei com a mulher Certa.",
+		    "Só não sabia que o seu primeiro nome era Sempre."
+		],
+		[
+		    "O que é necessário para confundir uma mulher?",
+		    "Nada, elas já nascem assim."
+		],
+		[
+		    "Os cientistas descobriram uma comida que diminui em 90% o desejo sexual das mulheres.",
+		    "Chama-se bolo de casamento."
+		],
+		[
+		    "Quando um homem abre a porta do carro a uma mulher é porque...",
+		    "ou o carro é novo ou a mulher é nova."
+		],
+		[
+		    "Quantos homens são necessários para abrir uma garrafa de cerveja?",
+		    "Nenhum. Já devia vir aberta quando a mulher a traz."
+		],
+		[
+		    "Porque é que os homens morrem antes das suas esposas?",
+		    "Porque desistem."
+		],
+		[
+		    "Como consertar algo que o homem não gosta no corpo de uma mulher?",
+		    "Troque de homem."
+		],
+		[
+		    "Qual a melhor sensação para uma mulher?",
+		    "Deslizar a perna depilada em um lençol de seda."
+		],
+		[
+		    "Como um homem demonstra que ele se planejando para o futuro?",
+		    "Ele compra duas caixas de cerveja."
+		],
+		[
+		    "Qual a diferença entre um homem de neve e uma mulher de neve?",
+		    "Bolas de neve!!"
+		],
+		["Como irritar uma mulher?", "Fuja de uma DR."],
+		[
+		    "Como você sabe que uma mulher está brava?",
+		    "Quando ela fica extremamente educada."
+		],
+		[
+		    "O que há de comum entre James Bond e uma mulher?",
+		    "Ambos podem agir como agente secreto."
+		],
+		[
+		    "Por que mulheres vivem mais?",
+		    "Por que elas não conseguem parar de reclamar para morrer."
+		],
+		[
+		    "O que fazer quando uma mulher te pergunta algo importante?",
+		    "Fale a verdade. Provavelmente ela já sabe de tudo."
+		],
+		[
+		    "Por que mulheres coçam os olhos ao acordar?",
+		    "Porque elas não tem bolas para coçar."
+		],
+		[
+		    "Por que mulheres são mais lentas no trânsito?",
+		    "Porque elas precisam dirigir e processar tudo que estão passando na mente ao mesmo tempo."
+		]
+	    ],
 	"impersonations" : [
 		"Silvio Santos",
 		"Faustão",
