@@ -6,7 +6,7 @@
         "subgameType": "standard",
         "description": "Tu e o próximo jogador trocam de nomes durante o resto do jogo.  Sempre que alguém vos chamar pelo vosso nome original, bebe.",
         "content": false,
-        "category": "Regra"
+        "category": "Rule"
     }
 },
 {
@@ -17,7 +17,7 @@
         "subgameType": "standard",
         "description": "O jogador com o aniversário mais próximo do dia de hoje bebe 3 golos!",
         "content": false,
-        "category": "Perfil"
+        "category": "Profile"
     }
 },
 {
@@ -28,7 +28,7 @@
         "subgameType": "standard",
         "description": "Todos os jogadores bebem!",
         "content": false,
-        "category": "Todos"
+        "category": "Everybody"
     }
 },
 {
@@ -39,7 +39,7 @@
         "subgameType": "standard",
         "description": "Ir buscar bebidas para todos os jogadores (Cada um paga a sua!).  Só podem pedir o teu serviço quando terminarem a bebida anterior.",
         "content": false,
-        "category": "Regra"
+        "category": "Rule"
     }
 },
 {
@@ -50,7 +50,7 @@
         "subgameType": "standard",
         "description": "Não podes mostrar os dentes durante o resto do jogo.  Bebe um golo cada vez que fores apanhado a fazê-lo.",
         "content": false,
-        "category": "Regra"
+        "category": "Rule"
     }
 },
 {
@@ -61,7 +61,7 @@
         "subgameType": "standard",
         "description": "Jogadores com menos de um quarto de bebida no copo, bebem tudo!",
         "content": false,
-        "category": "Perfil"
+        "category": "Profile"
     }
 },
 {
@@ -72,7 +72,7 @@
         "subgameType": "standard",
         "description": "Nenhum jogador pode dizer a palavra 'BEBE' durante o resto do jogo. Se o fizerem devem beber.",
         "content": false,
-        "category": "Regra"
+        "category": "Rule"
     }
 },
 {
@@ -83,7 +83,7 @@
         "subgameType": "standard",
         "description": "Durante o resto do jogo tratem-se pelos apelidos ou então bebem.",
         "content": false,
-        "category": "Regra"
+        "category": "Rule"
     }
 },
 {
@@ -94,7 +94,7 @@
         "subgameType": "standard",
         "description": "Durante o resto do jogo não se pode apontar! Quem for apanhado bebe! Ok, ok. Pode apontar-se com o cotovelo.",
         "content": false,
-        "category": "Regra"
+        "category": "Rule"
     }
 },
 {
@@ -105,7 +105,7 @@
         "subgameType": "standard",
         "description": "Um pequeno homem invisível vive na borda do teu copo.  Sempre que fores beber ajuda-o a sair, e coloca-o de volta quando terminares de beber.  Bebe de novo sempre que te esqueceres de o fazer!",
         "content": false,
-        "category": "Regra"
+        "category": "Rule"
     }
 },
 {
@@ -116,7 +116,7 @@
         "subgameType": "standard",
         "description": "Toda a gente bebe e troca para o lugar seguinte na direcção do sentido do jogo.",
         "content": false,
-        "category": "Todos"
+        "category": "Everybody"
     }
 },
 {
@@ -127,7 +127,7 @@
         "subgameType": "standard",
         "description": "Todos os que tem tatuagens bebem e mostram a tatuagem ao grupo.",
         "content": false,
-        "category": "Perfil"
+        "category": "Profile"
     }
 },
 {
@@ -138,7 +138,7 @@
         "subgameType": "contentBasic",
         "description": "As estrelas estão alinhadas de uma forma bizarra... Bebem todos os jogadores que forem do signo...",
         "content": "starSigns",
-        "category": "Perfil"
+        "category": "Profile"
     }
 },
 {
@@ -149,7 +149,7 @@
         "subgameType": "standard",
         "description": "Até ao teu próximo turno move-te em câmara lenta.  Se te esqueceres e fores apanhado, bebe!",
         "content": false,
-        "category": "Regra"
+        "category": "Rule"
     }
 },
 {
@@ -160,7 +160,7 @@
         "subgameType": "contentJoke",
         "description": "Homens bebem.",
         "content": "guyJokes",
-        "category": "Perfil"
+        "category": "Profile"
     }
 },
 {
@@ -171,7 +171,7 @@
         "subgameType": "contentJoke",
         "description": "Mulheres bebem.",
         "content": "girlJokes",
-        "category": "Perfil"
+        "category": "Profile"
     }
 },
 {
@@ -182,7 +182,7 @@
         "subgameType": "standard",
         "description": "Todos os estudantes bebem.",
         "content": false,
-        "category": "Perfil"
+        "category": "Profile"
     }
 },
 {
@@ -193,7 +193,7 @@
         "subgameType": "standard",
         "description": "Bebe 1, 2, ou 3 golos.  Todos os jogadores fazem o mesmo!",
         "content": false,
-        "category": "Poder"
+        "category": "Power"
     }
 },
 {
@@ -204,7 +204,7 @@
         "subgameType": "standard",
         "description": "Inverte o sentido do jogo.",
         "content": false,
-        "category": "Regra"
+        "category": "Rule"
     }
 },
 {
@@ -215,7 +215,7 @@
         "subgameType": "standard",
         "description": "Mantém os olhos fechados até o teu próximo turno. Só os poderás abrir para jogos em que a visão seja necessária, se não for bebe de cada vez que fores apanhado.",
         "content": false,
-        "category": "Regra"
+        "category": "Rule"
     }
 },
 {
@@ -226,7 +226,7 @@
         "subgameType": "standard",
         "description": "Repete a última palavra de cada frase que dizes, durante o resto do jogo!  Esquece de fazê-lo e bebe.",
         "content": false,
-        "category": "Regra"
+        "category": "Rule"
     }
 },
 {
@@ -237,7 +237,7 @@
         "subgameType": "standard",
         "description": "Qualquer jogador que saiba falar várias línguas, bebe um golo por cada.  Grita a língua antes de cada golo.",
         "content": false,
-        "category": "Perfil"
+        "category": "Profile"
     }
 },
 {
@@ -248,7 +248,7 @@
         "subgameType": "standard",
         "description": "És o mestre do polegar. Coloca o teu polegar em cima da mesa (ou outro lugar acordado) a qualquer altura entre turnos e apenas uma vez por turno. Os outros jogadores terão de fazer o mesmo, o último a fazê-lo bebe.",
         "content": false,
-        "category": "Poder"
+        "category": "Power"
     }
 },
 {
@@ -259,7 +259,7 @@
         "subgameType": "standard",
         "description": "Se está uma música a tocar, diz o seu nome ou o do artista. Se acertares manda alguém beber, se falhares bebe tu. Se não houver música, bebem todos!",
         "content": false,
-        "category": "Desafio"
+        "category": "Challenge"
     }
 },
 {
@@ -270,7 +270,7 @@
         "subgameType": "standard",
         "description": "Quem é o mais forte, tu ou o jogador à tua frente?  Façam um braço-de-ferro. O perdedor bebe e o vencedor nomeia 3 outros jogadores para bebem também.",
         "content": false,
-        "category": "Batalha"
+        "category": "Battle"
     }
 },
 {
@@ -281,7 +281,7 @@
         "subgameType": "standard",
         "description": "Durante o resto do jogo tens braços de T-rex! Os teus cotovelos deverão estar sempre colados ao torso. Se te esqueceres, bebe!",
         "content": false,
-        "category": "Regra"
+        "category": "Rule"
     }
 },
 {
@@ -292,7 +292,7 @@
         "subgameType": "standard",
         "description": "Durante o resto do jogo tu e o jogador à tua frente são 'amigos dos copos'. Sempre que um beber, o outro bebe também!",
         "content": false,
-        "category": "Regra"
+        "category": "Rule"
     }
 },
 {
@@ -303,7 +303,7 @@
         "subgameType": "standard",
         "description": "Durante o resto do jogo aplaudam sempre que alguém beber!  Se se esquecerem bebem também.",
         "content": false,
-        "category": "Regra"
+        "category": "Rule"
     }
 },
 {
@@ -314,7 +314,7 @@
         "subgameType": "standard",
         "description": "Quem tiver as calças mais apertadas bebe.",
         "content": false,
-        "category": "Perfil"
+        "category": "Profile"
     }
 },
 {
@@ -325,7 +325,7 @@
         "subgameType": "canvas",
         "description": "Coloca o telefone no centro dos jogadores.  Clica para que a a garrafa rode!  Quando parar, o escolhido pela garrafa bebe 3.",
         "content": "spin-the-bottle",
-        "category": "Todos"
+        "category": "Everybody"
     }
 },
 {
@@ -336,7 +336,7 @@
         "subgameType": "canvas",
         "description": "Tu e o jogador à tua frente clicam no ecrã para que a vossa personagem chegue à bebida e a termine primeiro.  Quem perder bebe 3!",
         "content": "tap-race",
-        "category": "Batalha"
+        "category": "Battle"
     }
 },
 {
@@ -347,7 +347,7 @@
         "subgameType": "canvas",
         "description": "Um quiz para até 10 jogadores. Bebe 1 golo por cada resposta errada. Responde correctamente e abandona o quiz.  O último jogador bebe 3!",
         "content": "buzzers",
-        "category": "Todos"
+        "category": "Everybody"
     }
 },
 {
@@ -358,7 +358,7 @@
         "subgameType": "standard",
         "description": "Desafia o jogador à tua frente para um jogo à melhor de três.  Quem perder bebe 3!",
         "content": false,
-        "category": "Batalha"
+        "category": "Battle"
     }
 },
 {
@@ -369,7 +369,7 @@
         "subgameType": "standard",
         "description": "Durante o resto do jogo só podes falar com frases compostas por 3 palavras!  Tu esquece, beber!",
         "content": false,
-        "category": "Regra"
+        "category": "Rule"
     }
 },
 {
@@ -391,7 +391,7 @@
         "subgameType": "contentBasic",
         "description": "Durante o resto do jogo fala com o seguinte sotaque! Bebe de cada vez que te esqueceres.",
         "content": "accents",
-        "category": "Regra"
+        "category": "Rule"
     }
 },
 {
@@ -402,7 +402,7 @@
         "subgameType": "standard",
         "description": "Tu és o inquiridor mestre.  Se fizeres uma pergunta a alguém e ele responder, ele terá de beber.  Para que não bebam terão de te dar uma resposta ordinária ou então fazerem-te uma nova pergunta.",
         "content": false,
-        "category": "Poder"
+        "category": "Power"
     }
 },
 {
@@ -413,7 +413,7 @@
         "subgameType": "standard",
         "description": "Até à tua próxima vez, sempre que apanhares alguém a olhar-te nos olhos, esse alguém bebe.",
         "content": false,
-        "category": "Poder"
+        "category": "Power"
     }
 },
 {
@@ -424,7 +424,7 @@
         "subgameType": "standard",
         "description": "Cria uma lei que todos terão de cumprir, inclusive tu.  Quem for apanhado a prevaricar essa lei, bebe.",
         "content": false,
-        "category": "Poder"
+        "category": "Power"
     }
 },
 {
@@ -446,7 +446,7 @@
         "subgameType": "standard",
         "description": "Durante o resto do jogo todos os jogadores, sempre que beberem deverão fazê-lo pegando no copo com a mão esquerda e com o dedo mindinho esticado para o ar.  Se se esquecerem bebem outra vez.",
         "content": false,
-        "category": "Regra"
+        "category": "Rule"
     }
 },
 {
@@ -457,7 +457,7 @@
         "subgameType": "standard",
         "description": "Não fales até ao teu próximo turno.  Mesmo um pequeno \"mmm\" obriga-te a beber, por isso, CALA-TE!",
         "content": false,
-        "category": "Regra"
+        "category": "Rule"
     }
 },
 {
@@ -490,7 +490,7 @@
         "subgameType": "standard",
         "description": "Nomeia uma vítima para beber 1.",
         "content": false,
-        "category": "Poder"
+        "category": "Power"
     }
 },
 {
@@ -501,7 +501,7 @@
         "subgameType": "standard",
         "description": "Escolhe uma vítima para beber 2 golos ou duas vítimas para beber 1 golo cada.",
         "content": false,
-        "category": "Poder"
+        "category": "Power"
     }
 },
 {
@@ -512,7 +512,7 @@
         "subgameType": "standard",
         "description": "Escolhe de uma a três vítimas para beberem de 1 a 3 golos.",
         "content": false,
-        "category": "Poder"
+        "category": "Power"
     }
 },
 {
@@ -523,7 +523,7 @@
         "subgameType": "standard",
         "description": "Durante o resto do jogo fala como se fosses 'Sopinha de massa'!  Se te esqueceres... bebe.",
         "content": false,
-        "category": "Regra"
+        "category": "Rule"
     }
 },
 {
@@ -534,7 +534,7 @@
         "subgameType": "standard",
         "description": "Conta uma verdade e duas mentiras.  Cada jogador tenta adivinhar qual a verdade.  Se alguém não acertar, bebe. Tu bebes por cada pessoa que acertar!",
         "content": false,
-        "category": "Desafio"
+        "category": "Challenge"
     }
 },
 {
@@ -545,7 +545,7 @@
         "subgameType": "standard",
         "description": "Durante uma ronda sai da linha de visão de todos os jogadores.  Poderás voltar para jogos que exijam a tua presença.",
         "content": false,
-        "category": "Regra"
+        "category": "Rule"
     }
 },
 {
@@ -556,7 +556,7 @@
         "subgameType": "standard",
         "description": "O jogador à tua frente poisa o copo.  Faz uma bola de papel e tenta 'encestar' 3 vezes sem te inclinares ou mudar de posição.  Esse jogador bebe por cada vez que acertares.  Tu bebes por cada vez que falhares!",
         "content": false,
-        "category": "Desafio"
+        "category": "Challenge"
     }
 },
 {
@@ -567,7 +567,7 @@
         "subgameType": "standard",
         "description": "Cada jogador escolhe um nome com uma só sílaba.  Começa o jogo com todos em ritmo lento: 1.Batida nos joelhos - 2.Palmas - 3.Estalar os dedos da mão direita - 4.Estalar os dedos da mão esquerda. Jogador: na 3ª batida diz um número de 1 a 4 e na 4ª batida diz um nome. Jogador que o nome tiver sido dito: na próxima batida, a 1ª, repete o seu nome no tempo da batida. O número que o emissor disse regula o número de vezes que o receptor terá de dizer o seu nome sempre em tempo com as batidas.  O receptor torna-se agora o emissor dizendo um número e um nome (nas batidas 3 e 4) para passar ao próximo.",
         "content": false,
-        "category": "Todos"
+        "category": "Everybody"
     }
 },
 {
@@ -578,7 +578,7 @@
         "subgameType": "timer",
         "description": "Dançar como um robot ao estilo dos anos 80, durante 30 segundos sem interromper. Se não conseguir bebe 3.",
         "time": 30,
-        "category": "Consequência"
+        "category": "Dare"
     }
 },
 {
@@ -588,7 +588,7 @@
     "details": {
         "subgameType": "standard",
         "description": "Tira uma peça de roupa ou bebe.  (Sapatos, meias e jóias não contam).",
-        "category": "Consequência"
+        "category": "Dare"
     }
 },
 {
@@ -598,7 +598,7 @@
     "details": {
         "subgameType": "standard",
         "description": "Tira duas peças de roupa ou bebe.  (Sapatos, meias e jóias não contam).",
-        "category": "Consequência"
+        "category": "Dare"
     }
 },
 {
@@ -608,7 +608,7 @@
     "details": {
         "subgameType": "standard",
         "description": "Tira três peças de roupa ou bebe.  (Sapatos, meias e jóias não contam).",
-        "category": "Consequência"
+        "category": "Dare"
     }
 },
 {
@@ -619,7 +619,7 @@
         "subgameType": "standard",
         "description": "Põe baton ou bebe 2 golos.",
         "content": false,
-        "category": "Consequência"
+        "category": "Dare"
     }
 },
 {
@@ -629,7 +629,7 @@
     "details": {
         "subgameType": "standard",
         "description": "Deixa que alguém te desenhe um bigode a lápis, ou bebe duas.",
-        "category": "Consequência"
+        "category": "Dare"
     }
 },
 {
@@ -640,7 +640,7 @@
         "subgameType": "timer",
         "description": "Faz o \"moon walk\" do Michael Jackson e outros movimentos de dança dele durante 30 segundos sem interrupção ou bebe 3.",
         "time": 30,
-        "category": "Consequência"
+        "category": "Dare"
     }
 },
 {
@@ -651,7 +651,7 @@
         "subgameType": "standard",
         "description": "Costas direitas, encosta o peito ao chão. Dos joelhos ou dos pés, faz 5 flexões de braços ou bebe 1.",
         "content": false,
-        "category": "Desafio"
+        "category": "Challenge"
     }
 },
 {
@@ -662,7 +662,7 @@
         "subgameType": "standard",
         "description": "Costas direitas, encosta o peito ao chão. Dos joelhos ou dos pés, faz 10 flexões de braços ou bebe 2.",
         "content": false,
-        "category": "Desafio"
+        "category": "Challenge"
     }
 },
 {
@@ -673,7 +673,7 @@
         "subgameType": "standard",
         "description": "Costas direitas, encosta o peito ao chão. Dos joelhos ou dos pés, faz 15 flexões de braços ou bebe 3.",
         "content": false,
-        "category": "Desafio"
+        "category": "Challenge"
     }
 },
 {
@@ -684,7 +684,7 @@
         "subgameType": "quickTimer",
         "description": "Tens 10 segundos para abraçar outro jogador ou então bebe.",
         "time": 10,
-        "category": "Desafio"
+        "category": "Challenge"
     }
 },
 {
@@ -695,7 +695,7 @@
         "subgameType": "quickTimer",
         "description": "Convence outro jogador a beijar-te (pode ser na face) em 10 segundos ou bebe.",
         "time": 10,
-        "category": "Desafio"
+        "category": "Challenge"
     }
 },
 {
@@ -707,7 +707,7 @@
         "description": "Tenta que os jogadores adivinhem o PAÍS pela dança! Sem sons nem outros gestos. O jogador que acertar nomeia outros dois para beber. Se ninguém acertar todos bebem 1 e tu bebes 2!  Tens 30 segundos.",
         "content": "countries",
         "time": 30,
-        "category": "Artista"
+        "category": "Performer"
     }
 },
 {
@@ -719,7 +719,7 @@
         "description": "Os outros jogadores tentam adivinhar a personagem. Se um jogador acerta, vocês os dois nomeiam dois jogadores para beber, se ninguém acertar todos bebem!  Tens 15 segundos.",
         "content": "impersonations",
         "time": 15,
-        "category": "Artista"
+        "category": "Performer"
     }
 },
 {
@@ -731,7 +731,7 @@
         "description": "Assobia a música (em alternativa podes fazer 'hummm'). Quem adivinhar nomeia 2 jogadores para beber, se ninguém acertar todos bebem 1 e tu bebes 2!  Tens 45 segundos.",
         "content": "famousSongs",
         "time": 45,
-        "category": "Artista"
+        "category": "Performer"
     }
 },
 {
@@ -743,7 +743,7 @@
         "description": "Passa o telefone ao próximo jogador. Ele lê a palavra que tu terás de soletrar do fim para o início e sem erros ou bebes 2 golos. Tens 25 segundos.",
         "content": "spellBackwards",
         "time": 25,
-        "category": "Desafio"
+        "category": "Challenge"
     }
 },
 {
@@ -755,7 +755,7 @@
         "description": "Tens um minuto para transmitir pistas. Sem qualquer tipo de som, só mímica. O jogador que acertar nomeia 2. Se ninguém acertar todos bebem, incluindo tu!",
         "content": "charades",
         "time": 60,
-        "category": "Artista"
+        "category": "Performer"
     }
 },
 {
@@ -767,7 +767,7 @@
         "description": "Tens 30 segundos para desenhar a próxima coisa. Proibido falar!  O jogador que acertar nomeia 2. Se ninguém acertar todos bebem, incluindo tu!",
         "content": "doodles",
         "time": 30,
-        "category": "Artista"
+        "category": "Performer"
     }
 },
 {
@@ -779,7 +779,7 @@
         "description": "Não vejas a resposta.  Coloca o telefone na tua testa de maneira a que todos vejam quem é a personagem.  Faz perguntas de resposta Sim ou Não para descobrires de quem se trata. Tens 60 segundos para descobrir se não conseguires bebe 3!",
         "content": "famousPeople",
         "time": 60,
-        "category": "Desafio"
+        "category": "Challenge"
     }
 },
 {
@@ -791,7 +791,7 @@
         "description": "Diz o trava-línguas... Com os teus olhos fechados. Depois de o revelares tens 30 segundos! Se falhares bebe 2!",
         "content": "tongueTwisters",
         "time": 30,
-        "category": "Desafio"
+        "category": "Challenge"
     }
 },
 {
@@ -802,7 +802,7 @@
         "subgameType": "quickTimer",
         "description": "Tens um minuto para dizer sete sinónimos (calão ou não) da palavra 'pénis'. Se não conseguires bebe.",
         "time": 60,
-        "category": "Desafio"
+        "category": "Challenge"
     }
 },
 {
@@ -813,7 +813,7 @@
         "subgameType": "quickTimer",
         "description": "Tens um minuto para dizer sete sinónimos (calão ou não) da palavra 'vagina'. Se não conseguires bebe.",
         "time": 60,
-        "category": "Desafio"
+        "category": "Challenge"
     }
 },
 {
@@ -824,7 +824,7 @@
         "subgameType": "quickTimer",
         "description": "Tens um minuto para dizer sete sinónimos (calão ou não) da palavra 'peitos'. Se não conseguires bebe..",
         "time": 60,
-        "category": "Desafio"
+        "category": "Challenge"
     }
 },
 {
@@ -835,7 +835,7 @@
         "subgameType": "standard",
         "description": "Todos os jogadores começam a beber ao mesmo tempo. TU podes parar quando quiseres. O jogador à tua esquerda pode parar quando quiser desde que TU já tenhas parado, e o jogador à sua esquerda etc...",
         "content": false,
-        "category": "Todos"
+        "category": "Everybody"
     }
 },
 {
@@ -846,7 +846,7 @@
         "subgameType": "standard",
         "description": "Agora vamos contar em voz alta. Tu começas com o 1, o jogador à tua esquerda dirá 2, o jogador à sua esquerda dirá 3 e por aí em diante. No entanto niguém poderá dizer o número 7, os seus múltiplos, ou números com um 7. Em vez disso o jogador bate palmas.  Ex: 1, 2, 3, 4, 5, 6, clap, 8, 9... Quem falhar perde e bebe 2.",
         "content": false,
-        "category": "Todos"
+        "category": "Everybody"
     }
 },
 {
@@ -857,7 +857,7 @@
         "subgameType": "standard",
         "description": "Cada jogador escolhe um instrumento musical, fixando o seu som e um gesto. O jogo começa com todos os jogadores a bater nas suas coxas e depois palmas, num ritmo constante de coxas-coxas-palmas-palmas. De início lentamente. Tu começas e substituis as palmas primeiro pelo teu instrumento, e depois pelo de outro jogador. Ex: coxas-coxas-flauta-flauta-coxas-coxas-bateria-bateria. O baterista do grupo (neste exemplo) continuará o ritmo com coxas-coxas-bateria-bateria-coxas-coxas-violino-violino (ou outro instrumento do grupo). O jogo continua até que alguém se engane!  Essa pessoa bebe e fica de fora!  O jogo continua até que restem só 2 jogadores, que irão nomear 3 golos cada. Podem também formar uma banda.",
         "content": false,
-        "category": "Todos"
+        "category": "Everybody"
     }
 },
 {
@@ -868,7 +868,7 @@
         "subgameType": "standard",
         "description": "Cada jogador escolhe uma posição sexual, fixando o seu nome e um gesto. O jogo começa com todos os jogadores a bater nas suas coxas e depois palmas, num ritmo constante de coxas-coxas-palmas-palmas.  De início lentamente. Tu começas e substituis as palmas primeiro pela posição sexual que escolheste, e depois pela de outro jogador. Ex: coxas-coxas-canzana-canzana-coxas-coxas-missionário-missionário. O 'missionário' do grupo (neste exemplo) continuará o ritmo com coxas-coxas-missionário-missionário-coxas-coxas-felácio-felácio (ou outra posição existente no grupo). O jogo continua até que alguém se engane!  Essa pessoa bebe e fica de fora!  O jogo continua até que restem só 2 jogadores, que irão nomear 3 golos cada. Devem também encontrar um quarto.",
         "content": false,
-        "category": "Todos"
+        "category": "Everybody"
     }
 },
 {
@@ -879,7 +879,7 @@
         "subgameType": "standard",
         "description": "Nomeia um objecto. O próximo jogador deverá dizer o teu objecto e acrescentar outro da sua escolha. Cada jogador irá repetir a lista de objectos já ditos e acrescentar um novo, até que alguém se engane. Esse alguém perde e bebe 3!",
         "content": false,
-        "category": "Todos"
+        "category": "Everybody"
     }
 },
 {
@@ -890,7 +890,7 @@
         "subgameType": "standard",
         "description": "Todos os jogadores colocam um dedo na borda de um copo cheio até meio. Começando por ti cada jogador irá apostar num número de dedos que ficará no copo. Quando for dada a ordem cada jogador poderá tirar ou manter o seu dedo no copo. Os jogadores que acertarem no número de dedos estão safos e saem do jogo, enquanto os que falharam continuam a jogar. O último jogador bebe o copo.",
         "content": false,
-        "category": "Todos"
+        "category": "Everybody"
     }
 },
 {
@@ -901,7 +901,7 @@
         "subgameType": "standard",
         "description": "Começas por dizer: \"Um barco atracou no porto e na sua mercadoria trazia...\" e nomeias uma categoria, seguida de um elemento dessa categoria. Por exemplo fruta, banana.  Cada jogador, na sua vez, dirá um outro elemento pertencente à categoria dita.  Bebe quem hesitar por mais de 5 segundos, ou repetir algo que já tenha sido dito.",
         "content": false,
-        "category": "Todos"
+        "category": "Everybody"
     }
 },
 {
@@ -912,7 +912,7 @@
         "subgameType": "standard",
         "description": "Diz uma frase (ou apenas uma palavra se és somítico). Cada jogador terá de continuar a rimar. Palavras repetidas, ou não conseguir rimar, resultam em beber 2 golos.  São permitidas palavras homófonas.",
         "content": false,
-        "category": "Todos"
+        "category": "Everybody"
     }
 },
 {
@@ -923,7 +923,7 @@
         "subgameType": "standard",
         "description": "Diz uma coisa que nunca tenhas feito mas que aches que alguém no grupo já fez. Quem o tiver feito bebe.",
         "content": false,
-        "category": "Poder"
+        "category": "Power"
     }
 },
 {
@@ -934,7 +934,7 @@
         "subgameType": "standard",
         "description": "No sentido dos ponteiros do relógio cada jogador dirá \"Fuzzy Duck\" até que alguém diga \"Duzzy\".  Nessa altura, o jogo inverte o sentido e todos passarão a dizer \"Ducky Fuzz\".  O sentido do jogo poderá ser invertido sempre que alguém diga \"Duzzy\".  Quem se engana bebe.",
         "content": false,
-        "category": "Todos"
+        "category": "Everybody"
     }
 },
 {
@@ -945,7 +945,7 @@
         "subgameType": "standard",
         "description": "Faz a armação de uns \"óculos de cerveja\" com os teus polegares e indicadores. Passa o jogo para a esquerda ou para a direita estendendo a respectiva mão e dizendo \"iop\".  Podes também passar para o jogador à tua frente estendendo ambas as mãos na sua direcção e dizendo \"iop iop\". Sem hesitações!  Quem falha bebe!",
         "content": false,
-        "category": "Todos"
+        "category": "Everybody"
     }
 },      
 {  
@@ -956,7 +956,7 @@
       "subgameType":"canvas",
       "description":"Ao meio-dia... tu e o jogador à tua frente têm um duelo. Esperem pelo relógio dar o sinal. Quem disparar cedo demais bebe antes de jogar outra vez.  Quem for morto bebe 3!",
       "content":"high-noon",
-      "category":"Batalha"
+      "category":"Battle"
     }
 },  
 {  
@@ -967,7 +967,7 @@
       "subgameType":"canvas",
       "description":"Tu e o jogador à tua frente conduzem um carro, frente a frente. O medroso que se desviar primeiro bebe 3 golos. Os malucos que destruíram os carros bebem 6 golos cada!",
       "content":"chicken",
-      "category":"Batalha"
+      "category":"Battle"
     }
 },
 {
@@ -978,7 +978,7 @@
         "subgameType": "truthOrDare",
         "description": "Escolhe verdade ou consequência. Se não conseguires responder ou completar a consequência bebe o número de golos especificados!",
         "content": "truthOrDare",
-        "category": "Consequência"
+        "category": "Dare"
     }
 }
 ]
