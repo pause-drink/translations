@@ -528,33 +528,33 @@
     },
     {
         "objectType": "subgame",
-        "name": "One Truth, Two Lies",
+        "name": "Une vérité, 2 mensonges",
         "key": "f68cc2d0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Tell one truth and two lies in a random order.  Everyone locks in their guess for the truth.  Anyone who doesn't get it right drinks and you drink for everyone that does!",
+            "description": "Dis une vérité et 2 mensonges dans l'ordre que tu veux. Les autres choisisent celle qu'ils pensent être la vérité. Ceux qui n'ont pas devinés correctement boivent avec toi!",
             "content": false,
             "category": "Challenge"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Hermit",
+        "name": "Hermite",
         "key": "f68ce9e0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Sit somewhere no-one has a direct line of sight on you for one round.  Come back for games that require you to be visible",
+            "description": "Assieds-toi quelque part ou personne ne peut te voir directement pour un tour. Reviends pour chaque jeu où on a besoin de te voir. ",
             "content": false,
             "category": "Rule"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Paper pong",
+        "name": "Pong de Papier",
         "key": "f68ce9e1_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "The player opposite puts down their vessel.  Screw up any piece of paper and have 3 shots without leaning or changing position.  They drink once for every hit.  You drink for each miss!",
+            "description": "Le joueur en face de toi pose son verre. Fait une boule de papier et tu as 3 tirs sans changer de position ou sans te pencher. Il boit pour chaque lancer que tu réussis. Tu bois à chaque fois que tu rates!",
             "content": false,
             "category": "Challenge"
         }
@@ -572,117 +572,117 @@
     },
     {
         "objectType": "subgame",
-        "name": "Pop 'n' Lock",
+        "name": "Breackdance à l'ancienne",
         "key": "f68d8620_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "timer",
-            "description": "Dance like a robot from the 80's for 30 seconds without breaking character or drink three.",
+            "description": "Dance comme un robot des années 80 pendant 30 secondes. Si tu t'arrêtes ou ne veut pas, bois 3 gorgées.",
             "time": 30,
             "category": "Dare"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Strip One",
+        "name": "Déshabillé une fois",
         "key": "f68dad30_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Strip one item of clothing or drink one.  Shoes, socks, and jewellery don't count.",
+            "description": "Enlève un de tes vêtements ou bois une gorgée. Les chaussures, chaussettes ou les bijoux ne comptent pas!",
             "category": "Dare"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Strip Two",
+        "name": "Déshabillé deux fois",
         "key": "f68dad31_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Strip two items of clothing or drink two.  Shoes, socks, and jewellery don't count.",
+            "description": "Enlève deux de tes vêtements ou bois une gorgée. Les chaussures, chaussettes ou les bijoux ne comptent pas!",
             "category": "Dare"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Strip Three",
+        "name": "Déshabillé trois fois",
         "key": "f68e2260_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Strip three items of clothing or drink three.  Shoes, socks, and jewellery don't count.",
+            "description": "Enlève trois de tes vêtements ou bois une gorgée. Les chaussures, chaussettes ou les bijoux ne comptent pas!",
             "category": "Dare"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Lippy",
+        "name": "Rouge à lèvre",
         "key": "f68e2261_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Put on some lipstick or drink two.",
+            "description": "Mets un peu de rouge à lèvre ou bois 3 gorgées.",
             "content": false,
             "category": "Dare"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Dapper Dan",
+        "name": "La classe",
         "key": "f68e7080_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Let someone draw a stylish pencil moustache on you, or drink two.",
+            "description": "Laisses quelqu'un te dessiner au crayon une jolie moustache ou bois 2 gorgées.",
             "category": "Dare"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Moon walk",
+        "name": "Moon-walk",
         "key": "f68e9790_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "timer",
-            "description": "Attempt Michael Jackson's \"moon walk\" and other classic Michael moves for 30 seconds without breaking character or drink 3.",
+            "description": "Fais un \"moon walk\" et dance tel Michael Jackson pendant 30 secondes sans t'arrêter ou bois 3 gorgées.",
             "time": 30,
             "category": "Dare"
         }
     },
     {
         "objectType": "subgame",
-        "name": "5 Push-ups",
+        "name": "5 Pompes",
         "key": "f68ebea0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Straight back, chest to the floor.  From the knees if you choose.  5 good push-ups or drink one.",
+            "description": "Dos droit, sur les genoux si tu veux, fais 5 bonnes pompes ou bois 1 gorgée.",
             "content": false,
             "category": "Challenge"
         }
     },
     {
         "objectType": "subgame",
-        "name": "10 Push-ups",
+        "name": "10 Pompes",
         "key": "f68ee5b0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Straight back, chest to the floor.  From the knees if you choose. 10 good push-ups or drink two.",
+            "description": "Dos droit, sur les genoux si tu veux, fais 10 bonnes pompes ou bois 2 gorgée..",
             "content": false,
             "category": "Challenge"
         }
     },
     {
         "objectType": "subgame",
-        "name": "15 Push-ups",
+        "name": "15 Pompes",
         "key": "f68f0cc0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Straight back, chest to the floor. From the knees if you choose.  15 good push-ups or drink three.",
+            "description": "Dos droit, sur les genoux si tu veux, fais 15 bonnes pompes ou bois 3 gorgée.",
             "content": false,
             "category": "Challenge"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Hug Someone",
+        "name": "Câlin!",
         "key": "f68f33d0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "quickTimer",
-            "description": "Hug another player within 10 seconds or drink.",
+            "description": "Fais un câlin à un autre joueur dans les 10 secondes ou bois 1 gorgée.",
             "time": 10,
             "category": "Challenge"
         }
