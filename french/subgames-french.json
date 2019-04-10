@@ -689,11 +689,11 @@
     },
     {
         "objectType": "subgame",
-        "name": "Frog Prince",
+        "name": "Prince grenouille",
         "key": "f68f5ae0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "quickTimer",
-            "description": "Convince another player to kiss your cheek in 10 seconds or drink.",
+            "description": "Convains un autre joueur de t'embrasser sur la joue en moins de 10 secondes ou bois.",
             "time": 10,
             "category": "Challenge"
         }
