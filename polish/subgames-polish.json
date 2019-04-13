@@ -1,32 +1,32 @@
 [{
         "objectType": "subgame",
-        "name": "Name Swap",
+        "name": "Zamiana imion",
         "key": "f67e9200_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Swap names with the player who's turn it is next for the rest of the game.  Whenever ANYBODY calls either of you by your former name they drink!",
+            "description": "Zamień się imionami z następnym graczem w kolejce na reszte gry. Kiedy ktoś nazwie jednego z was właściwym imieniem, pije!",
             "content": false,
             "category": "Rule"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Round the sun",
+        "name": "Dookoła słońca",
         "key": "bb98c83d_ba0d_464d_8694_a453df0f927e",
         "details": {
             "subgameType": "standard",
-            "description": "The player who's birthday is the closest to today drink 3!",
+            "description": "Gracz który ma najbliżej do urodzin pije 3 kolejki!",
             "content": false,
             "category": "Profile"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Cheers, Kanpai, Salud!",
+        "name": "Zdrowie, Kanpai, Salud!",
         "key": "f6815120_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "All players have a drink!",
+            "description": "Wszyscy piją!",
             "content": false,
             "category": "Everybody"
         }
@@ -44,55 +44,55 @@
     },
     {
         "objectType": "subgame",
-        "name": "Toothless",
+        "name": "Bezzębny",
         "key": "c214144e_a54f_4dd8_86dc_5d287aaed772",
         "details": {
             "subgameType": "standard",
-            "description": "Don't show your teeth for the rest of the game!  Drink each time you show those pearly whites.",
+            "description": "Nie pokazuj zębów przez reszte gry! Pij za każdym razem jak je pokażesz..",
             "content": false,
             "category": "Rule"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Finish it",
+        "name": "Zeruj",
         "key": "f681ed60_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "players with clearly less than quarter of a drink, finish it off!",
+            "description": "Gracze z mniejszą ilością niż 1/4 drinka, zerują go!",
             "content": false,
             "category": "Profile"
         }
     },
     {
         "objectType": "subgame",
-        "name": "The \"D\" word",
+        "name": "Słowo na P",
         "key": "f6826290_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "No players can say the word 'DRINK' for the rest of the game otherwise you CONSUME.",
+            "description": "Żaden gracz nie może wypowiedzieć słowa PIJ i jego odmian przez reszte gry, inaczej pije.",
             "content": false,
             "category": "Rule"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Last Names Only",
+        "name": "Po nazwisku",
         "key": "f682d7c0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "No calling players by their first name FOR THE REST OF THE GAME. Last names only or drink.",
+            "description": "Zapomnij o imionach innych graczy na resztę gry. Nazwiska albo pijesz.",
             "content": false,
             "category": "Rule"
         }
     },
     {
         "objectType": "subgame",
-        "name": "It's Rude to Point",
+        "name": "Nie ładnie wskazywać",
         "key": "f6837400_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "No pointing for the rest of the game! Get caught and drink!  Elbow pointing is ok.",
+            "description": "Nie wskazuj nic palcem przez resztę gry, jak ktoś Cię złapie, pijesz! Wskazywanie łokciem jest ok.",
             "content": false,
             "category": "Rule"
         }
@@ -110,66 +110,66 @@
     },
     {
         "objectType": "subgame",
-        "name": "Seat Swap",
+        "name": "Zamiana siedzeń",
         "key": "f6841040_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Everybody drink and move one seat over in the current direction of play.",
+            "description": "Każdy pije i przesuwa się o jedno siedzenie w kierunku kolejki.",
             "content": false,
             "category": "Everybody"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Tattooed",
+        "name": "Wydziarany",
         "key": "f6845e60_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Anyone with a tattoo drink and show one tattoo to the group.",
+            "description": "Ktokolwiek z tatuażem pije i pokazuje jeden tatuaż grupie.",
             "content": false,
             "category": "Profile"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Star Signs",
+        "name": "Horoskop",
         "key": "f6848570_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "contentBasic",
-            "description": "The stars are aligned funny... Drink if you're a...",
+            "description": "Gwiazdy pięknie dziś wyglądają... Wypij jeśli jesteś...",
             "content": "starSigns",
             "category": "Profile"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Slooowwww  motion",
+        "name": "Zwoooolnioneee teeempooo",
         "key": "f684faa0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "You must move in slow motion until your next turn.  Get caught forgetting and drink!",
+            "description": "Musisz się poruszać w zwolnionym tempie do Twojej następnej kolejki. Jak zapomnisz i zostaniesz złapany, pij!",
             "content": false,
             "category": "Rule"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Who runs the world?",
+        "name": "Kto rządzi światem?",
         "key": "f68596e0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "contentJoke",
-            "description": "Guys have a drink.",
+            "description": "Faceci piją.",
             "content": "guyJokes",
             "category": "Profile"
         }
     },
     {
         "objectType": "subgame",
-        "name": "It's a man's world",
+        "name": "To jest męski świat",
         "key": "f685bdf0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "contentJoke",
-            "description": "Girls take a drink.",
+            "description": "Dziewczyny piją.",
             "content": "girlJokes",
             "category": "Profile"
         }
@@ -187,44 +187,44 @@
     },
     {
         "objectType": "subgame",
-        "name": "Set the bar",
+        "name": "Ustal poprzeczke",
         "key": "f686a850_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Drink 1, 2, or 3 drinks.  All players must match you!",
+            "description": "Wypij 1, 2, nawet 3 drinki. Gracze muszą Ci dorównać!",
             "content": false,
             "category": "Power"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Rewind",
+        "name": "Odwrotnie",
         "key": "f686f670_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Play now goes in the opposite direction.",
+            "description": "Gramy teraz w odwrotnym kierunku.",
             "content": false,
             "category": "Rule"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Eyes wide shut",
+        "name": "Oczy szeroko zamknięte",
         "key": "f6874490_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Keep your eyes closed until your next turn. Only open them for games that require vision, else drink each time you're caught.",
+            "description": "Zamknij oczy do Twojej następnej kolejki. Otwórz je wtedy kiedy gra wymaga wizji, inaczej pijesz jak Cię przyłapią.",
             "content": false,
             "category": "Rule"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Repeater",
+        "name": "Powtarzacz powtarzacz",
         "key": "f6876ba0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Repeat the last word of every sentence you say for the rest of the game!  Forget, and drink.",
+            "description": "Powtórz ostatnie słowo każdego zdania jakiego wypowiesz przez reszte gry! Zapomnij a wypijesz.",
             "content": false,
             "category": "Rule"
         }
@@ -947,27 +947,27 @@
             "content": false,
             "category": "Everybody"
         }
-    },      
-    {  
-        "objectType":"subgame",
-        "name":"High Noon",
-        "key":"f6898e80_397f_11e8_a45b_25718a0c5009",
-        "details":{  
-          "subgameType":"canvas",
-          "description":"It's high noon... you and the player opposite find yourselves in a gun duel.  Wait for the clock to strike midday. Shoot too soon and drink before starting again.  Get shot and drink 3!",
-          "content":"high-noon",
-          "category":"Battle"
+    },
+    {
+        "objectType": "subgame",
+        "name": "High Noon",
+        "key": "f6898e80_397f_11e8_a45b_25718a0c5009",
+        "details": {
+            "subgameType": "canvas",
+            "description": "It's high noon... you and the player opposite find yourselves in a gun duel.  Wait for the clock to strike midday. Shoot too soon and drink before starting again.  Get shot and drink 3!",
+            "content": "high-noon",
+            "category": "Battle"
         }
-    },  
-    {  
-        "objectType":"subgame",
-        "name":"Chicken",
-        "key":"4875ee99_4a2a_48d1_b074_408099efa0b1",
-        "details":{  
-          "subgameType":"canvas",
-          "description":"Two player battle between you and the player opposite. Race towards each other head-on to see who is chicken. 3 drinks to the chicken and 6 each if you crash!",
-          "content":"chicken",
-          "category":"Battle"
+    },
+    {
+        "objectType": "subgame",
+        "name": "Chicken",
+        "key": "4875ee99_4a2a_48d1_b074_408099efa0b1",
+        "details": {
+            "subgameType": "canvas",
+            "description": "Two player battle between you and the player opposite. Race towards each other head-on to see who is chicken. 3 drinks to the chicken and 6 each if you crash!",
+            "content": "chicken",
+            "category": "Battle"
         }
     },
     {
