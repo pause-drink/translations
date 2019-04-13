@@ -11,11 +11,11 @@
     },
     {
         "objectType": "subgame",
-        "name": "Round the sun",
+        "name": "Alrededor del sol",
         "key": "bb98c83d_ba0d_464d_8694_a453df0f927e",
         "details": {
             "subgameType": "standard",
-            "description": "The player who's birthday is the closest to today drink 3!",
+            "description": "El jugador que cumpla años cerca de la fecha actual toma 3 tragos!",
             "content": false,
             "category": "Profile"
         }
@@ -26,7 +26,7 @@
         "key": "f6815120_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "All players have a drink!",
+            "description": "Todos los jugadores toman!",
             "content": false,
             "category": "Everybody"
         }
@@ -37,40 +37,40 @@
         "key": "f6819f40_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Get all players' drinks until your next turn (they pay for them!).  They can only request your service when they've finished their previous drink.",
+            "description": "Consigue tragos para todos los jugadores hasta tu siguiente turno (ellos pagan sus bebidas). Esta regla solo aplica hasta que se hayan terminado su bebida",
             "content": false,
             "category": "Rule"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Toothless",
+        "name": "Sin Dientes",
         "key": "c214144e_a54f_4dd8_86dc_5d287aaed772",
         "details": {
             "subgameType": "standard",
-            "description": "Don't show your teeth for the rest of the game!  Drink each time you show those pearly whites.",
+            "description": "No enseñes tus dientes por el resto del juego! Toma un trago por cada vez que alguien los vea.",
             "content": false,
             "category": "Rule"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Finish it",
+        "name": "Matalo",
         "key": "f681ed60_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "players with clearly less than quarter of a drink, finish it off!",
+            "description": "Jugadores que tengan menos de 1/4 de su bebida deben acabarse su bebida!",
             "content": false,
             "category": "Profile"
         }
     },
     {
         "objectType": "subgame",
-        "name": "The \"D\" word",
+        "name": "La palabra \"B\" ",
         "key": "f6826290_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "No players can say the word 'DRINK' for the rest of the game otherwise you CONSUME.",
+            "description": "Ningun jugador puede decir la palabra trago/bebida por el resto del juego. De romper la regla esa persona toma.",
             "content": false,
             "category": "Rule"
         }
