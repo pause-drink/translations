@@ -37,7 +37,7 @@
         "key": "f6819f40_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Get all players' drinks until your next turn (they pay for them!).  They can only request your service when they've finished their previous drink.",
+            "description": "Ga voor iedereen tot de volgende ronde drinken halen (anderen moeten zelf betalen). Maar alleen als hun glas leeg is.",
             "content": false,
             "category": "Rule"
         }
@@ -136,7 +136,7 @@
         "key": "f6848570_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "contentBasic",
-            "description": "The stars are aligned funny... Drink if you're a...",
+            "description": "De zon staat op een mooie afstand... Drink als je een ... bent",
             "content": "starSigns",
             "category": "Profile"
         }
@@ -246,7 +246,7 @@
         "key": "f687b9c0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Je bent de duimmeester. Plaats je duim op tafel (of een andere plek die je zelf afspreekt) elke moment TUSSEN BEURTEN en MAXIMAAL 1 KEER PER RONDE. De laatste met de duim op tafel drinkt.",
+            "description": "Je bent de duimmeester. Plaats je duim op tafel (of een andere plek die je zelf afspreekt) elke moment TUSSEN BEURTEN EN MAXIMAAL 1 KEER PER RONDE. De laatste met de duim op tafel drinkt.",
             "content": false,
             "category": "Power"
         }
@@ -286,7 +286,7 @@
     },
     {
         "objectType": "subgame",
-        "name": "Drink maat",
+        "name": "Drinken maat!",
         "key": "f688a420_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
@@ -445,7 +445,6 @@
         "details": {
             "subgameType": "standard",
             "description": "Vanaf DRINK je netjes. Linker hand om het glas en pink omhoog. Zoals het hoort! Mislukken betekent DRINKEN",
-            "description": "From now on all players must only drink with their left hand and their pinky finger must be removed from the vessel like a proper lady.  Failure to do so means drink.",
             "content": false,
             "category": "Rule"
         }
@@ -555,7 +554,7 @@
         "key": "f68ce9e1_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "The player opposite puts down their vessel.  Screw up any piece of paper and have 3 shots without leaning or changing position.  They drink once for every hit.  You drink for each miss!",
+            "description": "De speler aan de overkant zet zijn drinken neer. Frommel een stuk papier op and gooi 3 keer zonder van positie te veranderen. Je overbuurman drinkt voor elke treffer. Jij drinket voor elke misser",
             "content": false,
             "category": "Challenge"
         }
@@ -577,38 +576,38 @@
         "key": "f68d8620_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "timer",
-            "description": "Dance like a robot from the 80's for 30 seconds without breaking character or drink three.",
+            "description": "Dans als een robot uit de jaren 80 voor 30 seconden zonder te stoppen of je drinkt er 3.",
             "time": 30,
             "category": "Dare"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Strip One",
+        "name": "Strippen maar (1)",
         "key": "f68dad30_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Strip one item of clothing or drink one.  Shoes, socks, and jewellery don't count.",
+            "description": "Strip 1 kledingstuk of drink 1 slok.  Schoenen, sokken, en accessoires tellen niet.",
             "category": "Dare"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Strip Two",
+        "name": "Strippen maar (2)",
         "key": "f68dad31_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Strip two items of clothing or drink two.  Shoes, socks, and jewellery don't count.",
+            "description": "Strip 2 kledingstukken of drink 2 slokken.  Schoenen, sokken, en accessoires tellen niet.",
             "category": "Dare"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Strip Three",
+        "name": "Strippen maar (3)",
         "key": "f68e2260_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Strip three items of clothing or drink three.  Shoes, socks, and jewellery don't count.",
+            "description": "Strip 3 kledingstukken of drink 3 slokken.  Schoenen, sokken, en accessoires tellen niet.",
             "category": "Dare"
         }
     },
@@ -650,7 +649,7 @@
         "key": "f68ebea0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Straight back, chest to the floor.  From the knees if you choose.  5 good push-ups or drink one.",
+            "description": "Rechte rug, buik naar de vloer. Van de knieën mag. 5 goede push-ups of drink er 1.",
             "content": false,
             "category": "Challenge"
         }
@@ -661,7 +660,7 @@
         "key": "f68ee5b0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Straight back, chest to the floor.  From the knees if you choose. 10 good push-ups or drink two.",
+            "description": "Rechte rug, buik naar de vloer. Van de knieën mag. 10 goede push-ups of drink er 2.",
             "content": false,
             "category": "Challenge"
         }
@@ -672,7 +671,7 @@
         "key": "f68f0cc0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Straight back, chest to the floor. From the knees if you choose.  15 good push-ups or drink three.",
+            "description": "Rechte rug, buik naar de vloer. Van de knieën mag. 15 goede push-ups of drink er 3.",
             "content": false,
             "category": "Challenge"
         }
@@ -701,11 +700,11 @@
     },
     {
         "objectType": "subgame",
-        "name": "Mr. Worldwide",
+        "name": "Mr. wereld",
         "key": "5dae50e0_ef13_46a0_af70_f52a41a22eb1",
         "details": {
             "subgameType": "timedReveal",
-            "description": "Get players to guess the country by DANCE ONLY! No vocal sounds or other gestures.  The player who gets it nominates 2 drinks.  If noone gets it, everyone drinks and you drink 2!  You have 30 seconds.",
+            "description": "Zorg dat ze het land raden door ALLEEN te dansen! Geen gebaren of geluid. De speler die het raad mag 2 slokken uitdelen. Als niemand het raad mag jij ze opdrinken! 30 seconden.",
             "content": "countries",
             "time": 30,
             "category": "Performer"
@@ -717,7 +716,7 @@
         "key": "f68fa900_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "timedReveal",
-            "description": "Other players must guess who you are by your IMPERSONATION ONLY.  If a player guesses right, you both get to nominate 2, otherwise everyone drinks!  You have 15 seconds.",
+            "description": "Andere spelers moet raden wie jij nadoet. Als een speler het goed heeft, mogen jullie allebei 2 slokken uitdelen. Anders drinkt iedereen. 15 seconden.",
             "content": "impersonations",
             "time": 15,
             "category": "Performer"
@@ -725,11 +724,11 @@
     },
     {
         "objectType": "subgame",
-        "name": "Hum a song",
+        "name": "Nurie het!",
         "key": "f68ff720_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "timedReveal",
-            "description": "Don't show the phone to any other players.  Hum or whistle the song.  If another player guesses right they nominate 2, otherwise everyone drinks and you drink 2!  You have 45 seconds.",
+            "description": "Laat de telefoon aan niemand zien. Nurie of fluit het nummer.  Als iemand het raad mag diegene 2 slokken uitdelen, anders drinkt iedereen en jij drinkt er 2! 45 seconden te gaan.",
             "content": "famousSongs",
             "time": 45,
             "category": "Performer"
