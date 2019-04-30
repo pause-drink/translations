@@ -38,7 +38,7 @@
     "key": "f6819f40_397f_11e8_a45b_25718a0c5009",
     "details": {
       "subgameType": "standard",
-      "description": "Sirva uma dose a todos os jogadores até a próxima rodada. Eles só poderão solicitar o seu serviço novamente quando terminarem a bebida anterior.",
+      "description": "Sirva uma dose a todos os jogadores até a próxima rodada. Todos tem que beber!",
       "content": false,
       "category": "Rule"
     }
@@ -60,7 +60,7 @@
     "key": "f681ed60_397f_11e8_a45b_25718a0c5009",
     "details": {
       "subgameType": "standard",
-      "description": "JJogadores que possuem menos de um quarto da bebida no copo, bebem tudo!",
+      "description": "Jogadores que possuem menos de um quarto da bebida no copo, bebem tudo!",
       "content": false,
       "category": "Profile"
     }
@@ -104,7 +104,7 @@
     "key": "f683e930_397f_11e8_a45b_25718a0c5009",
     "details": {
       "subgameType": "standard",
-      "description": "Um pequeno homem invisível vive no seu ombro. Toda vez que for beber, ajude-o a descer e ajude-o a subir novamente após terminar. Sempre que você esquecer, bebe!",
+      "description": "Um pequeno homem invisível vive no seu ombro. Toda vez que for beber, ajude-o a descer até o chão e então ajude-o a subir novamente após terminar. Sempre que você esquecer, você bebe!",
       "content": false,
       "category": "Rule"
     }
@@ -203,7 +203,7 @@
     "key": "f686f670_397f_11e8_a45b_25718a0c5009",
     "details": {
       "subgameType": "standard",
-      "description": "Inverte o sentido do jogo.",
+      "description": "Invertam o sentido do jogo.",
       "content": false,
       "category": "Rule"
     }
@@ -243,18 +243,18 @@
   },
   {
     "objectType": "subgame",
-    "name": "Mestre do Polegar",
+    "name": "Polegar Preso",
     "key": "f687b9c0_397f_11e8_a45b_25718a0c5009",
     "details": {
       "subgameType": "standard",
-      "description": "Você é o mestre do polegar. Coloca o teu polegar em cima da mesa (ou outro lugar acordado) a qualquer altura entre as rodadas e apenas uma vez por rodada. Os outros jogadores terão que fazer o mesmo, o último a fazê-lo bebe.",
+      "description": "Seu polegar está preso! Coloque o seu polegar em cima da mesa (ou outro lugar) entre cada rodada (e apenas uma vez por rodada). Os outros jogadores terão que fazer o mesmo, o último a fazê-lo bebe.",
       "content": false,
       "category": "Power"
     }
   },
   {
     "objectType": "subgame",
-    "name": "Qual é a música?",
+    "name": "Qual é a música, Pablo?",
     "key": "f687e0d0_397f_11e8_a45b_25718a0c5009",
     "details": {
       "subgameType": "standard",
@@ -287,11 +287,11 @@
   },
   {
     "objectType": "subgame",
-    "name": "Amigos de copos",
+    "name": "Companheiros de copos",
     "key": "f688a420_397f_11e8_a45b_25718a0c5009",
     "details": {
       "subgameType": "standard",
-      "description": "Durante o resto do jogo você e o jogador à tua frente são \"amigos de copos\". Sempre que um beber, o outro bebe também!",
+      "description": "Durante o resto do jogo você e o jogador na sua frente serão \"companheiros de copos\". Sempre que um beber, o outro bebe também!",
       "content": false,
       "category": "Rule"
     }
@@ -309,7 +309,7 @@
   },
   {
     "objectType": "subgame",
-    "name": "Calças Hipster",
+    "name": "Sertanejo Feelings",
     "key": "f6894060_397f_11e8_a45b_25718a0c5009",
     "details": {
       "subgameType": "standard",
@@ -320,11 +320,11 @@
   },
   {
     "objectType": "subgame",
-    "name": "Roda a garrafa",
+    "name": "Roda a garrafa!",
     "key": "f6894061_397f_11e8_a45b_25718a0c5009",
     "details": {
       "subgameType": "canvas",
-      "description": "Coloca o telefone no centro dos jogadores.  Clique na tela para que a garrafa rode!  Quando parar, o escolhido pela garrafa bebe 3.",
+      "description": "Coloquem o telefone no centro dos jogadores.  Clique na tela para que a garrafa rode!  Quando parar, o escolhido pela garrafa bebe 3.",
       "content": "spin-the-bottle",
       "category": "Everybody"
     }
@@ -335,7 +335,7 @@
     "key": "5cb87b07_160d_11e8_a7c5_d7bf8118b9c6",
     "details": {
       "subgameType": "canvas",
-      "description": "Você e o jogador à tua frente clicam na tela para que o seu personagem chegue até a bebida e a termine primeiro.  Quem perder bebe 3!",
+      "description": "Você e o jogador na sua frente clicam na tela para que o seu personagem chegue até a bebida e a termine primeiro.  Quem perder bebe 3!",
       "content": "tap-race",
       "category": "Battle"
     }
@@ -357,7 +357,7 @@
     "key": "f689dca0_397f_11e8_a45b_25718a0c5009",
     "details": {
       "subgameType": "standard",
-      "description": "Desafia o jogador à tua frente para um jogo à melhor de três.  Quem perder bebe 3!",
+      "description": "Desafia o jogador na sua frente para um Pedra-Papel-Tesoura.  Quem perder bebe 3!",
       "content": false,
       "category": "Battle"
     }
@@ -390,7 +390,7 @@
     "key": "f68a2ac1_397f_11e8_a45b_25718a0c5009",
     "details": {
       "subgameType": "contentBasic",
-      "description": "Até o fim do jogo fala com o seguinte sotaque! Beba cada vez que esquecer.",
+      "description": "Até o fim do jogo fale com o seguinte sotaque! Beba cada vez que esquecer.",
       "content": "accents",
       "category": "Rule"
     }
@@ -401,7 +401,7 @@
     "key": "f68a78e0_397f_11e8_a45b_25718a0c5009",
     "details": {
       "subgameType": "standard",
-      "description": "Você é o Mestre das Perguntas.  Se fizer uma pergunta a alguém e essa pessoa responder, ela terá que beber.  Para que não bebam terão que te responder com um \"Vai à m#$d@!\" ou então te fazendo uma nova pergunta.",
+      "description": "Você é o Mestre das Perguntas.  Se fizer uma pergunta a alguém e essa pessoa responder, ela terá que beber.  Para que não bebam terão que te responder com uma outra pergunta.",
       "content": false,
       "category": "Power"
     }
@@ -434,7 +434,7 @@
     "key": "f68b1520_397f_11e8_a45b_25718a0c5009",
     "details": {
       "subgameType": "standard",
-      "description": "Nunca beba sozinho... exceto agora... beba sozinho agora.",
+      "description": "Nunca beba sozinho... exceto agora, bebê... beba sozinho agora.",
       "content": false,
       "category": "Solo"
     }
@@ -467,7 +467,7 @@
     "key": "f68bd870_397f_11e8_a45b_25718a0c5009",
     "details": {
       "subgameType": "standard",
-      "description": "Beba 2 doses só por ser quem você é.",
+      "description": "Beba 2 doses só por ser essa coisinha linda que você é.",
       "content": false,
       "category": "Solo"
     }
@@ -478,7 +478,7 @@
     "key": "f68bff80_397f_11e8_a45b_25718a0c5009",
     "details": {
       "subgameType": "standard",
-      "description": "Beba 3 doses por ser assim.",
+      "description": "Beba 3 doses por ser assim, fofinho(a).",
       "content": false,
       "category": "Solo"
     }
@@ -562,11 +562,11 @@
   },
   {
     "objectType": "subgame",
-    "name": "Estalinhos",
+    "name": "Ma OÊ",
     "key": "f68d3800_397f_11e8_a45b_25718a0c5009",
     "details": {
       "subgameType": "standard",
-      "description": "Cada jogador escolhe um nome com uma só sílaba.  Começa o jogo com todos em ritmo lento: 1.Batida nos joelhos - 2.Palmas - 3.Estalar os dedos da mão direita - 4.Estalar os dedos da mão esquerda. Jogador: na 3ª batida diz um número de 1 a 4 e na 4ª batida diz um nome. Jogador que o nome tiver sido dito: na próxima batida, a 1ª, repete o seu nome no tempo da batida. O número que o emissor disse regula o número de vezes que o receptor terá de dizer o seu nome sempre em tempo com as batidas.  O receptor torna-se agora o emissor dizendo um número e um nome (nas batidas 3 e 4) para passar ao próximo.",
+      "description": "Fique até o fim do jogo imitando Silvio Santos. Se esquecer bebe! Roqueeee!",
       "content": false,
       "category": "Everybody"
     }
@@ -577,14 +577,14 @@
     "key": "f68d8620_397f_11e8_a45b_25718a0c5009",
     "details": {
       "subgameType": "timer",
-      "description": "Dançar como um robô ao estilo dos anos 80, durante 30 segundos sem interromper. Se não conseguir bebe 3 doses.",
+      "description": "Dance como um robô ao estilo dos anos 80, durante 30 segundos sem interromper. Se não conseguir, beba 3 doses.",
       "time": 30,
       "category": "Dare"
     }
   },
   {
     "objectType": "subgame",
-    "name": "Tira uma",
+    "name": "Striptease",
     "key": "f68dad30_397f_11e8_a45b_25718a0c5009",
     "details": {
       "subgameType": "standard",
@@ -618,7 +618,7 @@
     "key": "f68e2261_397f_11e8_a45b_25718a0c5009",
     "details": {
       "subgameType": "standard",
-      "description": "Passa um baton ou bebe 2 doses.",
+      "description": "Passe um baton nos teus lábios ou beba 2 doses.",
       "content": false,
       "category": "Dare"
     }
@@ -661,7 +661,7 @@
     "key": "f68ee5b0_397f_11e8_a45b_25718a0c5009",
     "details": {
       "subgameType": "standard",
-      "description": "CCostas retas, encosta o peito ao chão. Dos joelhos ou dos pés, faz 10 flexões de braços ou bebe 2 doses.",
+      "description": "Costas retas, encosta o peito ao chão. Dos joelhos ou dos pés, faz 10 flexões de braços ou bebe 2 doses.",
       "content": false,
       "category": "Challenge"
     }
@@ -694,7 +694,7 @@
     "key": "f68f5ae0_397f_11e8_a45b_25718a0c5009",
     "details": {
       "subgameType": "quickTimer",
-      "description": "Convence outro jogador a te beijar (pode ser na bochecha) em 10 segundos ou bebe.",
+      "description": "Convença outro jogador a te beijar (pode ser na bochecha) em 10 segundos ou bebe.",
       "time": 10,
       "category": "Challenge"
     }
@@ -729,7 +729,7 @@
     "key": "f68ff720_397f_11e8_a45b_25718a0c5009",
     "details": {
       "subgameType": "timedReveal",
-      "description": "Assovia a música (em alternativa pode fazer 'hummm'). Quem adivinhar nomeia 2 jogadores para beber, se ninguém acertar todos bebem 1 dose e você bebe 2 doses!  Você tem 45 segundos.",
+      "description": "Assovia a música (em alternativa pode fazer 'hummm'). Quem adivinhar indica 2 jogadores para beber, se ninguém acertar todos bebem 1 dose e você bebe 2 doses!  Você tem 45 segundos.",
       "content": "famousSongs",
       "time": 45,
       "category": "Performer"
@@ -741,7 +741,7 @@
     "key": "f6901e30_397f_11e8_a45b_25718a0c5009",
     "details": {
       "subgameType": "timedReveal",
-      "description": "Passa o telefone ao próximo jogador. Ele lê a palavra que você terá que soletrar de trás para frente e sem erros ou bebe 2 doses. Você tem 25 segundos.",
+      "description": "Passe o telefone ao próximo jogador. Ele lê a palavra que você terá que soletrar de trás para frente e sem erros ou então você bebe 2 doses. Você tem 25 segundos.",
       "content": "spellBackwards",
       "time": 25,
       "category": "Challenge"
@@ -777,7 +777,7 @@
     "key": "f690e180_397f_11e8_a45b_25718a0c5009",
     "details": {
       "subgameType": "timedReveal",
-      "description": "Não veja a resposta.  Coloca o telefone na sua testa de maneira a que todos vejam quem é o personagem.  Faça perguntas que tenham Sim ou Não como resposta para tentar descobrir de quem se trata. Você tem 60 segundos para descobrir se não conseguir bebe 3 doses!",
+      "description": "Não veja a resposta.  Coloque o telefone na sua testa de maneira a que todos vejam quem é o personagem.  Faça perguntas que tenham Sim ou Não como resposta para tentar descobrir de quem se trata. Você tem 60 segundos para descobrir se não conseguir bebe 3 doses!",
       "content": "famousPeople",
       "time": 60,
       "category": "Challenge"
@@ -834,7 +834,7 @@
     "key": "f691f2f1_397f_11e8_a45b_25718a0c5009",
     "details": {
       "subgameType": "standard",
-      "description": "Todos os jogadores começam a beber ao mesmo tempo. VOCÊ pode parar quando quiser. O próximo jogador só pode parar quando você tiver parado e assim por diante.",
+      "description": "Todos os jogadores começam a beber ao mesmo tempo. VOCÊ pode parar quando quiser. O próximo jogador só pode parar quando você parar e assim por diante.",
       "content": false,
       "category": "Everybody"
     }
@@ -852,22 +852,22 @@
   },
   {
     "objectType": "subgame",
-    "name": "Instrumentos Musicais",
+    "name": "Gótico",
     "key": "f6924110_397f_11e8_a45b_25718a0c5009",
     "details": {
       "subgameType": "standard",
-      "description": "Cada jogador escolhe um instrumento musical, fixando o seu som a um gesto. O jogo começa com todos os jogadores a bater nas suas coxas e depois palmas, num ritmo constante de coxas-coxas-palmas-palmas. De início lentamente. Você começa e substitui as palmas primeiro pelo teu instrumento, e depois pelo de outro jogador. Ex: coxas-coxas-flauta-flauta-coxas-coxas-bateria-bateria. O baterista do grupo (neste exemplo) continuará o ritmo com coxas-coxas-bateria-bateria-coxas-coxas-violino-violino (ou outro instrumento do grupo). O jogo continua até que alguém se engane!  Essa pessoa bebe e fica de fora!  O jogo continua até que restem só 2 jogadores, que irão nomear 3 doses para cada. Podem também formar uma banda.",
+      "description": "Se você estiver com mais de uma peça de roupa preta, você bebe!",
       "content": false,
       "category": "Everybody"
     }
   },
   {
     "objectType": "subgame",
-    "name": "Posições sexuais",
+    "name": "Sombra",
     "key": "f6926820_397f_11e8_a45b_25718a0c5009",
     "details": {
       "subgameType": "standard",
-      "description": "Cada jogador escolhe uma posição sexual, fixando o seu nome a um gesto. O jogo começa com todos os jogadores a bater nas suas coxas e depois palmas, num ritmo constante de coxas-coxas-palmas-palmas.  De início lentamente. Você começa e substituir as palmas primeiro pela posição sexual que escolher, e depois pela de outro jogador. Ex: coxas-coxas-meia-nove-meia-nove-coxas-coxas-missionário-missionário. O 'missionário' do grupo (neste exemplo) continuará o ritmo com coxas-coxas-missionário-missionário-coxas-coxas-de-quartro-de-quatro (ou outra posição existente no grupo). O jogo continua até que alguém se engane!  Essa pessoa bebe e fica de fora!  O jogo continua até que restem só 2 jogadores, que irão nomear 3 doses para cada. Podem também se encontrar em um quarto quem sabe.",
+      "description": "Até o fim do jogo você deverá imitar todos os gestos exatos do seu parceiro do lado (sentido do jogo), se esquecer, você bebe!",
       "content": false,
       "category": "Everybody"
     }
@@ -878,7 +878,7 @@
     "key": "f692b640_397f_11e8_a45b_25718a0c5009",
     "details": {
       "subgameType": "standard",
-      "description": "Nomeie um objeto. O próximo jogador deverá dizer o teu objeto e acrescentar outro da sua escolha. Cada jogador irá repetir a lista de objetos já ditos e acrescentar um novo, até que alguém se engane. Esse alguém perde e bebe 3 doses!",
+      "description": "Diga um objeto. O próximo jogador deverá dizer o seu objeto e acrescentar outro da sua escolha. Cada jogador irá repetir a lista de objetos já ditos e acrescentar um novo, até que alguém se engane. Esse alguém perde e bebe 3 doses!",
       "content": false,
       "category": "Everybody"
     }
@@ -889,18 +889,18 @@
     "key": "f692b641_397f_11e8_a45b_25718a0c5009",
     "details": {
       "subgameType": "standard",
-      "description": "Todos os jogadores colocam um dedo na borda de um copo cheio até meio. Começando por você cada jogador irá dizer um número de dedos que ficará no copo. Quando for dada a ordem, cada jogador poderá tirar ou manter o seu dedo no copo. Os jogadores que acertarem o número de dedos estão safos e saem do jogo, enquanto os que falharam continuam a jogar. O último jogador bebe o copo.",
+      "description": "Todos os jogadores colocam um dedo na borda de um copo cheio até meio. Começando por você, cada jogador irá dizer um número de dedos que ficará no copo. Quando for dada a ordem, cada jogador poderá tirar ou manter o seu dedo no copo. Os jogadores que acertarem o número de dedos estão safos e saem do jogo, enquanto os que falharam continuam a jogar. O último jogador bebe o copo.",
       "content": false,
       "category": "Everybody"
     }
   },
   {
     "objectType": "subgame",
-    "name": "Porto",
+    "name": "Rapper",
     "key": "f6932b70_397f_11e8_a45b_25718a0c5009",
     "details": {
       "subgameType": "standard",
-      "description": "Comece dizendo: \"Um barco atracou no porto e na sua mercadoria trazia...\" e diga uma categoria, seguida de um elemento dessa categoria. Por exemplo fruta, banana.  Cada jogador, na sua vez, dirá um outro elemento pertencente à categoria dita.  Bebe quem hesitar por mais de 5 segundos, ou repetir algo que já tenha sido dito.",
+      "description": "Até o fim do jogo você deverá dizer rimar tudo que disser, como um rapper. Não esqueça de fazer a batida! Caso não faça, você bebe nem que seja na taça! Yeah!",
       "content": false,
       "category": "Everybody"
     }
@@ -929,22 +929,22 @@
   },
   {
     "objectType": "subgame",
-    "name": "Fuzzy Duck",
+    "name": "Nenê",
     "key": "f693c7b0_397f_11e8_a45b_25718a0c5009",
     "details": {
       "subgameType": "standard",
-      "description": "No sentido dos ponteiros do relógio cada jogador dirá \"Fuzzy Duck\" até que alguém diga \"Duzzy\".  Nessa altura, o jogo inverte o sentido e todos passarão a dizer \"Ducky Fuzz\".  O sentido do jogo poderá ser invertido sempre que alguém diga \"Duzzy\".  Quem se engana bebe.",
+      "description": "Até o fim do jogo fale com a voz de uma criancinha. Se esquecer, você bebe!",
       "content": false,
       "category": "Everybody"
     }
   },
   {
     "objectType": "subgame",
-    "name": "Óculos de Cerveja",
+    "name": "Ô loco, meu",
     "key": "f693eec0_397f_11e8_a45b_25718a0c5009",
     "details": {
       "subgameType": "standard",
-      "description": "Faz a armação de uns \"óculos de cerveja\" com os teus polegares e indicadores. Passa o jogo para a esquerda ou para a direita estendendo a respectiva mão e dizendo \"iop\".  Pode também passar para o jogador à tua frente estendendo ambas as mãos na sua direcção e dizendo \"iop iop\". Sem hesitações!  Quem falhar bebe!",
+      "description": "Até o fim do jogo fale imitando o Faustão. Se você esquecer, você bebe!",
       "content": false,
       "category": "Everybody"
     }
@@ -955,7 +955,7 @@
     "key": "f6898e80_397f_11e8_a45b_25718a0c5009",
     "details": {
       "subgameType": "canvas",
-      "description": "Ao meio-dia... você e o jogador à tua frente têm um duelo. Esperem pelo relógio dar o sinal. Quem disparar cedo demais bebe antes de jogar outra vez.  Quem for morto bebe 3 doses!",
+      "description": "Ao meio-dia... você e o jogador na sua frente têm um duelo. Esperem que o relógio dê o sinal. Quem disparar cedo demais bebe antes de jogar outra vez.  Quem for morto bebe 3 doses!",
       "content": "high-noon",
       "category": "Battle"
     }
@@ -966,7 +966,7 @@
     "key": "4875ee99_4a2a_48d1_b074_408099efa0b1",
     "details": {
       "subgameType": "canvas",
-      "description": "Você e o jogador à tua frente conduzem um carro, frente a frente. O medroso que se desviar primeiro bebe 3 doses. Os malucos que destruíram os carros bebem 6 doses cada!",
+      "description": "Você e o jogador na sua frente conduzem um carro, frente a frente. O medroso que se desviar primeiro bebe 3 doses. Os malucos que destruíram os carros bebem 6 doses cada!",
       "content": "chicken",
       "category": "Battle"
     }
