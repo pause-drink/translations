@@ -1,21 +1,21 @@
 [{
         "objectType": "subgame",
-        "name": "Name Swap",
+        "name": "Namenswechsel",
         "key": "f67e9200_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Tausche den Namen mit dem Spieler der nach dir an der Reihe ist, für den Rest des spiels. Wer einen von euch bei eurem alten Namen nannt, trinkt!",
+            "description": "Tausche den Namen mit dem Spieler, der nach dir an der Reihe ist, für den Rest des Spiels. Wer einen von euch bei eurem alten Namen nennt, trinkt!",
             "content": false,
             "category": "Rule"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Round the sun",
+        "name": "Um die Sonne",
         "key": "bb98c83d_ba0d_464d_8694_a453df0f927e",
         "details": {
             "subgameType": "standard",
-            "description": "Der Spieler, dessen Geburtstag am nähsten am heutigen datum ist, trinkt 3 Schlücke!",
+            "description": "Der Spieler, dessen Geburtstag am nächsten  am heutigen Datum ist, trinkt 3 Schlücke!",
             "content": false,
             "category": "Profile"
         }
@@ -33,110 +33,110 @@
     },
     {
         "objectType": "subgame",
-        "name": "Bartender",
+        "name": "Barkeeper",
         "key": "f6819f40_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Bis zu deinem nächsten Zug: Besorge allen Spielern ein neues Getränk. Hohle allen Spielern bis zu deinem nächsten Zug getränke (they pay for them!).  They can only request your service when they've finished their previous drink.",
+            "description": "Bis zu deinem nächsten Zug: Besorge allen Spielern ein neues Getränk. Hole allen Spielern bis zu deinem nächsten Zug Getränke (Sie zahlen!). Sie können dies nur in Anspruch nehmen, wenn ihr aktuelles Getränk leer ist.",
             "content": false,
             "category": "Rule"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Toothless",
+        "name": "Zahnlos",
         "key": "c214144e_a54f_4dd8_86dc_5d287aaed772",
         "details": {
             "subgameType": "standard",
-            "description": "Zeig deine Zähne für die restliche Spielduer nicht mehr. Don't show your teeth for the rest of the game!  Drink each time you show those pearly whites.",
+            "description": "Zeig deine Zähne für die restliche Spieldauer nicht mehr. Trinke jedes mal, wenn du deine Zähne zeigst.",
             "content": false,
             "category": "Rule"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Finish it",
+        "name": "Weg damit",
         "key": "f681ed60_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Alle Spieler die eindeutig weniher als 1/4 ihres Drinks überig haben, müssen austrinken! players with clearly less than quarter of a drink, finish it off!",
+            "description": "Alle Spieler die eindeutig weniger als 1/4 ihres Drinks übrig haben, müssen austrinken!",
             "content": false,
             "category": "Profile"
         }
     },
     {
         "objectType": "subgame",
-        "name": "The \"D\" word",
+        "name": "Das \"T\" Wort",
         "key": "f6826290_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Für den Rest des Spieles darf kein Spieler mehr das Wort 'Trink' verwenden, ansonsten musss KONSUMIERT werden! No players can say the word 'DRINK' for the rest of the game otherwise you CONSUME.",
+            "description": "Für den Rest des Spieles darf kein Spieler mehr das Wort 'TRINK' verwenden, ansonsten musss KONSUMIERT werden!",
             "content": false,
             "category": "Rule"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Last Names Only",
+        "name": "Nur Nachnamen",
         "key": "f682d7c0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Für den Rest des Spieles darf niemand mehr beim Vornamen genannt werden! Wer es doch tut, trinkt! No calling players by their first name FOR THE REST OF THE GAME. Last names only or drink.",
+            "description": "Für den Rest des Spieles darf niemand mehr beim Vornamen genannt werden! Wer es doch tut, trinkt!",
             "content": false,
             "category": "Rule"
         }
     },
     {
         "objectType": "subgame",
-        "name": "It's Rude to Point",
+        "name": "Man zeigt nicht auf andere!",
         "key": "f6837400_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Für den Rest des Spieles darfst du nicht mehr mit dem Finger zeigen. Dein ellenbogen ist ok. Wirst du beim schummeln erwischt, trinkst du! No pointing for the rest of the game! Get caught and drink!  Elbow pointing is ok.",
+            "description": "Für den Rest des Spieles darfst du nicht mehr mit dem Finger zeigen. Mit dem Ellenbogen ist ok. Wirst du beim Schummeln erwischt, trinkst du!",
             "content": false,
             "category": "Rule"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Invisible man",
+        "name": "Unsichtbarer Mann",
         "key": "f683e930_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Auf dem Rande deines Glass lebt jetzt ein winziger, unsichtbarer Mann. A tiny invisible man started living on the rim of your vessel.  Du musst ihm erst runter helfen, bevor due trinken darfst und ihm danach auch ganz brav wieder hoch helfen. Immer wenn du es vergisst, trinkst du! Help him off before your COMPULSORY drinks, and help him back on afterwards.  Drink every time you forget!",
+            "description": "Auf dem Rande deines Glass lebt jetzt ein winziger, unsichtbarer Mann. Du musst ihm erst runterhelfen, bevor du trinken darfst und ihm danach auch ganz brav wieder hoch helfen. Immer wenn du es vergisst, trinkst du!",
             "content": false,
             "category": "Rule"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Seat Swap",
+        "name": "Sitzplatzwechsel",
         "key": "f6841040_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Jeder trinkt und rutscht einen platz weiter, in die momentane spielrichtung. Everybody drink and move one seat over in the current direction of play.",
+            "description": "Jeder trinkt und rutscht einen Platz weiter, in die momentane Spielrichtung.",
             "content": false,
             "category": "Everybody"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Tattooed",
+        "name": "Tätowiert",
         "key": "f6845e60_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Jeder mit einem Tattoo trinkt und zeigt der Gruppe eins seiner Tattos. Anyone with a tattoo drink and show one tattoo to the group.",
+            "description": "Jeder mit einem Tattoo trinkt und zeigt der Gruppe eins seiner Tattos.",
             "content": false,
             "category": "Profile"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Star Signs",
+        "name": "Sternzeichen",
         "key": "f6848570_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "contentBasic",
-            "description": "Die Sterne stehen schlecht... Trink wenn du... bist. The stars are aligned funny... Drink if you're a...",
+            "description": "Die Sterne stehen schlecht... Trink, wenn dein Sternzeichen ... ist.",
             "content": "starSigns",
             "category": "Profile"
         }
@@ -147,14 +147,14 @@
         "key": "f684faa0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Du usst dich bis zu deinem nächsten Zug in Zeitlupe bewegen. Tust du es nicht, trinkst du. You must move in slow motion until your next turn.  Get caught forgetting and drink!",
+            "description": "Du musst dich bis zu deinem nächsten Zug in Zeitlupe bewegen. Tust du es nicht, trinkst du.",
             "content": false,
             "category": "Rule"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Who runs the world?",
+        "name": "Wer kontrolliert die Welt?",
         "key": "f68596e0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "contentJoke",
@@ -165,7 +165,7 @@
     },
     {
         "objectType": "subgame",
-        "name": "It's a man's world",
+        "name": "Es ist wohl eine Männerwelt",
         "key": "f685bdf0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "contentJoke",
@@ -176,99 +176,99 @@
     },
     {
         "objectType": "subgame",
-        "name": "Students",
+        "name": "Schüler",
         "key": "f6865a30_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Alle Schüler und Studenten jeglicher Art müssen trinken. All Students enrolled with an education provider of any kind drink",
+            "description": "Alle Schüler und Studenten jeglicher Art müssen trinken.",
             "content": false,
             "category": "Profile"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Set the bar",
+        "name": "Setzte das Limit",
         "key": "f686a850_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Nimm 1,2 oder 3 Schlücke.  Alle anderen müssen dir nachmachen!",
+            "description": "Nimm 1,2 oder 3 Schlücke.  Alle anderen müssen mitmachen!",
             "content": false,
             "category": "Power"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Rewind",
+        "name": "Rückwärts",
         "key": "f686f670_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Richtungswechsel! Das spiel verläuft jetzt anders herrum.",
+            "description": "Richtungswechsel! Das Spiel verläuft jetzt anders herrum.",
             "content": false,
             "category": "Rule"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Eyes wide shut",
+        "name": "Augen ZU",
         "key": "f6874490_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Schließe deibne Augen bis zu deinem nächsten Zug. Öffene sie nur für spiele, für die du sehen musst. Wirst du beim luntzen erwischt, trinkst du!  Keep your eyes closed until your next turn. Only open them for games that require vision, else drink each time you're caught.",
+            "description": "Schließe deine Augen bis zu deinem nächsten Zug. Öffene sie nur für Spiele, für die du sehen musst. Wirst du beim Schummeln erwischt, trinkst du!",
             "content": false,
             "category": "Rule"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Repeater",
+        "name": "Papagei",
         "key": "f6876ba0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Widerhole das letzte Wort jedes Satzes den du sagst, für den rest des Spiels! Vergisst du es, trinkst du ... du! Repeat the last word of every sentence you say for the rest of the game!  Forget, and drink.",
+            "description": "Widerhole das letzte Wort jedes Satzes, den du sagst, für den Rest des Spiels! Vergisst du es, trinkst du!",
             "content": false,
             "category": "Rule"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Multi-lingual",
+        "name": "Mehrsprachlich",
         "key": "f68792b0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Alle Spieler, die mehr als einen Sprache fließend sprechen, nehmen pro sprache einen Schluck. Gib vorher bekannt auf welche Sprache der nächste Schluck geht. Any player who can speak more than one language fluently has a drink for each language.  Call out the language before each drink.",
+            "description": "Alle Spieler, die mehr als eine Sprache fließend sprechen, nehmen pro Sprache einen Schluck. Gib vorher bekannt, auf welche Sprache der nächste Schluck geht.",
             "content": false,
             "category": "Profile"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Thumb Master",
+        "name": "Daumen König",
         "key": "f687b9c0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Du bist der Daumen-König! Patziere jederzeit deinen Daumen auf der Tischoberfläche zwischen den Zügen (Maximal einemal pro zug). Die letzte Person die ihren Daumen ebenfalls auf den Tisch legt, trinkt. The last person to also place their thumb drinks.",
+            "description": "Du bist der Daumen-König! Patziere jederzeit deinen Daumen auf der Tischoberfläche zwischen den Zügen (Maximal einmal pro Zug). Die letzte Person, die ihren Daumen ebenfalls auf den Tisch legt, trinkt.",
             "content": false,
             "category": "Power"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Name that track",
+        "name": "Was läuft gerade",
         "key": "f687e0d0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Wenn gerade musik spielt, nenne Titel und Künstler. Ist deine Angabe richtigt, darfst du einen Schluck verteilen. Ansonsten Trinkst du.If there is a song playing, name the song or artist.  If you get it nominate, otherwise take one drink.  If there is no music, everybody drinks!",
+            "description": "Wenn gerade Musik spielt, nenne Titel und Künstler. Ist deine Angabe richtig, darfst du einen Schluck verteilen. Ansonsten trinkst du selbst.",
             "content": false,
             "category": "Challenge"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Over the top",
+        "name": "Kante oder nicht?",
         "key": "f68807e0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Wer hat den größeren Bizeps? Du oder dein gegenüber? Stellt es bei einer Runde Armdrücken unter Beweise! Der Gewinner darf 3 Schlücke verteilen, der verlierer trinkt. Who's got the buffest guns out of you and the player opposite?  Arm wrestle to find out.  Loser drinks and winner nominates 3.",
+            "description": "Wer hat den größeren Bizeps? Du oder dein gegenüber? Stellt es bei einer Runde Armdrücken unter Beweise! Der Gewinner darf 3 Schlücke verteilen, der Verlierer trinkt.",
             "content": false,
             "category": "Battle"
         }
@@ -279,36 +279,36 @@
         "key": "f6885600_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Du hast jetzt für den Rest des Spieles kleine T-Rex arme! Deine Elenbogen dürfen deinne Oberkörper nicht verlasse. Lösst du sie doch und wirst erwischt, musst du trinken. You now have little T-rex arms for the rest of the game! Your elbows are not allowed to leave your torso.  If you forget or they come off, drink!",
+            "description": "Du hast jetzt für den Rest des Spieles kleine T-Rex Arme! Deine Elenbogen dürfen deinen Oberkörper nicht verlassen. Löst du sie doch und wirst erwischt, musst du trinken.",
             "content": false,
             "category": "Rule"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Drinking Buddies",
+        "name": "Nicht ohne mein Team",
         "key": "f688a420_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Dein Gegenüber ist jetzt dein Trink-Buddy. Muss einer von euch beiden trinken, trinkt der andere auch. Every time you or the player opposite has to drink, the buddy has to as well for the rest of the game!",
+            "description": "Dein Gegenüber ist jetzt dein Trink-Buddy. Muss einer von euch beiden trinken, trinkt der andere auch.",
             "content": false,
             "category": "Rule"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Round of applause",
+        "name": "Applaus",
         "key": "f688cb30_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Applaudiere immer, wenn jemand trinen musss, bis das spiel vorbei ist. Vergisst du es, musst du trinken. Applaud every time someone has to drink for the rest of the game!  Forget to applaud and drink.",
+            "description": "Applaudiere immer, wenn jemand trinen musss, bis das Spiel vorbei ist. Vergisst du es, musst du trinken.",
             "content": false,
             "category": "Rule"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Hipster Pants",
+        "name": "Slimfit",
         "key": "f6894060_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
@@ -319,143 +319,143 @@
     },
     {
         "objectType": "subgame",
-        "name": "Spin the bottle",
+        "name": "Flaschendrehen",
         "key": "f6894061_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "canvas",
-            "description": "Platziere das Handy in der mitte aller Spieler. Drücke auf GO und dreh die flasche. Der jenihge auf den die flsche zeigt, nimmt 3 gute Schlücke. Put the phone in the middle of all players.  Press go and spin the bottle!  Whoever it lands on has to drink 3.",
+            "description": "Platziere das Handy in der Mitte aller Spieler. Drücke auf GO und drehe die Flasche. Der­je­ni­ge auf den die Flsche zeigt, trinkt 3 Schlücke.",
             "content": "spin-the-bottle",
             "category": "Everybody"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Fastest Tapper",
+        "name": "Schnellster Tipper",
         "key": "5cb87b07_160d_11e8_a7c5_d7bf8118b9c6",
         "details": {
             "subgameType": "canvas",
-            "description": "Du und dein Gegnüber, tippen so schnell es geht um eure figur zu seinem Getränk rennen zu lassen und es im anschluss trinken zu lassen. Der Verlierer trinkt 3 Schlücke. You and the player opposite tap as fast as you can to make your character run to their drink and drink the whole thing.  Loser drinks 3!",
+            "description": "Du und dein Gegnüber, tippen so schnell es geht um eure Figur zu seinem Getränk rennen zu lassen und es im Anschluss trinken zu lassen. Der Verlierer trinkt 3 Schlücke.",
             "content": "tap-race",
             "category": "Battle"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Buzzers",
+        "name": "Qulizduell ... aber mit Folgen",
         "key": "d8f50c0b_3080_4190_be10_1367a86bf184",
         "details": {
             "subgameType": "canvas",
-            "description": "Zeit für ein Multiple choice Quiz für bis zu 10 Spieler. Jede falsche Antwort kostet einen schluck.  Drink 1 for wrong answers. Answer correctly and exit the quiz.  Last player drinks 3!",
+            "description": "Zeit für ein Multiplechoice Quiz für bis zu 10 Spieler. Jede falsche Antwort kostet einen Schluck.",
             "content": "buzzers",
             "category": "Everybody"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Rock Paper Scissors",
+        "name": "Stein Schere Papier",
         "key": "f689dca0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Fordere dein Gegenüber zu einer Runde Schere-Stein-Papier herraus. Wer 3 Punkte hat gewinnt. Der Verlierer nimmt 3 Schlücke!",
+            "description": "Fordere dein Gegenüber zu einer Runde Schere-Stein-Papier herraus. Wer 3 Punkte hat, gewinnt. Der Verlierer trinkt 3 Schlücke!",
             "content": false,
             "category": "Battle"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Cave Man",
+        "name": "Zurück in die Steinzeit",
         "key": "f689dca1_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "zurück in die Steinzeit! Für den Rest der Spieles bist du bist nur noch in der Lage 3 Wörter pro Satz zu sagen. Trinke jedesmal, wenn du es vergisst. You can only speak in three word sentences for the rest of the game!  Drink each time you forget!",
+            "description": "Zurück in die Steinzeit! Für den Rest des Spieles bist du nur noch in der Lage, 3 Wörter pro Satz zu sagen. Trinke jedesmal, wenn du es vergisst.",
             "content": false,
             "category": "Rule"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Quaff, Scull, Chug",
+        "name": "Ex und hopp, in den Kopp!",
         "key": "f68a2ac0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Trink dein Getränk aus. Oooh.. ja ich weiß, das tut weh. Drink the rest of your vessel. Owww it hurts I know.",
+            "description": "Trink dein Getränk aus. Oooh.. ja ich weiß, das tut weh.",
             "content": false,
             "category": "Solo"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Speak in a foreign Accent",
+        "name": "Spreche in einen Akzent",
         "key": "f68a2ac1_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "contentBasic",
-            "description": "Sprich für den Rest des piels im folgenden Akzent:     Trinke jedes Mal, wenn du es vergisst!",
+            "description": "Sprich für den Rest des Spieles im folgenden Akzent:     Trinke jedes Mal, wenn du es vergisst!",
             "content": "accents",
             "category": "Rule"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Question Master",
+        "name": "Meister der Fragen",
         "key": "f68a78e0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Du bistd er Meister der Fragen! Wenn du jemand eine Frage stellst und er antwortet dir, muss er trinken. Die anderen dürfen dir nur mit \"@#$% dich\" oder einern Gegenfrage antworten. You are the question master.  If you ask someone a question and they answer you, they have to drink.  They are allowed to respond only with \"@#$% off\" or by asking a question back.",
+            "description": "Du bist der Meister der Fragen! Wenn du jemanden eine Frage stellst und er antwortet dir, muss er trinken. Die anderen dürfen dir nur mit \"@#$% dich\" oder einer Gegenfrage antworten.",
             "content": false,
             "category": "Power"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Snake Eyes",
+        "name": "Schlangenaugen",
         "key": "f68a9ff0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Bis zu deinem nächsten Zug, muss jeder trinken, den dabei erwischst, direkten Blickkontakt mit dir zu haben. Until your next turn, anyone who you catch looking directly in your eyes has to drink.",
+            "description": "Bis zu deinem nächsten Zug, muss jeder trinken, den du dabei erwischst, direkten Blickkontakt mit dir zu haben.",
             "content": false,
             "category": "Power"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Rule Master",
+        "name": "Meister der Regeln",
         "key": "f68ac700_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "You are the Rule Master.  Create a rule that everyone must follow including yourself.  Failure to follow the rule results in a drink for that player.",
+            "description": "Du bist der Meister der Regeln. Stelle eine Regel auf, welche jeder befolgen muss(Auch du!). Bei Verstoß muss ein Schluck getruken werden.",
             "content": false,
             "category": "Power"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Drinking solo",
+        "name": "Solo trinken",
         "key": "f68b1520_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Trinke niemals alleine ... ausser jetzt... trinkte jetzt alleine. Never drink alone... except now... drink alone now.",
+            "description": "Trinke niemals alleine ... ausser jetzt ... trinkte jetzt alleine.",
             "content": false,
             "category": "Solo"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Drink like a Lady",
+        "name": "Trink like a lady",
         "key": "f68b8a50_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "From now on all players must only drink with their left hand and their pinky finger must be removed from the vessel like a proper lady.  Failure to do so means drink.",
+            "description": "Ab jetzt trinken alle Spieler nur noch mit ihrer linken Hand und dem Zeigefinger abgewinkelt. Wie eine Lady. Bei Versagen muss getrunken werden.",
             "content": false,
             "category": "Rule"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Silence is Golden",
+        "name": "Schweigen ist Gold wert",
         "key": "f68bb160_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Don't speak until your next turn.  Any utterance, even an \"mmm\" results in a drink, so quiet!",
+            "description": "Spreche nichtmehr bis zur nächsten Runde. Alle Geräusche, auch ein \"mmm\" führen dazu, dass du einen trinken musst, also sei leise!",
             "content": false,
             "category": "Rule"
         }
@@ -466,7 +466,7 @@
         "key": "f68bd870_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Have a couple of drinks just for yourself.",
+            "description": "Trinke zwei Schlücke. Nur für dich selbst!",
             "content": false,
             "category": "Solo"
         }
@@ -477,51 +477,51 @@
         "key": "f68bff80_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Have a few drinkies just for you.",
+            "description": "Trinke drei Schlücke. Nur für dich selbst!",
             "content": false,
             "category": "Solo"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Nominate One",
+        "name": "Wähle einen",
         "key": "f68c2690_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Choose your victim for one drink nomination.",
+            "description": "Wähle einen Spieler aus, welcher einen Schluck trinken muss.",
             "content": false,
             "category": "Power"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Nominate Two",
+        "name": "Wähle zwei",
         "key": "f68c4da0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Choose one victim or spread your two drink nominations out.",
+            "description": "Wähle zwei Spieler aus, welche jeweils einen Schluck trinken müssen.",
             "content": false,
             "category": "Power"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Nominate Three",
+        "name": "Wähle drei",
         "key": "f68c74b0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Choose one victim or spread your three drink nominations out.",
+            "description": "Wähle drei Spieler aus, welche jeweils einen Schluck trinken müssen.",
             "content": false,
             "category": "Power"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Speak with a lisp",
+        "name": "Lispeln",
         "key": "f68c9bc0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Speak with a lisp for the rest of the game!  If you get caught breaking character... drink.",
+            "description": "Lispel für dden Rest des Spiels, wenn du erwischt wirst musst du trinken.",
             "content": false,
             "category": "Rule"
         }
@@ -628,7 +628,7 @@
         "key": "f68e7080_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Let someone draw a stylish pencil moustache on you, or drink two.",
+            "description": "Lassen Sie sich von jemandem einen stylischen Schnurrbart auf Sie zeichnen oder trinken Sie zwei.",
             "category": "Dare"
         }
     },
