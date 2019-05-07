@@ -48,7 +48,7 @@
         "key": "c214144e_a54f_4dd8_86dc_5d287aaed772",
         "details": {
             "subgameType": "standard",
-            "description": "Zeig deine Zähne für die restliche Spieldauer nicht mehr. Trinke jedes mal, wenn du deine Zähne zeigst.",
+            "description": "Zeig deine Zähne für die restliche Spieldauer nicht mehr. Trinke jedes Mal, wenn du deine Zähne zeigst.",
             "content": false,
             "category": "Rule"
         }
@@ -59,7 +59,7 @@
         "key": "f681ed60_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Alle Spieler die eindeutig weniger als 1/4 ihres Drinks übrig haben, müssen austrinken!",
+            "description": "Alle Spieler die eindeutig weniger als 1/4 ihres Drinks übrighaben, müssen austrinken!",
             "content": false,
             "category": "Profile"
         }
@@ -125,7 +125,7 @@
         "key": "f6845e60_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Jeder mit einem Tattoo trinkt und zeigt der Gruppe eins seiner Tattos.",
+            "description": "Jeder mit einem Tattoo trinkt und zeigt der Gruppe eins seiner Tattoos.",
             "content": false,
             "category": "Profile"
         }
@@ -191,7 +191,7 @@
         "key": "f686a850_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Nimm 1,2 oder 3 Schlücke.  Alle anderen müssen mitmachen!",
+            "description": "Nimm 1,2 oder 3 Schlücke. Alle anderen müssen mitmachen!",
             "content": false,
             "category": "Power"
         }
@@ -202,7 +202,7 @@
         "key": "f686f670_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Richtungswechsel! Das Spiel verläuft jetzt anders herrum.",
+            "description": "Richtungswechsel! Das Spiel verläuft jetzt anders herum.",
             "content": false,
             "category": "Rule"
         }
@@ -213,7 +213,7 @@
         "key": "f6874490_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Schließe deine Augen bis zu deinem nächsten Zug. Öffene sie nur für Spiele, für die du sehen musst. Wirst du beim Schummeln erwischt, trinkst du!",
+            "description": "Schließe deine Augen bis zu deinem nächsten Zug. Öffne sie nur für Spiele, für die du sehen musst. Wirst du beim Schummeln erwischt, trinkst du!",
             "content": false,
             "category": "Rule"
         }
@@ -246,7 +246,7 @@
         "key": "f687b9c0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Du bist der Daumen-König! Patziere jederzeit deinen Daumen auf der Tischoberfläche zwischen den Zügen (Maximal einmal pro Zug). Die letzte Person, die ihren Daumen ebenfalls auf den Tisch legt, trinkt.",
+            "description": "Du bist der Daumen-König! Platziere jederzeit deinen Daumen auf der Tischoberfläche zwischen den Zügen (Maximal einmal pro Zug). Die letzte Person, die ihren Daumen ebenfalls auf den Tisch legt, trinkt.",
             "content": false,
             "category": "Power"
         }
@@ -301,7 +301,7 @@
         "key": "f688cb30_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Applaudiere immer, wenn jemand trinen musss, bis das Spiel vorbei ist. Vergisst du es, musst du trinken.",
+            "description": "Applaudiere immer, wenn jemand trinken musss, bis das Spiel vorbei ist. Vergisst du es, musst du trinken.",
             "content": false,
             "category": "Rule"
         }
@@ -334,7 +334,7 @@
         "key": "5cb87b07_160d_11e8_a7c5_d7bf8118b9c6",
         "details": {
             "subgameType": "canvas",
-            "description": "Du und dein Gegnüber, tippen so schnell es geht um eure Figur zu seinem Getränk rennen zu lassen und es im Anschluss trinken zu lassen. Der Verlierer trinkt 3 Schlücke.",
+            "description": "Du und dein Gegnüber, tippen so schnell es geht, um eure Figur zu seinem Getränk rennen zu lassen und es im Anschluss trinken zu lassen. Der Verlierer trinkt 3 Schlücke.",
             "content": "tap-race",
             "category": "Battle"
         }
@@ -356,7 +356,7 @@
         "key": "f689dca0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Fordere dein Gegenüber zu einer Runde Schere-Stein-Papier herraus. Wer 3 Punkte hat, gewinnt. Der Verlierer trinkt 3 Schlücke!",
+            "description": "Fordere dein Gegenüber zu einer Runde Schere-Stein-Papier heraus. Wer 3 Punkte hat, gewinnt. Der Verlierer trinkt 3 Schlücke!",
             "content": false,
             "category": "Battle"
         }
@@ -367,7 +367,7 @@
         "key": "f689dca1_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Zurück in die Steinzeit! Für den Rest des Spieles bist du nur noch in der Lage, 3 Wörter pro Satz zu sagen. Trinke jedesmal, wenn du es vergisst.",
+            "description": "Zurück in die Steinzeit! Für den Rest des Spieles bist du nur noch in der Lage, 3 Wörter pro Satz zu sagen. Trinke jedes Mal, wenn du es vergisst.",
             "content": false,
             "category": "Rule"
         }
@@ -422,7 +422,7 @@
         "key": "f68ac700_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Du bist der Meister der Regeln. Stelle eine Regel auf, welche jeder befolgen muss(Auch du!). Bei Verstoß muss ein Schluck getruken werden.",
+            "description": "Du bist der Meister der Regeln. Stelle eine Regel auf, welche jeder befolgen muss(Auch du!). Bei Verstoß muss ein Schluck getrunken werden.",
             "content": false,
             "category": "Power"
         }
@@ -433,7 +433,7 @@
         "key": "f68b1520_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Trinke niemals alleine ... ausser jetzt ... trinkte jetzt alleine.",
+            "description": "Trinke niemals alleine ... außer jetzt ... trinke jetzt alleine.",
             "content": false,
             "category": "Solo"
         }
@@ -521,103 +521,103 @@
         "key": "f68c9bc0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Lispel für dden Rest des Spiels, wenn du erwischt wirst musst du trinken.",
+            "description": "Lispel für den Rest des Spiels, wenn du erwischt wirst musst du trinken.",
             "content": false,
             "category": "Rule"
         }
     },
     {
         "objectType": "subgame",
-        "name": "One Truth, Two Lies",
+        "name": "Eine Wahrheit, zwei Lügen",
         "key": "f68cc2d0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Tell one truth and two lies in a random order.  Everyone locks in their guess for the truth.  Anyone who doesn't get it right drinks and you drink for everyone that does!",
+            "description": "Erzähle einen wahren Fakt und zwei Lügen in zufälliger Reihenfolge. Jeder gibt seine Schätzung ab, was die Wahrheit ist. Für jeden der richtig rät musst du einen trinken, jeder der falsch rät muss einen trinken.",
             "content": false,
             "category": "Challenge"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Hermit",
+        "name": "Einsiederl",
         "key": "f68ce9e0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Sit somewhere no-one has a direct line of sight on you for one round.  Come back for games that require you to be visible",
+            "description": "Setz dich an eine Stelle, wo dich niemand sehen kann(Für eine Runde). Wenn du für ein Spiel anwesend sein musst, kannst du solange zurückkommen.",
             "content": false,
             "category": "Rule"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Paper pong",
+        "name": "Papier pong",
         "key": "f68ce9e1_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "The player opposite puts down their vessel.  Screw up any piece of paper and have 3 shots without leaning or changing position.  They drink once for every hit.  You drink for each miss!",
+            "description": "Der Spieler dir gegenüber muss sein Glas abstellen. Zerknülle ein Stück Papier und versuche es in das Glas zu werfen, ohne deine Position zu verändern. Dein Gegenüber trinkt bei einem Treffer, du, wenn du daneben wirfst.",
             "content": false,
             "category": "Challenge"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Clicks",
+        "name": "Klicks",
         "key": "f68d3800_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Everyone assigns themselves a one syllable nickname.  Start the game with everyone slowly in rhythm: 1.Knees, 2.Clap, 3.Right-hand-click, 4.Left-hand-click. Person who's turn it is: on beat 3 say a number from 1-4 and on beat 4 say a name. Whoever's name gets said: from the next beat 1, repeats their own name IN TIME WITH THE BEAT. The number the sender says governs the number of times the receiver repeats their name.  Receiver then becomes sender and says a number and name IN TIME WITH THE BEAT (on beat the 3 and 4) to pass on to the next person.",
+            "description": "Jeder gibt sich selbst einen Spitznamen, der eine Silbe lang ist. Alle fangen an in einen langsamen Rhythmus: 1. Knie, 2. Klatschen, 3. links schnipsen, 4. rechts schnipsen. Die Person, die an der Reihe ist, sagt auf Takt 3 eine Zahl und auf Takt 4 einen der Spitznamen. Der Spieler dessen Name genannt wird, wiederholt ab den nächsten Beat 1 seinen Spitznamen im Takt. Er wiederholt diesen so oft, wie es vom vorherigen Spieler als erstes genannt wurde. Dann wiederholt sich dies. Diesmal muss der Spieler, der seinen Namen wiederholt hat, eine neue Zahl und Namen nennen. Usw…",
             "content": false,
             "category": "Everybody"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Pop 'n' Lock",
+        "name": "Mach den Robodance",
         "key": "f68d8620_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "timer",
-            "description": "Dance like a robot from the 80's for 30 seconds without breaking character or drink three.",
+            "description": "Tanze wie ein Roboter von dern 80ern für 30 Sekunden, ohne den Charakter zu verlassen(Nicht lachen usw...). Wenn du das nicht schaffst, musst du drei Schlücke trinken.",
             "time": 30,
             "category": "Dare"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Strip One",
+        "name": "Eins runter",
         "key": "f68dad30_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Strip one item of clothing or drink one.  Shoes, socks, and jewellery don't count.",
+            "description": "Ziehe ein Kleidungsstück aus oder trinke. Schuhe, Socken und Schmuck zählt nicht.",
             "category": "Dare"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Strip Two",
+        "name": "Zwei runter",
         "key": "f68dad31_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Strip two items of clothing or drink two.  Shoes, socks, and jewellery don't count.",
+            "description": "Ziehe zwei Kleidungsstücke aus oder trinke zwei Schlücke. Schuhe, Socken und Schmuck zählt nicht.",
             "category": "Dare"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Strip Three",
+        "name": "Drei runter",
         "key": "f68e2260_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Strip three items of clothing or drink three.  Shoes, socks, and jewellery don't count.",
+            "description": "Ziehe drei Kleidungsstücke aus oder trinke drei Schlücke. Schuhe, Socken und Schmuck zählt nicht.",
             "category": "Dare"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Lippy",
+        "name": "Lippenstift",
         "key": "f68e2261_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Put on some lipstick or drink two.",
+            "description": "Trage Lippenstift auf oder trinke zwei Schlücke",
             "content": false,
             "category": "Dare"
         }
@@ -628,7 +628,7 @@
         "key": "f68e7080_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Lassen Sie sich von jemandem einen stylischen Schnurrbart auf Sie zeichnen oder trinken Sie zwei.",
+            "description": "Lassen Sie sich von jemandem einen stylischen Schnurrbart auf Sie zeichnen oder trinken Sie zwei Schlücke.",
             "category": "Dare"
         }
     },
@@ -638,18 +638,18 @@
         "key": "f68e9790_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "timer",
-            "description": "Attempt Michael Jackson's \"moon walk\" and other classic Michael moves for 30 seconds without breaking character or drink 3.",
+            "description": "Versuche Michael Jackson's \"Moon Walk\" und andrer Moves nachzumachen, ohne den Charakter zu brechen(Kein Lachen usw...) für 30 Sekunden. Wenn du es nicht schaffst, musst du drei trinken",
             "time": 30,
             "category": "Dare"
         }
     },
     {
         "objectType": "subgame",
-        "name": "5 Push-ups",
+        "name": "5 Liegestützen",
         "key": "f68ebea0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Straight back, chest to the floor.  From the knees if you choose.  5 good push-ups or drink one.",
+            "description": "Gerader Rücken, Brust auf den Boden! Frauenliegestütze(Auf den Knien) sind erlaubt. Mache 5 Liegestütze oder trinke.",
             "content": false,
             "category": "Challenge"
         }
@@ -660,7 +660,7 @@
         "key": "f68ee5b0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Straight back, chest to the floor.  From the knees if you choose. 10 good push-ups or drink two.",
+            "description": "Gerader Rücken, Brust auf den Boden! Frauenliegestütze(Auf den Knien) sind erlaubt. Mache 10 Liegestütze oder trinke zwei.",
             "content": false,
             "category": "Challenge"
         }
@@ -671,29 +671,29 @@
         "key": "f68f0cc0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Straight back, chest to the floor. From the knees if you choose.  15 good push-ups or drink three.",
+            "description": "Gerader Rücken, Brust auf den Boden! Frauenliegestütze(Auf den Knien) sind erlaubt. Mache 15 Liegestütze oder trinke drei.",
             "content": false,
             "category": "Challenge"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Hug Someone",
+        "name": "Umarme jemanden",
         "key": "f68f33d0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "quickTimer",
-            "description": "Hug another player within 10 seconds or drink.",
+            "description": "Umarme jemanden innerhalb von 10 Sekunden oder trink.",
             "time": 10,
             "category": "Challenge"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Frog Prince",
+        "name": "Froschkönig",
         "key": "f68f5ae0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "quickTimer",
-            "description": "Convince another player to kiss your cheek in 10 seconds or drink.",
+            "description": "Überzeuge einen anderen Spieler dir auf die Wange zu küssen. Wenn du es nicht schaffst, musst du trinken.",
             "time": 10,
             "category": "Challenge"
         }
@@ -704,7 +704,7 @@
         "key": "5dae50e0_ef13_46a0_af70_f52a41a22eb1",
         "details": {
             "subgameType": "timedReveal",
-            "description": "Get players to guess the country by DANCE ONLY! No vocal sounds or other gestures.  The player who gets it nominates 2 drinks.  If noone gets it, everyone drinks and you drink 2!  You have 30 seconds.",
+            "description": "Versuche NUR durch einen TANZ das Land deutlich zu machen. Keine Geräusche oder Gesten! Der Spieler, welcher es als Erstes errät, muss zwei Leute zum trinken nominieren. Wenn es niemand errät muss jeder einen trinken und du zwei. Du hast 30 Sekunden.",
             "content": "countries",
             "time": 30,
             "category": "Performer"
@@ -712,11 +712,11 @@
     },
     {
         "objectType": "subgame",
-        "name": "Impersonator",
+        "name": "Pantomine",
         "key": "f68fa900_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "timedReveal",
-            "description": "Other players must guess who you are by your IMPERSONATION ONLY.  If a player guesses right, you both get to nominate 2, otherwise everyone drinks!  You have 15 seconds.",
+            "description": "Mache eine Person wie ein Pantomime nach. Der Spieler, welcher die Person als Erstes errät, muss zwei Leute zum Trinken nominieren. Wenn es niemand errät, muss jeder einen trinken und du zwei. Du hast 15 Sekunden.",
             "content": "impersonations",
             "time": 15,
             "category": "Performer"
@@ -724,11 +724,11 @@
     },
     {
         "objectType": "subgame",
-        "name": "Hum a song",
+        "name": "Summe einen Song",
         "key": "f68ff720_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "timedReveal",
-            "description": "Don't show the phone to any other players.  Hum or whistle the song.  If another player guesses right they nominate 2, otherwise everyone drinks and you drink 2!  You have 45 seconds.",
+            "description": "Zeige das Handy keinen anderen Spieler. Summe oder pfeife das Lied. Der Spieler, welcher es als Erstes errät, muss zwei Leute zum Trinken nominieren. Wenn es niemand errät muss jeder einen trinken und du zwei. Du hast 45 Sekunden.",
             "content": "famousSongs",
             "time": 45,
             "category": "Performer"
@@ -736,11 +736,11 @@
     },
     {
         "objectType": "subgame",
-        "name": "G-N-I-L-L-E-P-S",
+        "name": "N-E-R-E-I-B-A-T-S-H-C-U-B",
         "key": "f6901e30_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "timedReveal",
-            "description": "Pass the phone to the next player. They will read out the word which you must spell backwards WITH NO MISTAKES or drink 2. You have 25 seconds.",
+            "description": "Gebe das Handy an den nächsten Spieler weiter. Er muss das Wort vorlesen und du musst es rückwärts buchstabieren OHNE Fehler. Wenn du es nicht innerhalb von 25 Sekunden schaffst, musst du zwei trinken.",
             "content": "spellBackwards",
             "time": 25,
             "category": "Challenge"
@@ -748,11 +748,11 @@
     },
     {
         "objectType": "subgame",
-        "name": "Charades",
+        "name": "Scharaden",
         "key": "f6909360_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "timedReveal",
-            "description": "Don't show the phone to any other players.  You have 1 minute to act out the clue.  No talking or vocal sounds of any kind. The player who gets it nominates 2.  If noone gets it everybody drinks!",
+            "description": "Zeige das Handy keinen anderen Spieler, du hast eine Minute, um den Hinweis zu schauspielern. Sprechen oder andere Geräusche sind nicht erlaubt. Der Spieler, welcher es als Erstes errät, muss zwei Leute zum trinken nominieren. Wenn es niemand errät muss jeder einen trinken.",
             "content": "charades",
             "time": 60,
             "category": "Performer"
@@ -760,11 +760,11 @@
     },
     {
         "objectType": "subgame",
-        "name": "Doodle",
+        "name": "Kritzeln",
         "key": "f690ba70_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "canvas",
-            "description": "Don't show the phone to any other players.  You have 30 seconds to draw the following clue.  No talking!  The player who guesses right nominates 2.  If noone gets it everybody drinks!",
+            "description": "Zeige das Handy keinen anderen Spieler, du hast 30 Sekunden, um den Hinweis zu zeichnen. Sprechen ist nicht erlaubt. Der Spieler, welcher es als Erstes erkennt, muss zwei Leute zum trinken nominieren. Wenn es niemand errät muss jeder einen trinken.",
             "content": "doodles",
             "time": 30,
             "category": "Performer"
@@ -772,11 +772,11 @@
     },
     {
         "objectType": "subgame",
-        "name": "Who am I?",
+        "name": "Wer bin ich?",
         "key": "f690e180_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "timedReveal",
-            "description": "Don't look at the answer.  Hold the phone to your forehead and show everyone else.  Ask yes/no questions to find out who you are. You have 60 seconds or drink 3!",
+            "description": "Gucke nicht die Antwort an! Halte das Handy gegen deine Stirn und zeige es alles. Du darfst nun Ja/Nein Fragen stellen, um deine Identitär heraus zu finden. Wenn du es in 60 Sekunden nicht schaffst, musst du drei trinken.",
             "content": "famousPeople",
             "time": 60,
             "category": "Challenge"
@@ -784,11 +784,11 @@
     },
     {
         "objectType": "subgame",
-        "name": "Tongue Twister",
+        "name": "Zungenbrecher",
         "key": "f6912fa0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "timedReveal",
-            "description": "Say the tongue twister perfectly... WITH YOUR EYES CLOSED. Once you reveal it, you'll have 30 seconds! Fail and drink 2!",
+            "description": "Lese den Zungenbrecher perfekt auf... Mit deinen Augen GESCHLOSSEN. Dafür hast du 30 Sekunden Zeit, wenn du es nicht schaffst, musst du zwei trinken.",
             "content": "tongueTwisters",
             "time": 30,
             "category": "Challenge"
@@ -800,7 +800,7 @@
         "key": "f6917dc0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "quickTimer",
-            "description": "Name seven alternative or slang words for penis in one minute or drink.",
+            "description": "Nenne sieben verschiedene Synonyme für das Wort \"Penis\" innerhalb einer Minute. Wenn du es nicht schaffst, musst du trinken.",
             "time": 60,
             "category": "Challenge"
         }
@@ -811,117 +811,117 @@
         "key": "f691cbe0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "quickTimer",
-            "description": "Name seven alternative or slang words for vagina in one minute or drink.",
+            "description": "Nenne sieben verschiedene Synonyme für das Wort \"Vagina\" innerhalb einer Minute. Wenn du es nicht schaffst, musst du trinken.",
             "time": 60,
             "category": "Challenge"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Breasts",
+        "name": "Brüste",
         "key": "f691f2f0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "quickTimer",
-            "description": "Name seven alternative or slang words for breasts in one minute or drink.",
+            "description": "Nenne sieben verschiedene Synonyme für das Wort \"Brust\" innerhalb einer Minute. Wenn du es nicht schaffst, musst du trinken.",
             "time": 60,
             "category": "Challenge"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Waterfall",
+        "name": "Wasserfall",
         "key": "f691f2f1_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "All players start drinking at the same time.  YOU can stop when you like.  The player to your left can stop after you do, and the player to their left can stop after they do etc etc.",
+            "description": "Alle Spieler fangen gleichzeitig an zu trinken. DU kannst aufhören, wenn du willst, der Spieler links von dir nach dir. Wenn er aufhört, kann der Spieler links neben ihn aufhören usw...",
             "content": false,
             "category": "Everybody"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Seven's game",
+        "name": "Die verflixte sieben",
         "key": "f6921a00_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Going clockwise from you, as a group, count upwards from 1.  However, noone can say a multiple of seven or any number with a seven in it!  Instead clap.  E.g 1, 2, 3, 4, 5, 6, clap, 8, 9...",
+            "description": "Im Uhrzeigersinn zählt die Gruppe von 1 hoch. Wenn eine 7 in der Zahl enthalten ist oder sie ein Mehrfaches von 7 ist, muss geklatscht werden.",
             "content": false,
             "category": "Everybody"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Musical Instruments",
+        "name": "Musikalische Instrumente",
         "key": "f6924110_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Every player choose a musical instrument with an action and sound.  The game starts with all players slapping their thighs and clapping their hands in a constant, repeated rhythm of slap-slap-clap-clap.  Start slow.  You start and pass the turn around the group by substituting the claps, first for your instrument, and then for another player's.  e.g. slap-slap-guitar-guitar-slap-slap-drums-drums.  The player who receives the turn (the drummer in this example) must IMMEDIATELY continue the rhythm with slap-slap-drums-drums-slap-slap-violin-violin  (or another players instrument) and play continues until someone stuffs up!  When you stuff up you drink and are out!  Other players continue until there are only two left who get to nominate 3 drinks each.  They should probably also start a band.",
+            "description": "Jeder Spieler wählt ein Musikinstrument mit Aktion und Klang. Das Spiel beginnt damit, dass alle Spieler ihre Oberschenkel gegeneinanderschlagen und mit ihren Händen in einem konstanten, wiederholten Rhythmus von Slap-Slap-Clap-Clap-Clap-Clap klatschen. Fangt langsam an. Du, indem du das Klatschen zuerst durch dein Instrument ersetzt und dann für das eines anderen Spielers, z.B. Slap-Slap-Gitarre-Gitarre-Slap-Slap-Slap-Slap-Drums-Drums. Der Spieler, welcher drankommt(der Schlagzeuger in diesem Beispiel), muss SOFORT den Rhythmus mit Slap-Slap-Drums-Drums-Drums-Slap-Slap-Slap-Violin-Violin(oder einem anderen Spielerinstrument) fortsetzen, bis jemand aufhört! Wenn jemand einen Fehler machst, muss er trinken und ist raus! Die anderen Spieler machen weiter, bis nur noch zwei übrig sind, die jeweils drei Leute zum Trinken nominieren können. Vielleicht wäre ja eine Band eine Idee?",
             "content": false,
             "category": "Everybody"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Sex positions",
+        "name": "Sexuelle Positionen",
         "key": "f6926820_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Every player chooses their unique sexual position with it's action and name.  The game starts with all players slapping their thighs and clapping their hands in a constant, repeated rhythm of slap-slap-clap-clap.  Start slow.  You start and pass the turn around the group by substituting the claps, first for your sexual position and then for another player's.  e.g. slap-slap-missionary-slap-slap-doggy style.  The player who receives the turn (the doggy styler in this example) must IMMEDIATELY continue the rhythm with slap-slap-doggy style-slap-slap-blow job  (or another players sexual position) and play continues until someone stuffs up!  When you stuff up you drink and are out!  Other players continue until there are only two left who get to nominate 3 drinks each.  They should maybe get a room too.",
+            "description": "Jeder Spieler wählt seine einzigartige sexuelle Position mit Aktion und Namen. Das Spiel beginnt damit, dass alle Spieler ihre Oberschenkel gegeneinanderschlagen und mit ihren Händen in einem konstanten, wiederholten Rhythmus von Slap-Slap-Clap-Clap-Clap-Clap klatschen. Fang langsam an. Du beginnst, indem du das Klatschen ersetzt, zuerst durch deine sexuelle Position und dann für die eines anderen Spielers, z.B. slap-slap-missionär-slap-slap-slap-slap-doggystyle. Der Spieler, welcher dran ist(der Doggy Styler in diesem Beispiel), muss SOFORT den Rhythmus mit Slap-Slap-Doggy Style-Slap-Slap-Slap-Slap-Blow-Job (oder einer anderen sexuellen Position eines Spielers) fortsetzen, bis jemand einen Fehler macht! Wenn jemand einen Fehler machst, trinkt er und ist raus! Die anderen Spieler machen weiter, bis nur noch zwei übrig sind, die jeweils 3 Leute zum Trinken nominieren. Vielleicht gibt es ja noch ein Zimmer für sie? ;)",
             "content": false,
             "category": "Everybody"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Memory Sequence",
+        "name": "Gedächnissabfolge",
         "key": "f692b640_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Say any random object.  The next player must say your object and then add their own.  players must keep repeating the growing list in order and adding their own objects until someone can't remember the sequence. Loser drinks 3!",
+            "description": "Sage ein zufälliges Objekt. Der nächste Spieler muss nun dein Objekt und ein weites sagen. Usw... Spieler müssen das weiterführen bis ein Spieler sich nichts mehr an alles oder falsch erinnert. Verlierer trinken drei!",
             "content": false,
             "category": "Everybody"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Finger Cup",
+        "name": "Finger Kampf",
         "key": "f692b641_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Everybody place one finger on the rim of a single cup filled with half a drink in the centre of the group.  Starting with you, take turns to guess the number of fingers that will be left on the cup, where as you make your guess, everyone can either leave there finger on or immediately remove it.  If you guess wrong, take a drink then put your finger back.  Get it right and you're free while the other players carry on.  The last player drinks the cup.  Delayed finger removals count as being left on and that player drinks.",
+            "description": "Jeder legt einen Finger auf den Rand einer einzelnen Tasse(welche halb gefüllt ist), welche in der Mitte der Gruppe steht.  Beginnend mit dir, schätzen alle die Anzahl der Finger, die auf dem Becher verbleiben werden, wo, während du schätzt, jeder entweder den Finger auf dem Becher lässt oder ihn sofort entfernt.  Wenn du falsch rätst, trinkst du und legst dann deinen Finger zurück.  Wenn du richtig geraten hast, bist du fertig und kannst aufhören.  Der letzte Spieler trinkt die Tasse leer. Zu spät weggezogene Finger zählen als nicht entfernt.",
             "content": false,
             "category": "Everybody"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Ship came into the harbour",
+        "name": "Schiff fuhr in den Hafen",
         "key": "f6932b70_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Du sagst: \"Ein Schiff fährt in den Hafen und hat geladen...\" und nennst eine Kategorie und eine Sache dieser Kategorie. Z.B.: Obstsorten: Banane. Jeder Spieler nennt eine weitere passende Sache. Zögerst du für 5 Sekunden oder sagst du etwas was bereits genannt wurde: Trinken.",
+            "description": "Du sagst: \"Ein Schiff fährt in den Hafen und hat geladen...\" und nennst eine Kategorie und eine Sache dieser Kategorie. Z.B.: Obstsorten: Banane. Jeder Spieler nennt eine weitere passende Sache. Zögerst du für 5 Sekunden oder sagst du etwas, was bereits genannt wurde: Trinken.",
             "content": false,
             "category": "Everybody"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Bust a Rhyme",
+        "name": "Störe den Reim",
         "key": "f6935280_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Beginne einen Reim (oder nur ein Wort wenn du ein Langweiler bist). Jeder Spieler muss daraufhin den Reim fortführen. Trinke 2 Schlücke wenn du ein Wort wiederholst oder dir nichts mehr einfällt. Wörter die gleich lauten, aber eine andere Bedeutung haben sind ok.",
+            "description": "Beginne einen Reim (oder nur ein Wort, wenn du ein Langweiler bist). Jeder Spieler muss daraufhin den Reim fortführen. Trinke 2 Schlücke, wenn du ein Wort wiederholst oder dir nichts mehr einfällt. Wörter die gleich lauten, aber eine andere Bedeutung haben sind ok.",
             "content": false,
             "category": "Everybody"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Never have I ever.",
+        "name": "Ich habe noch nie ...",
         "key": "f6937990_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Denke dir etwas aus, was du noch nie getan hast, aber wovon du denkst das deine Mitspieler es schon getan haben. Jeder der es bereits getan hat, muss trinken.",
+            "description": "Denke dir etwas aus, was du noch nie getan hast, aber wovon du denkst das deine Mitspieler es schon getan haben. Jeder, der es bereits getan hat, muss trinken.",
             "content": false,
             "category": "Power"
         }
@@ -932,47 +932,47 @@
         "key": "f693c7b0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Play starts clockwise around the group.  Each player says \"Fuzzy Duck\" until someone says \"Duzzy\".  Then play reverses and players have to say \"Ducky Fuzz\".  Play can be reversed again at any time when someone says \"Duzzy\".  Stuff it up and drink.",
+            "description": "Es geht im Uhrzeigersinn los. Jeder Spieler sagt \"Fuzzy Duck\" bis jemand \"Duzzy\" sagt. Dann ändert sich die Reihenfolge: \"Ducky Fuzz\".  Die Reihenfolge kann wieder umgekehrt werden, wenn \"Duzzy\" gesagt wird. Trinke!",
             "content": false,
             "category": "Everybody"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Beer goggles",
+        "name": "Bärenbrille",
         "key": "f693eec0_397f_11e8_a45b_25718a0c5009",
         "details": {
             "subgameType": "standard",
-            "description": "Forme eine Brille mit deinen Daumen und Zeigefingern. Gebe das Spiel nach Links oder Rechts weiter in dem du die entsprechende Hand anhebst und \"woop\" sagst. Du kannst es auch weitergeben in dem du beide Hände in die Richtung eines beliebigen Spielers neigst und \"woop woop\" sagst. Zögern ist nicht erlaubt! Scheiterst du, trinkst du!",
+            "description": "Forme eine Brille mit deinen Daumen und Zeigefingern. Gebe das Spiel nach Links oder Rechts weiter, indem du die entsprechende Hand anhebst und \"woop\" sagst. Du kannst es auch weitergeben in dem du beide Hände in die Richtung eines beliebigen Spielers neigst und \"woop woop\" sagst. Zögern ist nicht erlaubt! Scheiterst du, trinkst du!",
             "content": false,
             "category": "Everybody"
         }
     },      
     {  
         "objectType":"subgame",
-        "name":"High Noon",
+        "name":"Wilder Westen",
         "key":"f6898e80_397f_11e8_a45b_25718a0c5009",
         "details":{  
           "subgameType":"canvas",
-          "description":"Es ist High Noon. Du und dein Gegenüber steht euch in einem Duell gegenüber. Warte bis die Uhr 12 schlägt. Schießt du zu früh, trinkst du und versuchst es noch einmal. Wirst du erschossen trinke 3 Schlücke!",
+          "description":"Es ist High Noon. Du und dein Gegenüber steht euch in einem Duell gegenüber. Warte bis die Uhr 12 schlägt. Schießt du zu früh, trinkst du und versuchst es noch einmal. Wirst du erschossen, trinke 3 Schlücke!",
           "content":"high-noon",
           "category":"Battle"
         }
     },  
     {  
         "objectType":"subgame",
-        "name":"Chicken",
+        "name":"Feiges Hühnchen",
         "key":"4875ee99_4a2a_48d1_b074_408099efa0b1",
         "details":{  
           "subgameType":"canvas",
-          "description":"Zwei-Spieler Kampf zwischen dir und deinem Gegenüber. Rennt mit den Köpfen nach vorne aufeinander zu und findet heraus wer einen Rückzieher macht. 3 Schlücke an das feige Hühnchen und 6 für jeden falls ihr zusammenstoßt.",
+          "description":"Zwei-Spieler Kampf zwischen dir und deinem Gegenüber. Rennt mit den Köpfen nach vorne aufeinander zu und findet heraus, wer einen Rückzieher macht. 3 Schlücke an das feige Hühnchen und 6 für jedenfalls ihr zusammenstoßt.",
           "content":"chicken",
           "category":"Battle"
         }
     },
     {
         "objectType": "subgame",
-        "name": "Truth or Dare",
+        "name": "Wahrheit oder Pflicht",
         "key": "c18ad7c0_e27a_4dc2_8c80_661057c2054b",
         "details": {
             "subgameType": "truthOrDare",
