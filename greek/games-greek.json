@@ -1,11 +1,11 @@
 [  
     {  
         "objectType":"game",
-        "name":"All subgames",
+        "name":"Όλα τα υποπαιχνίδια",
         "key":"c7e8b6f0_15f8_11e8_b744_d5d3aedd70fd",
         "details":{  
             "gameType":"standard",
-            "description":"All available subgames are in play!",
+            "description":"Όλα τα διαθέσιμα υποπαιχνίδια είναι ενεργά!",
             "editable":false,
             "defaultGame":false,
             "subgames":[
@@ -101,11 +101,11 @@
     },    
     {  
         "objectType":"game",
-        "name":"Mobile subgames",
+        "name":"Υποπαιχνίδια για το κινητό",
         "key":"c33ea5a0_1752_11e8_aee9_f17646040cf8",
         "details":{  
             "gameType":"standard",
-            "description":"These subgames are like mini mobile computer games.",
+            "description":"Είναι σαν μικρά παιχνίδια για το κινητό.",
             "editable":false,
             "defaultGame":false,
             "subgames":[  
@@ -119,11 +119,11 @@
     },    
     {  
         "objectType":"game",
-        "name":"Purchased",
+        "name":"Αγορασμένα",
         "key":"b7323291_445f_41cb_9763_1ab18abbb95d",
         "details":{  
             "gameType":"standard",
-            "description":"All the subgames you've bought.",
+            "description":"Όλα τα υποπαιχνίδια που έχεις αγοράσει.",
             "editable":false,
             "defaultGame":false,
             "purchasedSubgames": true,
@@ -132,11 +132,11 @@
     },
     {  
         "objectType":"game",
-        "name":"Custom subgames",
+        "name":"Τα υποπαιχνίδια σου",
         "key":"d5a55ddc_6ef5_40de_8876_3fd4512d4a02",
         "details":{  
             "gameType":"standard",
-            "description":"These are all the custom subgames you've created.",
+            "description":"Όλα τα υποπαιχνίδια που έχεις δημιουργήσει.",
             "editable":false,
             "defaultGame":false,
             "customSubgames": true,
@@ -145,11 +145,11 @@
     },
     {  
         "objectType":"game",
-        "name":"Simple rules only",
+        "name":"Μόνο απλοί κανόνες",
         "key":"5de00964_c93c_4f42_a7c2_d2a14e4e8c5e",
         "details":{  
             "gameType":"standard",
-            "description":"Don't want to read complex rules? Choose this one.",
+            "description":"Δεν θες να διαβάζεις περίπλοκους κανόνες; Διάλεξε αυτό.",
             "editable":false,
             "defaultGame":true,
             "subgames":[
