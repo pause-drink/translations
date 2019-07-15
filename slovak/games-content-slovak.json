@@ -749,22 +749,22 @@
 	],
 	"multipleChoiceQuiz" : [
 		{
-			"question" : "Who was the second person to set foot on the moon?",
+			"question" : "Kto bol druhým človekom na povrchu mesiaca?",
 			"answer" : "Buzz Aldrin",
 			"dummys" : ["Alan Bean", "Neil Armstrong", "Pete Conrad"]
 		},
 		{
-			"question" : "Who was the second person to climb Mount Everest?",
+			"question" : "Kto vyšiel na Mount Everest ako druhý?",
 			"answer" : "Tenzing Norgay",
 			"dummys" : ["Edmund Hillary", "Jürg Marmet", "Ernst Schmied"]
 		},
 		{
-			"question" : "Who was the first person to reach the South Pole?",
+			"question" : "Kto bol prvým človekom na Južnom Póle?",
 			"answer" : "Roald Amundsen",
 			"dummys" : ["Robert Falcon Scott", "Sir Ernest Shackleton", "Nobu Shirase"]
 		},
 		{
-			"question" : "Which country won the first football/soccer world cup?",
+			"question" : "Ktorá krajina vyhrala celkom prvé futbalové majstrovstvá sveta?",
 			"answer" : "Uruguay",
 			"dummys" : ["Argentina", "Brazil", "England"]
 		}
@@ -772,177 +772,177 @@
 	"truthOrDare" : {
 		"truths" : [
 			{
-				"question" : "What would you do if you were the opposite sex for a month?",
+				"question" : "Čo by si robil(a), ak by si bol(a) v tele opačného pohlavia celý jeden mesiac?",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "What is the most expensive thing you have stolen?",
+				"question" : "Čo je tá najdrahšia vec, akú si ukradol/ukradla?",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "What is the most childish thing you still do?",
+				"question" : "Čo je tá najdetinskejšia vec, akú zvykneš robiť?",
 				"drinkValue" : 1
 			},
 			{
-				"question" : "Have you ever let someone take the blame for something you did?",
+				"question" : "Nechal(a) si niekedy niekoho prevziať vinu za niečo čo si spravil(a) ty?",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "What is the meanest you have been to someone that didn’t deserve it?",
+				"question" : "Akú najpodlejšiu vec si pravil(a) niekomu, kto si to nezaslúžil?",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "What is something that people think you would never do but you have?",
+				"question" : "Čo si ľudia myslia, že by si nikdy nespravil(a), a Ty si to spravil(a).",
 				"drinkValue" : 1
 			},
 			{
-				"question" : "What was the worst encounter you had with a police officer?",
+				"question" : "Čo najhoršie sa ti stalo pri styku s políciou?",
 				"drinkValue" : 1
 			},
 			{
-				"question" : "What is your deepest darkest fear?",
+				"question" : "Z čoho máš najväčší strach?",
 				"drinkValue" : 3
 			},
 			{
-				"question" : "Tell everyone about your first kiss.",
+				"question" : "Povedz všetkým o svojom prvom bozku.",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "Where is the strangest place you have peed?",
+				"question" : "Na akom najzvláštnejšom mieste si čúral(a)?",
 				"drinkValue" : 1
 			},
 			{
-				"question" : "Who is the sexiest person here?",
+				"question" : "Kto je z prítomných najviac sexy?",
 				"drinkValue" : 1
 			},
 			{
-				"question" : "What terrible thing have you done that you lied to cover up?",
+				"question" : "Akú hroznú vec si spravil(a), o ktorej si potom klamal(a)?",
 				"drinkValue" : 3
 			},
 			{
-				"question" : "Who have you loved but they didn’t love you back?",
+				"question" : "Koho si ľúbiľ(a) a on(a) to neopätoval(a)?",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "What is something that you have never told anyone?",
+				"question" : "Aké tajomstvo si ešte nikomu nikdy nepovedal(a)?",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "What is the most disgusting habit you have?",
+				"question" : "Aký nejnechutnejší zvyk máš?",
 				"drinkValue" : 1
 			},
 			{
-				"question" : "What is the most embarrassing thing you have put up on social media?",
+				"question" : "Čo je najtrápnejšia vec, ktorú si zdieľal(a) na sociálnych sieťach?",
 				"drinkValue" : 1
 			},
 			{
-				"question" : "What was the most awkward romantic encounter you have had?",
+				"question" : "Čo bol Tvoj najromantickejší úlet?",
 				"drinkValue" : 1
 			},
 			{
-				"question" : "What is the grossest thing you have had in your mouth?",
+				"question" : "Čo je najnechutnejšia vec, ktorú si mal(a) v ústach?",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "What is the biggest lie you have ever told?",
+				"question" : "Čo je najväčšia lož, akú si key povedal(a)?",
 				"drinkValue" : 3
 			},
 			{
-				"question" : "What is the most embarrassing photo you have on your phone?",
+				"question" : "Aká je najtrápnejšia fotka, ktorú máš na mobile?",
 				"drinkValue" : 3
 			},
 			{
-				"question" : "What is the weirdest thing you have done for a boyfriend or girlfriend?",
+				"question" : "Čo je najdivnejšia vec, ktorú si urobil(a) pre svojho priateľa/priateľku?",
 				"drinkValue" : 3
 			},
 			{
-				"question" : "When was the last time you picked your nose without a tissue?",
+				"question" : "Kedy si sa naposledy vŕtal(a) v nose bez vreckovky?",
 				"drinkValue" : 1
 			},
 			{
-				"question" : "Tell us your most embarrassing vomit story.",
+				"question" : "Porozprávaj najtrápnejši príbeh, keď si zvracal(a).",
 				"drinkValue" : 1
 			},
 			{
-				"question" : "Have you ever made out with someone here?",
+				"question" : "Už si sa niekedy bozkával(a) s niekým z prítomných?",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "What would you do if you were the opposite gender for a day?",
+				"question" : "Čo by si robil(a), ak by si na jeden deň bol(a) v tele opačného pohlavia?",
 				"drinkValue" : 1
 			}
 		],
 		"dares" : [
 			{
-				"question" : "Let the group pose you in an embarrassing position and take a picture.",
+				"question" : "Nechaj sa ostatnými napózovať a odfotiť v čo najtrápnejšej pozícii.",
 				"drinkValue" :2
 			},
 			{
-				"question" : "Curse like sailor for 20 seconds straight.",
+				"question" : "Nadávaj ako drevorubač po dobu 20 sekúnd.",
 				"drinkValue" : 1
 			},
 			{
-				"question" : "Do four cartwheels in row.",
+				"question" : "Urob štyri rýmske kolá za sebou.",
 				"drinkValue" : 3
 			},
 			{
-				"question" : "Lick the floor.",
+				"question" : "Oblízni podlahu.",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "Let the group give you a new hairstyle.",
+				"question" : "Nechaj si ostatnými vytvoriť nový účes.",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "Do the worm.",
+				"question" : "Urob červíka.",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "Get slapped on the face by the person of your choosing.",
+				"question" : "Nechaj si dať facku osobou tvojho výberu.",
 				"drinkValue" : 1
 			},
 			{
-				"question" : "Spin an imaginary hula hoop around your waist for 3 minutes while the game continues.",
+				"question" : "Toč imaginárnym hulahoop-om okolo svojho drieku najbližšie tri minúty. Hra pokračuje ďalej.",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "Make a funny face and keep making it for 2 minutes while the game continues.",
+				"question" : "Sprav vtipnú grimasu a udrž ju najbližšie dve minúty. Hra pokračuje ďalej.",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "Remove your socks with your teeth.",
+				"question" : "Vyzleč si ponožky zubami.",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "Howl like a wolf for 30 seconds.",
+				"question" : "Zavíjaj ako vlk najbližších 30 sekúnd.",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "Until your next turn, talk super loud, like nobody can hear you.",
+				"question" : "Do ďalšieho tvojho ťahu hovor tak nahlas, ako keby Ťa nikto iný nemohol počuť.",
 				"drinkValue" : 1
 			},
 			{
-				"question" : "Make out with your hand.",
+				"question" : "Vášnivo pobozkaj svoju ruku.",
 				"drinkValue" : 1
 			},
 			{
-				"question" : "Talk without closing your mouth until your next turn.",
+				"question" : "Do ďalšieho tvojho ťahu bez prestávky rozprávaj.",
 				"drinkValue" : 1
 			},
 			{
-				"question" : "Get into a debate with a wall.",
+				"question" : "Začni konverzáciu so stenou.",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "Call a random number and try to flirt with the person who picks up.",
+				"question" : "Zavolaj náhodné číslo a flirtuj s osobou, ktorá Ti to zvihne.",
 				"drinkValue" : 3
 			},
 			{
-				"question" : "Lick a doorknob.",
+				"question" : "Oblízni dverovú kľučku.",
 				"drinkValue" : 2
 			},
 			{
-				"question" : "Take a selfie with the toilet and post it online.",
+				"question" : "Sprav si selfie so záchodovou misou a postni ju online.",
 				"drinkValue" : 2
 			}
 		]
