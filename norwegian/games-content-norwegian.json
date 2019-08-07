@@ -532,8 +532,8 @@
 		"voks",
 		"lys",
 		"lyspære",
-		"platypus",
-		"music"			
+		"nebbdyr",
+		"musikk"			
 	],
 	"famousPeople" : [
 		"Justin Timberlake",
@@ -614,7 +614,7 @@
 		"Kylie Minogue"
 	],
 	"starSigns" : [
-		"Aries",
+		"Væren",
 		"Tyren",
 		"Tvillingen",
 		"Krepsen",
@@ -628,9 +628,9 @@
 		"Fiskene"
 	],
 	"guyJokes" : [
-		["What’s the fastest way to a man’s heart?", "Through his chest with a sharp knife."],
-		["Why shouldn’t you let a man’s mind wander?", "Because it’s way too little to be out all alone."],
-		["How are men like parking spaces?", "All the good ones are taken, and the ones leftover are disabled."],
+		["Hva er den raskeste veien til et manns hjerte?", "Gjennom brystet med en skarp kniv."],
+		["Hvorfor skal du ikke la en manns sinn vandre?", "Fordi det er altfor lite å være ute alene."],
+		["Hvordan er menn som parkeringsplasser?", "Alle de gode blir tatt, og de som er igjen er funksjonshemmet."],
 		["What’s the difference between a clitoris and a golf ball?", "A man will actually look for a golf ball."],
 		["What’s the best way to find a truly committed man?", "Visit the closest mental hospital."],
 		["What do you call a man who won’t go down on you?", "You don’t!"],
